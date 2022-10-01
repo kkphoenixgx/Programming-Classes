@@ -1,0 +1,12 @@
+{
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "defaultViewMode": "source",
+  "lineWrap": true,
+  "showLineNumber": true,
+  "tabSize": 2,
+  "legacyEditor": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
+}

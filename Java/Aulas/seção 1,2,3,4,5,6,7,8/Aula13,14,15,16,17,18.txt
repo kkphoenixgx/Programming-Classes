@@ -1,0 +1,114 @@
+mod 45, 46,47, 48 -                                                                          18/05/21
+
+while(condição){
+
+     comando
+
+}
+    O exercicio é muito fácil e para mim em especifico é só contar,
+ não vi dificuldade alguma.
+
+---------------------------------------------------------------------------------------------
+mod 50
+
+for
+
+     "for" é basicamente para quando já sabemos a quantidade de 
+repetições
+
+sintaxe = 
+
+for (inicio; condição; incremento){
+
+     comando 1
+     comando 2
+}
+
+   Perceba que for é ótimno para fazer uma contagem.
+   Então se você tiver a pergunta "Quantas vezes?" o for 
+deve te ajudar
+
+   No incremento, pode-se ser usado o como ++, -- para acrecentar
+ a variável.
+
+--------------------------------------------------------------------------------------------
+mod 51, 52
+
+- Faça enquanto do while:
+
+do {
+comando 1 e 2 
+} while (condição);
+
+--------------------------------------------------------------------------------------------
+mod 53
+
+Restrições para nomes de variáveis -
+
+- Não pode começar com digito, usa _
+-Não pode usar acentos 
+- Não pode ter espaço em branco
+Sugestão: Use nomes com significados.
+
+Use o Camel case "variavelName" para tudo menos as classes, nas
+ classes se utiliza o Camel case que começa com o uma letra 
+maiuscula "VariavelName"
+
+-----------------------------------------------------------------------------------------
+mod 54 
+
+Operadores bitwise -  Não são os lógicos, os lógicos tem 2
+
+& = Operação "E" bit a bit = comum os dois
+| = Operação "Ou" bit a bit = comum um dos dois
+^ = Operação "OU-exclusivo" bit a bit (Xor) = Dá negativo quando
+ VV
+
+Esses são usados para comparar bit a bit e dar um resultado em
+número, não em bit.
+
+-  Da para saber pela calculadora binário por conversão.
+
+-------------------------------------------------------------------------------------------
+mod 55-
+
+-Operações com strings
+
+funções =
+
+-Formatar: 
+toLowerCase() "Transformar para Maiusculo";
+toUpperCase() "Para maiusculo";
+trim() "Tirar os espaços";
+
+-Recortar:
+substring(inicio)  "você seleciona o ponto de inicio e de fim que 
+você quer que a string copie"
+
+substring(inicio, fim) "Igual o de cima mas com um limite"
+
+-Substituir:
+Replace(char, char) "substitui caracteres"
+Replace(string, string)
+
+-Buscar: 
+IndexOf
+LastindexOf
+
+-str.Split("x") "Recortar uma string com base em um separador x 
+e transforma elas em um vetor."
+
+Exemplos:
+
+   Para mudar uma string, você deve criar um novo espaço no disco
+para a  nova string ou alterar o valor da variável anterior com uma
+simples diferença de sintexe. Então para se ter essa variável,
+cria-se uma nova:
+
+string originalString =  "tudo minúsculo";
+string newString = originalString.toUpperCase();
+System.out.println(newString);
+==
+TUDO MINÚSCULO
+
+assim que aplica essas fuções pré-determinadas do JAVA

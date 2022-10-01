@@ -1,0 +1,100 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Javascript/Javascript vanilla\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Javascript/Typescript",
+      "color": {
+        "a": 1,
+        "rgb": 4607
+      }
+    },
+    {
+      "query": "path:\"Javascript/Npm e node\"",
+      "color": {
+        "a": 1,
+        "rgb": 4428800
+      }
+    },
+    {
+      "query": "path:Javascript/React",
+      "color": {
+        "a": 1,
+        "rgb": 65471
+      }
+    },
+    {
+      "query": "path:Javascript/electron",
+      "color": {
+        "a": 1,
+        "rgb": 11580160
+      }
+    },
+    {
+      "query": "path:\"- Dev. web\"",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
+      }
+    },
+    {
+      "query": "path:Bootcacmps",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"Project notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:C#",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:Shell",
+      "color": {
+        "a": 1,
+        "rgb": 6881392
+      }
+    },
+    {
+      "query": "path:Java",
+      "color": {
+        "a": 1,
+        "rgb": 14024747
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.047787637109625705,
+  "close": true
+}
