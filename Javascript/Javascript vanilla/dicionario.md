@@ -143,7 +143,7 @@ mas ela é geralmente usada como uma call back.
 ## Eventos
 
 * Para usar um evento no js é so usar o addEventListener(x), sendo x o evento que você quer escutar:
-* Para criar um evento, se cria event = new Event('event') e para despachar o evento , usa HtmlObject.dispatchEvent(event)
+* Para criar um evento, se cria **event = new Event('event')** e para despachar o evento , usa **HtmlObject.dispatchEvent(event)**
 
 * **keyup** = quando você solta a tecla do teclado
 * **keypress** = quando a tecla está pressionada

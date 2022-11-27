@@ -35,7 +35,7 @@ Como percebemos, saber a quantidade de pixels para cada dispositivo, em média, 
 
 ~~~css
 /* Smartphones (portrait) */
-@media only screen and (max-width: 320px) { /* Styles */ } 
+@media only screen and (max-width: 320px) and (max-device-width: 767px) { /* Styles */ } 
 /* iPads (portrait and landscape) */
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) { /* Styles */ }
 /* Desktops and laptops */
@@ -46,5 +46,7 @@ Como percebemos, saber a quantidade de pixels para cada dispositivo, em média, 
 ## Bibliografia
 
 Módulo 48
+
+
 
 

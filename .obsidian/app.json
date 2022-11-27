@@ -3,10 +3,14 @@
   "strictLineBreaks": true,
   "defaultViewMode": "source",
   "lineWrap": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "tabSize": 2,
   "legacyEditor": false,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "showIndentGuide": false,
+  "showInlineTitle": false
 }

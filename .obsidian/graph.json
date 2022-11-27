@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Javascript/Javascript vanilla\"",
+      "query": "path:Javascript/three.js",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 16753152
       }
     },
     {
@@ -40,6 +40,20 @@
       "color": {
         "a": 1,
         "rgb": 11580160
+      }
+    },
+    {
+      "query": "path:Javascript/Angular",
+      "color": {
+        "a": 1,
+        "rgb": 16749716
+      }
+    },
+    {
+      "query": "path:\"Javascript/Javascript vanilla\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     },
     {
@@ -95,6 +109,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.047787637109625705,
+  "scale": 0.09392927902847352,
   "close": true
 }

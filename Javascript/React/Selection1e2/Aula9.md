@@ -2,7 +2,7 @@
 
 Mod 18 -- **22/03/22**
 
-Componente = é uma classe com um render() que retorna jsx ou uma função que retorna jsx
+Componente = é uma **classe com um render()** que retorna jsx ou uma função que retorna jsx
 
 Componentizar = criar componentes para dividir tarefas
 

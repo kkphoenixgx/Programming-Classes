@@ -1,9 +1,19 @@
-# Lifecycle methods parte 2
+# Aula 8
 
-mod 17 - **15/03/22**
+## mod 20 - 25/10/22:  Lifecycle methods parte 2
 
-* Data fetching = pegar dados de outro lugar
 
+
+![[../img/Pasted image 20221025195903.png]]
+
+
+
+Existem 3 coisas que fazem a página atualizar, como podemos ver na imagem, a ultilização do método **forceUpdate()**, quando **criamos novas props** e quando usamos um **setState()** com o novo estado.
+
+
+## mod 21 - **15/03/22**
+
+* **Data fetching** = pegar dados de outro lugar
 * Tem um site muito interessante, que é o json placeholder que ele dá dados para você testar seus componentes sem as APIS
 
 Então para fazermos um data fetching, nesse caso vamos usar a fath API do js mesmo e vamos fazer isso num método separado já que temos que manter clean code. Mas o mais importante de tirar desse esse exemplo, é que estamos usando o método de LifeCycle **ComponentDidMount()** que é quando o componente for renderizado, como explicado na última aula.
@@ -18,7 +28,7 @@ class App extends Component {
  constructor(){
 
      this.state = {
-        posts = []
+        posts: []
      }
 
  }
@@ -26,48 +36,45 @@ class App extends Component {
  componentDidMount(){
     this.loadPosts();
  }
+	
+	loadPosts = async ()=> {
+	
+	    const postResponse = fetch('http://jsonplaceholder.typicode.com/posts')
+	    const photosResponse = fetch('http://jsonplaceholder.typicode.com/photos')
+	
+	    const [posts, photos] = await Promise.all([postResponse, photosResponse]);
+	    
+	    const postsJson = await posts.json();
+	    const photosJson = await photos.json();
+	
+	    const postsAndPhotos = postsJson.map( (post, index)=> {
+	        return {...photos, cover: photosJson[index].url}
+	    })
+	
+	    this.setState( { posts: postsAndPhotos } );
+	}
+
+	render(){
+			const {posts} = this.state;
+
+			return (
 
 
-loadPosts = async ()=> {
+					<section className='container'>
+							<div className='posts'>
+									{posts.map(  (post) => (
+											<img src={post.cover} alt={post.title}/>
 
-    const postResponse = fetch('http://jsonplaceholder.typicode.com/posts')
-    const photosResponse = fetch('http://jsonplaceholder.typicode.com/photos')
+											<div key={post.id} className = 'post-content'>
+													<h1> {post.title} </h1> 
+													<p> {post.text} </p>
+											</div>
+									))}
+							</div>
+					</section>
 
-    const [posts, photos] = await Promise.all([postResponse, photosResponse]);
-    
-    const postsJson = await posts.json();
-    const photosJson = await photos.json();
-
-    const postsAndPhotos = postsJson.map( (post, index)=> {
-        return {...photos, cover: photosJson[index].url}
-    })
-
-    this.setState( { posts: postsAndPhotos } );
-}
-
-// ---- METHODS ----
-
-    render(){
-        const {posts} = this.state;
-
-        return (
-
-
-            <section className='container'>
-                <div className='posts'>
-                    {posts.map(  (post) => (
-                        <img src={post.cover} alt={post.title}/>
-
-                        <div key={post.id} className = 'post-content'>
-                            <h1> {post.title} </h1> 
-                            <p> {post.text} </p>
-                        </div>
-                    ))}
-                </div>
-            </section>
-
-        )
-    }
+			)
+	}
 
 }
 ~~~
@@ -133,3 +140,11 @@ E na parte do css ele encina coisas básicas do css e de certa forma, coisas bem
 }
 
 ~~~
+
+## Bibliografia
+
+https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
+
+* json apis:
+	https://jsonplaceholder.typicode.com/
+

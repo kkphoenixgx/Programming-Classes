@@ -1,6 +1,6 @@
 # Componentes de classe com estado
 
-Mod 12 -- **22/02/22**
+Mod 14 -- **22/02/22**
 
 * Existe um construtor no react, com classes stateful que recebem props
 * Em desestruturação, em js puro, podemos encapsular em x uma variável x de um objeto y fazendo simplesmente let {x} = y, isso é a mesma coisa que x = y.x
@@ -15,8 +15,10 @@ No react, existem eventos sintéticos que facilitam muito a vida na hora de prog
 
 E como estamos citando um stateful component, estamos falando de um componente que tem classe, então o mais comum, é que você crie um método e chamar o método na classe.
 
+* Tanto no js quanto no react, utilizamos super quando queremos nos referênciar as props do elemeno pai. Portanto, **o super(props) carrega os elementos do Component**
+
 ~~~jsx
-class App extends component{
+class App extends Component{
 
     constructor(){
         this.logEvent = this.logEvent.bind(this)
@@ -145,5 +147,12 @@ class App extends Component{
     }
 }
 ~~~
+
+## Bibliografia
+
+https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/learn/lecture/24887494#overview
+
+* Props
+https://overreacted.io/pt-br/why-do-we-write-super-props/#:~:text=No%20JavaScript%2C%20o%20super%20refere,tenha%20chamado%20o%20construtor%20pai
 
 ## Mapa mental

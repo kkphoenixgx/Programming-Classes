@@ -16,7 +16,7 @@ deixar bem pesado. E para não ficar tão pesado, é bom
 usar os eventos do js para conseguir diminuir o que precisa
 carregar.
 No js tem uma função muito utilizada, chamada de 
-document.querySelector(#x) sendo #x o id do que você quer 
+document.querySelector(#x) sendo x o id do que você quer 
 pegar
 
 Em qualquer projeto é bom lembrar que ele precisa iniciar

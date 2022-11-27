@@ -1,4 +1,7 @@
 {
   "cssTheme": "LYT Mode",
-  "baseFontSize": 14
+  "baseFontSize": 15,
+  "translucency": false,
+  "accentColor": "",
+  "showViewHeader": true
 }

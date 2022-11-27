@@ -1,11 +1,12 @@
-# Módulos  6 e 7
+# Aula2
+1/01/22
 
-Mod 6 -- **11/01/22**
+## Mod 6 --
 
 * **npx create-react-app (projectName)** = cria um projeto react numa pasta com o nome do seu projeto
   * caso você coloque sem nome, vai gerar na pasta que você está no terminal
 
-Mod 7 --
+## Mod 7 --
 
 Ele deu umas simples dicas de npm, como que existem alguns script dp package.json que podem ser feitos só com npm e o nome do script mas nno geral vamos usar **npm run nomeDoScript** para rodar aqueles scripts já prontos
 
@@ -61,7 +62,7 @@ function App() {
 export default App;
 ~~~
 
-Então acompanha comigo, temos um index que puxa e roda via tsx a function do arquivo js e a function do arquivo js, na função, retorna um (); com html, ou seja, em js pelo que eu sei, o (); que faz executar algo, então faz sentido sintático rodar qualquer coisa, então creio que seja por isso os (), então executa pelo () um html, cara isso é no mínimo genial.
+Então acompanha comigo, temos um index que puxa e roda via jsx a function do arquivo js e a function do arquivo js, na função, retorna um (); com html, ou seja, em js pelo que eu sei, o (); que faz executar algo, então faz sentido sintático rodar qualquer coisa, então creio que seja por isso os (), então executa pelo () um html, cara isso é no mínimo genial.
 
 ![Mindblowing](https://c.tenor.com/tvFWFDXRrmMAAAAd/blow-mind-mind-blown.gif)
 
