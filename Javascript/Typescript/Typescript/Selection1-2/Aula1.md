@@ -15,6 +15,8 @@ Tô usando também o tabnine como extensão então tô mudando aqui meu modo de 
 
 >tsc nomeDoAquivo.Extension
 
+> **tsc --watch** → procura auterações no arquivo todo
+
 Dessa forma, podemos transformar um **arquivo ts em js e roda-lo com node**.  Além dessa forma, podemos usar o tsc nomeDoAquivo.Extension --watch para fazer as atualizações automaticmante.
 
 * O typescript **pode ser recompilado para versões mais simples sem o ES6** automaticamente mesmo com o código fonte usando o ES6, então ele não vai compilar com o tsc exatamente igual ao código, quando compilado não vai ter nenhum recurso do ES6, como o const e o let.

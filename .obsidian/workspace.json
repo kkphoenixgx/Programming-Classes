@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Typescript/Typescript/Selection1-2/Aula1.md",
+                "file": "Javascript/Typescript/Typescript/Selection5/Aula22.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Javascript/Typescript/Typescript/Selection1-2/Aula1.md",
+                "file": "Javascript/Typescript/Typescript/Selection5/Aula22.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Typescript/Typescript/Selection1-2/Aula1.md"
+                "file": "Javascript/Typescript/Typescript/Selection5/Aula22.md"
               }
             }
           },
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Typescript/Typescript/Selection1-2/Aula1.md",
+                "file": "Javascript/Typescript/Typescript/Selection5/Aula22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Typescript/Typescript/Selection1-2/Aula1.md",
+                "file": "Javascript/Typescript/Typescript/Selection5/Aula22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,6 +294,7 @@
   },
   "active": "3e7764b15c715488",
   "lastOpenFiles": [
+    "Javascript/Typescript/Typescript/Selection1-2/Aula1.md",
     "Javascript/Typescript/Typescript/Selection2/Aula2.md",
     "Javascript/Typescript/Typescript/Selection2/Aula3.md",
     "Javascript/Typescript/Typescript/Selection2/Aula5.md",
@@ -302,7 +303,6 @@
     "Javascript/Typescript/Typescript/Selection2/Aula4.md",
     "Javascript/Typescript/Typescript/Selection2/Types/Aula8.md",
     "Javascript/Typescript/Typescript/Selection2/Types/Aula7.md",
-    "Javascript/Typescript/Typescript/Selection2/Types/Aula6.md",
-    "Javascript/Typescript/Typescript/Selection1-2/Aula1.md"
+    "Javascript/Typescript/Typescript/Selection2/Types/Aula6.md"
   ]
 }
