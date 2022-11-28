@@ -9,5 +9,6 @@
   "templater-obsidian",
   "table-editor-obsidian",
   "sliding-panes-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-git"
 ]
