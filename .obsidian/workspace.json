@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Typescript/Typescript/Selection5/Aula22.md",
+                "file": "Javascript/Typescript/Typescript/Selection1-2/Aula1.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Javascript/Typescript/Typescript/Selection5/Aula22.md",
+                "file": "Javascript/Typescript/Typescript/Selection1-2/Aula1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Typescript/Typescript/Selection5/Aula22.md"
+                "file": "Javascript/Typescript/Typescript/Selection1-2/Aula1.md"
               }
             }
           },
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Typescript/Typescript/Selection5/Aula22.md",
+                "file": "Javascript/Typescript/Typescript/Selection1-2/Aula1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Typescript/Typescript/Selection5/Aula22.md",
+                "file": "Javascript/Typescript/Typescript/Selection1-2/Aula1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,15 +294,15 @@
   },
   "active": "3e7764b15c715488",
   "lastOpenFiles": [
-    "Javascript/Angular/Section 2/Aula2.md",
-    "Javascript/Angular/Section 2/Aula 1.md",
-    "DevWeb/Aulas/Sessão7/Aula 23.md",
-    "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula2.md",
-    "DevWeb/Index.md",
-    "Javascript/Angular/index Angular.md",
-    "DevWeb/Aulas/Sessão5/Aula22.md",
-    "Javascript/React/Selection1e2/Aula8.md",
-    "Javascript/React/Selection1e2/Aula7.md",
-    "Javascript/React/Selection1e2/Aula6.md"
+    "Javascript/Typescript/Typescript/Selection2/Aula2.md",
+    "Javascript/Typescript/Typescript/Selection2/Aula3.md",
+    "Javascript/Typescript/Typescript/Selection2/Aula5.md",
+    "Javascript/Typescript/Typescript/Selection5/Aula20.md",
+    "Javascript/Typescript/Typescript/Selection2/Aula13.md",
+    "Javascript/Typescript/Typescript/Selection2/Aula4.md",
+    "Javascript/Typescript/Typescript/Selection2/Types/Aula8.md",
+    "Javascript/Typescript/Typescript/Selection2/Types/Aula7.md",
+    "Javascript/Typescript/Typescript/Selection2/Types/Aula6.md",
+    "Javascript/Typescript/Typescript/Selection1-2/Aula1.md"
   ]
 }
