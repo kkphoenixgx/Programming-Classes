@@ -2,7 +2,7 @@
 
 ## Variáveis
 
-* ### Declaração de variáveis
+### Declaração de variáveis
 
   let = só funciona no escopo
   const = variável não mutável
@@ -11,7 +11,7 @@
   declaração:
   > declaração  nome = x
 
-### Strings
+### Métodos de string
 
 * **split('x')** = com essa função, dá pára criar um array com os itens de uma string de definindo x, sendo x o caractere que você você quer usar para separar, como um espaço entre 1 2 3 4 5, usando um split(' ') eu criaria um item de array para cada número;
 
@@ -30,13 +30,10 @@
 ## Arrays
 
 * **x.length** = para saber a quantidade de itens do array, x[y], sendo y o array que você quer, COMEÇA COM 0 e pode usar expressões numéricas.
-
 * **x.push**() = adiciona algo a um array
-
 * **x.pop**() = tira esse item x do array
-
 * **x.splice**(index, quantidade) =  No splice, você fala qual item  do array que vc quer tirar com o index e a quantidade de itens contando dele que você quer tirar. exemplo para tirar um item splice(0, 1), vai tirar o item 0 do array e se fosse quantidade = 2, iria tirar o 0 e o 1
-
+* **x.join(y)** =  
 * **x.reduce( (previousValue,  newvalue)=>{}, initialValue )** = Com o reduce, ele faz uma operação com todos os itens de um array, começando do initialValue que recebe a posição do array
 
 ## Fors
