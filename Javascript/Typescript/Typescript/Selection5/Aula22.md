@@ -40,47 +40,56 @@ console.log( myHome.toString() )
 ~~~ts
 class Home{
 
-	protected sala: string
-	protected quarto :string
+    protected sala: string
+    protected quarto :string
+    public corDaCasa :string
 
-	public corDaCasa :string
+    constructor(sala :string, corDaCasa :string, quarto :string = ''){
 
-	constructor(sala :sting, corDaCasa :string, quarto :string = ''){
-		this.sala = sala
-		this.quarto = quarto;
-	}
+        this.sala = sala
+        this.quarto = quarto;
+        this.corDaCasa = corDaCasa;
 
-	protected descreverInteriorDaCasa() :string{
-		return `Descrição da casa: ${this.sala, this.quarto}`
-	}
+    }
 
-	public descreverInteriorDaCasa() :string{
-		return `Descrição da casa: ${this.corDaCasa}`
-	}
+    protected descreverInteriorDaCasa() :string{
+        return `Descrição da casa: ${this.sala, this.quarto}`
+    }
+
+    public descreverExteriorDaCasa() :string{
+        return `Descrição da casa: ${this.corDaCasa}`
+    }
+
 }
+
+  
 
 class Apartamento extends Home{
 
-	private emCasa :bool
+    private emCasa :boolean
 
-	constructor(emCasa :bool){
-		super();
+    constructor(sala :string, corDaCasa :string, emCasa :boolean, quarto :string = ''){
+        super(sala, corDaCasa, quarto);
+        this.emCasa = emCasa
+    }
 
-		this.emCasa = emCasa
-	}
+    public AtenderInterfone(mensagem :string) :void{
 
-	public AtenderInterfone(mensagem :string) :string{
-		if(this.emCasa === true){
-			console.log('Alo?')
-			console.log(mensagem)
-		}else console.log('não tem gente casa')
-	}
+        if(this.emCasa === true){
+            console.log('Alo?')
+            console.log(mensagem)
+        }else console.log('não tem gente casa')
+    }
 }
 
-function tocarInterfone(apartamento :Apartamento, mensagem){
+  
 
-	apartamento.AtenderInterfone(mensagem)
+function tocarInterfone(apartamento :Apartamento, mensagem :string){
+    apartamento.AtenderInterfone(mensagem)
 }
+
+let apartamentoDoKk = new Apartamento('sala simples', 'azul', false, 'quarto simples')
+tocarInterfone(apartamentoDoKk, `Opa, baum?`)
 
 ~~~
 

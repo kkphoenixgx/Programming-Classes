@@ -13,10 +13,34 @@ Para setar variáveis de hambiente com o build, mais especificamente, para dar d
 ## - Mod  10 - : Componentes
 
 ~~~ts
-// A linha abaixo Pega o Component do Angular, no npm 
-import { Component } from '@angular/core'
+// Arquivo: app.component.ts
+// Importando a API de componente do Angular
+import { Component } from '@angular/core';
 
-@Componet
+//Connfigrando o componente:
+@Component({
+	//Onde vai entrar o que for criado no Angular em seletor css, o html object.
+  selector: 'app-root',
+  // O html que não a div root, o template de html contando com o head e etc...
+  templateUrl: './app.component.html',
+  // Onde fica o styles.
+  styleUrls: ['./app.component.scss']
+})
+
+/*
+  Ele entende as configurações de componente
+acima e automaticamente já faz o componente
+abaixo ter as propriedades acima 
+*/
+export class AppComponent {
+  title = 'first-app';
+}
+~~~
+
+~~~ts
+//Arquivo: app.component.html
+
+deixa só o <router-outlet></router-outlet>
 
 ~~~
 
