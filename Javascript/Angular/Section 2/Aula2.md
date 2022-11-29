@@ -33,8 +33,9 @@ acima e automaticamente já faz o componente
 abaixo ter as propriedades acima 
 */
 export class AppComponent {
-  // Editável, o tittle se refere ao tittle de app.component.html
-  title = 'first-app';
+  /* Editável, uma classe ts que é exportável para o 
+  app.component.html via interpolation */
+  public title = 'first-app';
 }
 ~~~
 
@@ -45,7 +46,15 @@ export class AppComponent {
 // deixa só isso nesse arquivo, essa div analiza as rotas
 <router-outlet></router-outlet>
 
+/*
+ Pelo interpolation "{ {x} }", sendo x uma variável
+ podemos recuperar dados do app.component.ts
+*/
+<h1>{ {title} }</h1>
+
 ~~~
+
+No angular, podemos criar componentes ou outros via **ng generate x** sendo x o que você quer gerar; Exemplo ng generate component ou **ng g c componentName** sendo componentName também o nome da pasta do componente, me lembra um pouco os packages do java
 
 -----------------------------------------------
 
