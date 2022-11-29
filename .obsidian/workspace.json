@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Javascript vanilla/dicionario.md",
+                "file": "Javascript/Angular/Section 2/Aula2.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Javascript/Javascript vanilla/dicionario.md",
+                "file": "Javascript/Angular/Section 2/Aula2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Javascript vanilla/dicionario.md"
+                "file": "Javascript/Angular/Section 2/Aula2.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Javascript vanilla/dicionario.md",
+                "file": "Javascript/Angular/Section 2/Aula2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Javascript vanilla/dicionario.md",
+                "file": "Javascript/Angular/Section 2/Aula2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,6 +281,7 @@
   },
   "active": "28dbbf577f530c33",
   "lastOpenFiles": [
+    "Javascript/Javascript vanilla/dicionario.md",
     "Javascript/Angular/Section 2/Aula2.md",
     "Javascript/Typescript/Typescript/Selection5/Aula22.md",
     "Javascript/Typescript/Typescript/Selection1-2/Aula1.md",
@@ -289,7 +290,6 @@
     "Javascript/Typescript/Typescript/Selection2/Aula5.md",
     "Javascript/Typescript/Typescript/Selection5/Aula20.md",
     "Javascript/Typescript/Typescript/Selection2/Aula13.md",
-    "Javascript/Typescript/Typescript/Selection2/Aula4.md",
-    "Javascript/Typescript/Typescript/Selection2/Types/Aula8.md"
+    "Javascript/Typescript/Typescript/Selection2/Aula4.md"
   ]
 }

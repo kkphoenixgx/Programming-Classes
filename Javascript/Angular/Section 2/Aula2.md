@@ -21,7 +21,7 @@ import { Component } from '@angular/core';
 @Component({
 	//Onde vai entrar o que for criado no Angular em seletor css, o html object.
   selector: 'app-root',
-  // O html que não a div root, o template de html contando com o head e etc...
+  // O html que vai na div root
   templateUrl: './app.component.html',
   // Onde fica o styles.
   styleUrls: ['./app.component.scss']
@@ -33,14 +33,17 @@ acima e automaticamente já faz o componente
 abaixo ter as propriedades acima 
 */
 export class AppComponent {
+  // Editável, o tittle se refere ao tittle de app.component.html
   title = 'first-app';
 }
 ~~~
 
 ~~~ts
 //Arquivo: app.component.html
+// Esse arquivo é o html que vai dentro da div root
 
-deixa só o <router-outlet></router-outlet>
+// deixa só isso nesse arquivo, essa div analiza as rotas
+<router-outlet></router-outlet>
 
 ~~~
 
