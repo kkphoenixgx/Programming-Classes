@@ -520,6 +520,8 @@ exemplos :
     .add('x') = adiciona a classe x.
     .remove('x') = remove a classe x.
     .toggle('x') se tiver vai tirar e se não tiver, vai colocar.
+* **object.keys** =  retorna um array com todos os atributos e metodos de um objeto
+	> Returns the names of the enumerable string properties and methods of an object
 
 ## JSON
 

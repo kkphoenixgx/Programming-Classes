@@ -11,8 +11,12 @@
             "id": "9a8d816a57a6d37d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript vanilla/dicionario.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Javascript/Javascript vanilla/dicionario.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Javascript/Javascript vanilla/dicionario.md"
+              }
             }
           },
           {
@@ -234,6 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Javascript/Javascript vanilla/dicionario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,6 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Javascript/Javascript vanilla/dicionario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
