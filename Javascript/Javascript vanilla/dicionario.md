@@ -576,3 +576,10 @@ exemplos :
   * **JSON.stringify(x, ...)** = Isso transforma um json em um json, só que todo em texto, esse é o principal motivo de um json ser tão incrível, isso torna os dados muito moldáveis.
   
   * **JSON.parse(x)** = O JSON.parse transforma um objeto stringficado em um objeto json novamente
+
+## Pulos do gato
+
+* **Transformar texto para camelCase**: 
+	~~~js
+	text.replace(/-(\w)/g, (m, p1) => p1.toUpperCase())
+	~~~
