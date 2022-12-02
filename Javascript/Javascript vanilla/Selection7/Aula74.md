@@ -10,6 +10,8 @@ Esse simples método de uma linha transforma textos em padrão camelCase, então
 text.replace(/-(\w)/g, (m, p1) => p1.toUpperCase())
 ~~~
 
+functions anonimas permitem o uso de this para o elemento que está chamando a função.
+
 -----------------------------------------------
 ## Bibliografia
 
