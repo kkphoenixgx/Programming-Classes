@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8b8a6c420740440a",
+        "id": "5bc5e357784b0437",
         "type": "tabs",
         "children": [
           {
-            "id": "28dbbf577f530c33",
+            "id": "9a8d816a57a6d37d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Angular/Section 2/Aula2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +92,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Javascript/Angular/Section 2/Aula2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,9 +203,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Javascript/Angular/Section 2/Aula2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -241,7 +234,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Angular/Section 2/Aula2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +245,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Angular/Section 2/Aula2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,10 +270,10 @@
     "direction": "horizontal",
     "width": 237.5
   },
-  "active": "28dbbf577f530c33",
+  "active": "9a8d816a57a6d37d",
   "lastOpenFiles": [
-    "Javascript/Javascript vanilla/dicionario.md",
     "Javascript/Angular/Section 2/Aula2.md",
+    "Javascript/Javascript vanilla/dicionario.md",
     "Javascript/Typescript/Typescript/Selection5/Aula22.md",
     "Javascript/Typescript/Typescript/Selection1-2/Aula1.md",
     "Javascript/Typescript/Typescript/Selection2/Aula2.md",
