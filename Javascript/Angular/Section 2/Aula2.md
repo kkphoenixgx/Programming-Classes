@@ -56,6 +56,9 @@ export class AppComponent {
 
 No angular, podemos criar componentes ou outros via **ng generate x** sendo x o que você quer gerar; Exemplo ng generate component ou **ng g c componentName** sendo componentName também o nome da pasta do componente, me lembra um pouco os packages do java
 
+--22/12/05--
+Ao gerar um componente novo, persebe-se um método importado do angular que usa o **ngOnInit()**, que faz parte do ciclo de vida do angular, me lembra os lifecycle methods do react, ele executa algo assim que o componente é montado. 
+
 -----------------------------------------------
 
 * 1 - Ambiente de Homologação
