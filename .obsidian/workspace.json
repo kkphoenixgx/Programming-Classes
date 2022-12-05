@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "282fffb48df715d4",
+        "id": "e6c848e23225e4aa",
         "type": "tabs",
         "children": [
           {
-            "id": "f66d8454566b63eb",
+            "id": "e26de6fb24d07ed7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Javascript vanilla/Selection7/Aula74.md",
+                "file": "Javascript/Angular/Section 2/Aula2.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Javascript/Javascript vanilla/Selection7/Aula74.md",
+                "file": "Javascript/Angular/Section 2/Aula2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Javascript vanilla/Selection7/Aula74.md"
+                "file": "Javascript/Angular/Section 2/Aula2.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Javascript vanilla/Selection7/Aula74.md",
+                "file": "Javascript/Angular/Section 2/Aula2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Javascript vanilla/Selection7/Aula74.md",
+                "file": "Javascript/Angular/Section 2/Aula2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,8 +279,9 @@
     "direction": "horizontal",
     "width": 237.5
   },
-  "active": "f66d8454566b63eb",
+  "active": "e26de6fb24d07ed7",
   "lastOpenFiles": [
+    "Javascript/Javascript vanilla/Selection7/Aula74.md",
     "Javascript/Javascript vanilla/dicionario.md",
     "Javascript/Angular/Section 2/Aula2.md",
     "Javascript/Typescript/Typescript/Selection5/Aula22.md",
@@ -289,7 +290,6 @@
     "Javascript/Typescript/Typescript/Selection2/Aula3.md",
     "Javascript/Typescript/Typescript/Selection2/Aula5.md",
     "Javascript/Typescript/Typescript/Selection5/Aula20.md",
-    "Javascript/Typescript/Typescript/Selection2/Aula13.md",
-    "Javascript/Typescript/Typescript/Selection2/Aula4.md"
+    "Javascript/Typescript/Typescript/Selection2/Aula13.md"
   ]
 }
