@@ -59,6 +59,26 @@ No angular, podemos criar componentes ou outros via **ng generate x** sendo x o 
 --22/12/05--
 Ao gerar um componente novo, persebe-se um método importado do angular que usa o **ngOnInit()**, que faz parte do ciclo de vida do angular, me lembra os lifecycle methods do react, ele executa algo assim que o componente é montado. 
 
+E para chamar o componente (existem outras formas mais organizadas e talvez melhores) pode-se simplesmente chamar uma div com o selector do do componente no arquivo "app.component.ts" desse componente. Esse processo funciona porque você automaticamente tá adicionando o componente no declarations do app.module
+
+~~~ts
+// Arquivo: app.module.ts
+@NgModule({
+	declarations: [
+		AppComponent ,
+		// EXEMPLO DE COMPONENTE ABAIXO:
+		TitleComponent
+	],
+	imports:[
+		BrowserModute,
+		AppRoutingModute
+	],
+	providers: [],
+	bootstrap: [AppComponent]
+})
+export class AppModule { }
+~~~~ 
+
 -----------------------------------------------
 
 * 1 - Ambiente de Homologação
