@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Javascript/Angular/Section 2/Aula2.md",
+                "file": "Javascript/Angular/Section 2/Aula3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -222,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Angular/Section 2/Aula2.md"
+                "file": "Javascript/Angular/Section 2/Aula3.md"
               }
             }
           },
@@ -254,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Angular/Section 2/Aula2.md",
+                "file": "Javascript/Angular/Section 2/Aula3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Angular/Section 2/Aula2.md",
+                "file": "Javascript/Angular/Section 2/Aula3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,8 +291,9 @@
     "direction": "horizontal",
     "width": 237.5
   },
-  "active": "c19b7430db766ac1",
+  "active": "db2ea77da51b6ada",
   "lastOpenFiles": [
+    "Javascript/Angular/Section 2/Aula 1.md",
     "Javascript/Angular/Section 2/Aula3.md",
     "Javascript/Angular/Section 2/Aula2.md",
     "Javascript/Javascript vanilla/Selection7/Aula74.md",
@@ -302,7 +302,6 @@
     "Javascript/Typescript/Typescript/Selection1-2/Aula1.md",
     "Javascript/Typescript/Typescript/Selection2/Aula2.md",
     "Javascript/Typescript/Typescript/Selection2/Aula3.md",
-    "Javascript/Typescript/Typescript/Selection2/Aula5.md",
-    "Javascript/Typescript/Typescript/Selection5/Aula20.md"
+    "Javascript/Typescript/Typescript/Selection2/Aula5.md"
   ]
 }
