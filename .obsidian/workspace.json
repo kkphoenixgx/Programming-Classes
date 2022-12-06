@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e6c848e23225e4aa",
+        "id": "d4b0e4e8c7c3af5f",
         "type": "tabs",
         "children": [
           {
-            "id": "e26de6fb24d07ed7",
+            "id": "db2ea77da51b6ada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Angular/Section 2/Aula3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c19b7430db766ac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,17 +292,17 @@
     "direction": "horizontal",
     "width": 237.5
   },
-  "active": "e26de6fb24d07ed7",
+  "active": "c19b7430db766ac1",
   "lastOpenFiles": [
+    "Javascript/Angular/Section 2/Aula3.md",
+    "Javascript/Angular/Section 2/Aula2.md",
     "Javascript/Javascript vanilla/Selection7/Aula74.md",
     "Javascript/Javascript vanilla/dicionario.md",
-    "Javascript/Angular/Section 2/Aula2.md",
     "Javascript/Typescript/Typescript/Selection5/Aula22.md",
     "Javascript/Typescript/Typescript/Selection1-2/Aula1.md",
     "Javascript/Typescript/Typescript/Selection2/Aula2.md",
     "Javascript/Typescript/Typescript/Selection2/Aula3.md",
     "Javascript/Typescript/Typescript/Selection2/Aula5.md",
-    "Javascript/Typescript/Typescript/Selection5/Aula20.md",
-    "Javascript/Typescript/Typescript/Selection2/Aula13.md"
+    "Javascript/Typescript/Typescript/Selection5/Aula20.md"
   ]
 }
