@@ -70,9 +70,39 @@ import { Component, OnChanges } from '@angular/core';
 export class AppComponent implements OnChanges {}
 ~~~
 
-Os decorators são as estruturas com @, são nativas do angualat e são utilizadas simplesmente amo usar @decoratorName na frente de uma variável
+Os decorators são as estruturas com @, são nativas do angualar e são utilizadas simplesmente ao usar @decoratorName na frente de uma variável. Dessa forma, a variável se torna um valor para o decorator. Um exemplo, um @Input transforma uma variável em um valor de um elemento html ou de uma propriedade:
 
+~~~ts
+@Component({
+  selector: 'app-root',
+  template: `
+    <router-outlet></router-outlet>  
+ // Perceba o title bom dia
+    <app-texting-input title="Bom dia" ></app-texting-input>
+  `
+})
+~~~
 
+Ao definir o tittle do componente como bom dia, ele sobreescreve o tittle do componente abaixo:
+
+~~~ts
+@Component({
+  selector: 'app-texting-input',
+  templateUrl: './texting-input.component.html',
+  styleUrls: ['./texting-input.component.scss']
+})
+
+export class TextingInputComponent {
+  @Input() public tittle = 'Bem vindo'
+  @Input() public title = 'Bem vindo!'
+}
+~~~
+~~~html
+<h1>{{tittle}}</h1>
+<h2>{{title}}</h2>
+~~~
+
+Então o resultado será Bem vindo e Bom dia, agora se não tiver o title, ele entende que só possui um @Input e define o primeiro como Bom dia, o que só resultaria como bom dia. E o mais importante de  
 
 -----------------------------------------------
 ## Bibliografia
