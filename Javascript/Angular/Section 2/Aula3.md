@@ -70,7 +70,7 @@ import { Component, OnChanges } from '@angular/core';
 export class AppComponent implements OnChanges {}
 ~~~
 
-Os decorators são as estruturas com @, são nativas do angualar e são utilizadas simplesmente ao usar @decoratorName na frente de uma variável. Dessa forma, a variável se torna um valor para o decorator. Um exemplo, um @Input transforma uma variável em um valor de um elemento html ou de uma propriedade:
+Os **decorators são as estruturas com @,** são nativas do angualar e são utilizadas simplesmente ao usar @decoratorName na frente de uma variável. Dessa forma, a variável se torna um valor para o decorator. Um exemplo, um @Input transforma uma variável em um valor de um elemento html ou de uma propriedade:
 
 ~~~ts
 @Component({
@@ -102,7 +102,7 @@ export class TextingInputComponent {
 <h2>{{title}}</h2>
 ~~~
 
-Então o resultado será Bem vindo e Bom dia, agora se não tiver o title, ele entende que só possui um @Input e define o primeiro como Bom dia, o que só resultaria como bom dia. E o mais importante de  
+Então o resultado será Bem vindo e Bom dia, agora se não tiver o title, ele entende que só possui um @Input e define o primeiro como Bom dia, o que só resultaria como bom dia. E o mais importante de  tudo isso, o **ngOnChanges identifica quando um change acontece, ele também identifica os decorators**
 
 -----------------------------------------------
 ## Bibliografia

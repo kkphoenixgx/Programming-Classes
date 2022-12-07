@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d4b0e4e8c7c3af5f",
+        "id": "632aee5738483380",
         "type": "tabs",
         "children": [
           {
-            "id": "db2ea77da51b6ada",
+            "id": "8f1ccb3beb18f382",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Angular/Section 2/Aula3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c19b7430db766ac1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Angular/Section 2/Aula2.md",
+                "file": "Javascript/Angular/Section 2/Aula4.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Javascript/Angular/Section 2/Aula3.md",
+                "file": "Javascript/Angular/Section 2/Aula4.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Angular/Section 2/Aula3.md"
+                "file": "Javascript/Angular/Section 2/Aula4.md"
               }
             }
           },
@@ -253,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Angular/Section 2/Aula3.md",
+                "file": "Javascript/Angular/Section 2/Aula4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Angular/Section 2/Aula3.md",
+                "file": "Javascript/Angular/Section 2/Aula4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,17 +279,17 @@
     "direction": "horizontal",
     "width": 237.5
   },
-  "active": "db2ea77da51b6ada",
+  "active": "8f1ccb3beb18f382",
   "lastOpenFiles": [
-    "Javascript/Angular/Section 2/Aula 1.md",
+    "DevWeb/Aulas/Dicionário.md",
+    "Bootcamps/Bootcamp- Impulso/Aulas/Index.md",
+    "Javascript/Angular/Section 2/Aula4.md",
+    "Javascript/Typescript/DesignPatternsTypescript/Index design patterns.md",
     "Javascript/Angular/Section 2/Aula3.md",
     "Javascript/Angular/Section 2/Aula2.md",
+    "Javascript/Angular/Section 2/Aula 1.md",
     "Javascript/Javascript vanilla/Selection7/Aula74.md",
     "Javascript/Javascript vanilla/dicionario.md",
-    "Javascript/Typescript/Typescript/Selection5/Aula22.md",
-    "Javascript/Typescript/Typescript/Selection1-2/Aula1.md",
-    "Javascript/Typescript/Typescript/Selection2/Aula2.md",
-    "Javascript/Typescript/Typescript/Selection2/Aula3.md",
-    "Javascript/Typescript/Typescript/Selection2/Aula5.md"
+    "Javascript/Typescript/Typescript/Selection5/Aula22.md"
   ]
 }

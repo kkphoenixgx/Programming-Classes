@@ -4,7 +4,7 @@ Aqui vai ficar O index de todas as aulas e os assuntos principais em formato de 
 
 | Aula                        | Assunto                   | Função                          |
 | --------------------------- | ------------------------- | ------------------------------- |
-| [[../../Javascript vanilla/IndexJs]]                            |                           |                                 |
+| [[../Typescript/Index of typescript]]                            |                           |                                 |
 | [[DicionárioTsDsPtterns]]   |                           |                                 |
 | [Aula1](./Selection1/Aula1) | Criação de ambiente       | instalando ts                   |
 | [Aula2](./Selection2/Aula2) | Princípios de programação | Abstração e dry                 |
