@@ -7,6 +7,7 @@ tags: [[../index Angular]]
 O data binding nada mais é que uma forma de tratar dados. Formas de incorporar valores dinamicos nos modelos html
 
 * **O interpolation**: é o {{  }} para colocar na tela em html
+* **Propety binding**: É quando usamos [propety], colchetes em um elemnto html, dessa forma, podemos falar para o angular que o valor dessa propriedade é uma variável em html 
 
 -----------------------------------------------
 ## Bibliografia
