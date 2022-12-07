@@ -73,6 +73,7 @@ export class AppComponent implements OnChanges {}
 Os decorators são as estruturas com @, são nativas do angualat e são utilizadas simplesmente amo usar @decoratorName na frente de uma variável
 
 
+
 -----------------------------------------------
 ## Bibliografia
 
