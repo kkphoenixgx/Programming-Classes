@@ -13,6 +13,10 @@ O ngDoCheck dispara sempre que as propriedades de entrada de um componente são 
 
 ## - Mod  15 - : Lifecycle: ngOnDestroy
 
+* ngIf como propriedade do html serve para ocultar ou aparecer um componente se uma condição for true, só colocar como propriedade de um elemento '(asterístico)ngIf=''variable', se a variable for true ele deixa aparecendo e false deixa ocultado 
+
+* ngOnDestroy =  detecta quando um componente é destruído.
+
 -----------------------------------------------
 ## Bibliografia
 

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "632aee5738483380",
+        "id": "e3ff55a58fc3dca5",
         "type": "tabs",
         "children": [
           {
-            "id": "8f1ccb3beb18f382",
+            "id": "0febda265e49962f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Angular/Section 2/Aula4.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +92,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Javascript/Angular/Section 2/Aula4.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,9 +203,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Javascript/Angular/Section 2/Aula4.md"
-              }
+              "state": {}
             }
           },
           {
@@ -241,7 +234,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Angular/Section 2/Aula4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +245,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Angular/Section 2/Aula4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,11 +270,11 @@
     "direction": "horizontal",
     "width": 237.5
   },
-  "active": "8f1ccb3beb18f382",
+  "active": "0febda265e49962f",
   "lastOpenFiles": [
+    "Javascript/Angular/Section 2/Aula4.md",
     "DevWeb/Aulas/Dicionário.md",
     "Bootcamps/Bootcamp- Impulso/Aulas/Index.md",
-    "Javascript/Angular/Section 2/Aula4.md",
     "Javascript/Typescript/DesignPatternsTypescript/Index design patterns.md",
     "Javascript/Angular/Section 2/Aula3.md",
     "Javascript/Angular/Section 2/Aula2.md",
