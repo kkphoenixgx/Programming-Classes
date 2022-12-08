@@ -33,7 +33,10 @@ class Documento{
 }
 ~~~
 
-No typescript, caso o atributo seja privado, é impossível sobreescrever em uma classe filha, já no ecma, é possível
+No typescript, caso o atributo seja privado, **é impossível sobreescrever em uma classe filha no processo de codificação**, já no ecma, é possível. Outra coisa que pesa muito é que usando o private do ts, na hora de compilar o código, ele transforma as variáveis private em pública, vira uma variável comum quando é compilado, então os dois modos tem falhas, um com  a herança se for injetada e o outro na hora da compilação, o código final fica mais fraco.
+
+* Então qual usar?
+Depende do que você está codando, se for algo que precisa de uma segurança maior, defenda do inject de outras formas e se for algo mais simples o ts ajuda você em muitas coisas
 
 -----------------------------------------------
 ## Bibliografia
