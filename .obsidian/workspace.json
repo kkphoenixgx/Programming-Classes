@@ -11,8 +11,12 @@
             "id": "f88e6cbc0199951e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Typescript/Typescript/Selection5/Aula 23.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Javascript/Typescript/Typescript/Selection5/Aula 23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Javascript/Typescript/Typescript/Selection5/Aula 23.md"
+              }
             }
           },
           {
@@ -234,6 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Javascript/Typescript/Typescript/Selection5/Aula 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,6 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Javascript/Typescript/Typescript/Selection5/Aula 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
