@@ -34,7 +34,7 @@ Desse modo, se eu definir a o btnToogle como true, ele vai habilitar novamente o
 
 ## - Mod 19 - :  Event Binding
 
-
+O event binding nada mais é que qualquer evento em () que ativa uma função. Você pode fazer (onchange) = "fn" onChange podendo ser onclick ou qualquer outro evento
 
 -----------------------------------------------
 Lembrando que o módulo 21 foi feito na aula passada por que eu não em aguentei
