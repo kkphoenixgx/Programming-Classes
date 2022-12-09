@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4ffe143f11111999",
+        "id": "b576884e2d1e43e3",
         "type": "tabs",
         "children": [
           {
-            "id": "e9874946b8fe4367",
+            "id": "7c8d2c53bafa8294",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -280,8 +279,9 @@
     "direction": "horizontal",
     "width": 237.5
   },
-  "active": "73eb0faddc520d11",
+  "active": "7c8d2c53bafa8294",
   "lastOpenFiles": [
+    "Javascript/Angular/Section 3/Aula 6.md",
     "Javascript/Typescript/Typescript/Selection5/Aula 23.md",
     "Java/Aulas/Index.md",
     "Javascript/Javascript vanilla/IndexJs.md",
@@ -290,7 +290,6 @@
     "DevWeb/Index.md",
     "Javascript/Typescript/Typescript/Selection5/Aula22.md",
     "Javascript/Angular/Section 3/Aula 5.md",
-    "Javascript/Angular/Section 2/Aula3.md",
-    "Javascript/Angular/Section 2/Aula 1.md"
+    "Javascript/Angular/Section 2/Aula3.md"
   ]
 }
