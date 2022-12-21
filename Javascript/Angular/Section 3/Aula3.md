@@ -17,7 +17,7 @@ tags: [[../index Angular]]
  * As sintaxes com @ são decorators
 
 
-## - Mod 11 - Hack para organizar o app.componente :
+## - Mod 13 - Hack para organizar o app.componente :
 
 Para melhor **organizar os arquivos do workspace**, tem uma manha para não ficar com tantos arquivos
 
@@ -37,7 +37,7 @@ export class AppComponent {
 Usando essa configuração, não têm arquivo com router e podemos **apagar** os arquivos: **app.component.html, app.component.scss(scc...) e app.component.spec.ts.** todos esses arquivos têm sim funções mas é mais fácil se simplesmente colocar depois se preciso.
 Isso é possível pelo uso do **template ao invés do templateUrl**, porque o **template não aponta para um link** e sim para um template em string mesmo. Essa configuração vêm como default o **templateUrl** no caso de você já ter uma aplicação e usar o **angular somente em algumas partes do projeto**. Portanto, caso queira, é possível só *colocar os componentes em uma templateString*
 
-## - Mod 12 - Lifecycle: ngOnInit :
+## - Mod 14 - Lifecycle: ngOnInit :
 
 Precisamos colocar no código do componente duas coisas: o implements; a importação
 ~~~ts
@@ -59,7 +59,7 @@ Importante dizer que podemos implementar duas coisas por vírgula
 export class AppComponent implements OnInit,  {}
 ~~~
 
-## - Mod 13 - Lifecycle: ngOnChanges :
+## - Mod 15 - Lifecycle: ngOnChanges :
 
 Sempre que um componente recebe um dado através do @lnput o ngOnChanges é invocado. Ou seja, se um elemento com um  **decorator input** é alterado, ele detecta o event 'change' e executa o bloco.. Na hora de implementar, usamos:
 ~~~ts

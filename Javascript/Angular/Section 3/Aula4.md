@@ -1,6 +1,6 @@
 # Aula4
 2022-12-06
-tags: [[../index Angular]]]
+tags: [[../index Angular]]
 
 seguinte:
 
@@ -16,7 +16,14 @@ Além desses existem outros quatros **_hooks_** dentro do **ngDoCheck**:
 -   **ngAfterViewInit:** executado logo após os dados dos filhos e do próprio componente ser inicializado;
 -   **ngAfterViewChecked:** sempre que é detectado uma alteração do conteúdo é chamado esse cara.
 
-## - Mod  14 - : Lifecycle: ngDoCheck
+**Imports:**
+DoCheck,  
+AfterContentInit,  
+AfterContentChecked,  
+AfterViewInit,  
+AfterViewChecked  
+
+## - Mod  16 - : Lifecycle: ngDoCheck
 
 O ngDoCheck dispara sempre que as propriedades de entrada de um componente são verificadas. E este possuí subrotinas
 	
@@ -25,7 +32,7 @@ O ngDoCheck dispara sempre que as propriedades de entrada de um componente são 
 * **ngAfterViewInit()** = Logo depois da view iniciar
 * **ngAfterViewChecked()** = Se o componente mudar ou qualquer um dos componentes filhos, ele dispara
 
-## - Mod  15 - : Lifecycle: ngOnDestroy
+## - Mod  17 - : Lifecycle: ngOnDestroy
 
 * ngIf como propriedade do html serve para ocultar ou aparecer um componente se uma condição for true, só colocar como propriedade de um elemento '(asterístico)ngIf=''variable', se a variable for true ele deixa aparecendo e false deixa ocultado 
 

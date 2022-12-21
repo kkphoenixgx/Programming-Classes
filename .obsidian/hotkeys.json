@@ -37,9 +37,11 @@
   "switcher:open": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "Tab"
     }
-  ]
+  ],
+  "workspace:previous-tab": []
 }

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8a908e8117897aea",
+        "id": "de31c45e53d99695",
         "type": "tabs",
         "children": [
           {
-            "id": "3d9f4741a3ed85dc",
+            "id": "1299ada6c9aff944",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Angular/index Angular.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,6 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Javascript/Angular/index Angular.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -193,7 +198,7 @@
                   "repelStrength": 11.2539057193316,
                   "linkStrength": 1,
                   "linkDistance": 294,
-                  "scale": 0.1316872427983568,
+                  "scale": 0.18462326225858552,
                   "close": true
                 }
               }
@@ -204,15 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "fc5fbca9d6fe5165",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
+              "state": {
+                "file": "Javascript/Angular/index Angular.md"
+              }
             }
           },
           {
@@ -220,6 +219,14 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b453814fa53a0f1",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
               "state": {}
             }
           }
@@ -235,6 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Javascript/Angular/index Angular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,6 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Javascript/Angular/index Angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,24 +273,38 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 240.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false
+    }
   },
   "active": "73eb0faddc520d11",
   "lastOpenFiles": [
-    "Javascript/Javascript vanilla/Selection7/Aula75.md",
-    "Javascript/Javascript vanilla/Selection7/Aula74.md",
-    "Javascript/Angular/Section 3/Aula 8.md",
+    "Javascript/Angular/Section 5/Aula10.md",
     "Javascript/Angular/index Angular.md",
-    "Javascript/Angular/Section 4/Aula 7.md",
-    "-Templates/Template.md",
-    "Javascript/Angular/Section 3/Aula 6.md",
-    "Project notes/ysExplain.md",
-    "Project notes/Arquitetura Snake Game.md",
-    "Javascript/Typescript/Typescript/Selection5/Aula 23.md"
+    "Javascript/Angular/Section 5/Aula9.md",
+    "Javascript/Angular/Section 5/Aula11.md",
+    "Javascript/Angular/Section 4/Aula 5.md",
+    "Javascript/Javascript vanilla/Selection7/Aula75.md",
+    "Javascript/Typescript/Typescript/Index of typescript.md",
+    "Javascript/Typescript/Typescript/Selection2/Types/Aula8.md",
+    "Javascript/Typescript/Typescript/Selection2/Types/Aula9.md",
+    "Javascript/Angular/Section 5/Aula 8.md"
   ]
 }

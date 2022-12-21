@@ -2,7 +2,7 @@
 2022-12-13
 tags: [[../index Angular]]
 
-## - Mod 24 - : * ngFor
+## - Mod 26 - : * ngFor
 
 O ngFor tem um sugar sintax e ele é usado exatamente como um for dentro do html
 
