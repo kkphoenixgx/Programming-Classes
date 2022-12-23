@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "de31c45e53d99695",
+        "id": "1880c6782f09ce47",
         "type": "tabs",
         "children": [
           {
-            "id": "1299ada6c9aff944",
+            "id": "bd6a18c92d8e784c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Angular/index Angular.md",
+                "file": "Javascript/Angular/Section 7/Aula13.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Javascript/Angular/index Angular.md",
+                "file": "Javascript/Angular/Section 7/Aula13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Angular/index Angular.md"
+                "file": "Javascript/Angular/Section 7/Aula13.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Angular/index Angular.md",
+                "file": "Javascript/Angular/Section 7/Aula13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Angular/index Angular.md",
+                "file": "Javascript/Angular/Section 7/Aula13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,15 +296,15 @@
   },
   "active": "73eb0faddc520d11",
   "lastOpenFiles": [
-    "Javascript/Angular/Section 5/Aula10.md",
+    "Javascript/Angular/img/Comunicação entre componentes- Pai para filho.png",
+    "Javascript/Angular/Section 7/Aula13.md",
+    "Javascript/Angular/Section 6/Aula12.md",
+    "Pasted image 20221223114547.png",
+    "-Templates/Template.md",
+    "Organização.md",
     "Javascript/Angular/index Angular.md",
+    "Javascript/Angular/Section 5/Aula10.md",
     "Javascript/Angular/Section 5/Aula9.md",
-    "Javascript/Angular/Section 5/Aula11.md",
-    "Javascript/Angular/Section 4/Aula 5.md",
-    "Javascript/Javascript vanilla/Selection7/Aula75.md",
-    "Javascript/Typescript/Typescript/Index of typescript.md",
-    "Javascript/Typescript/Typescript/Selection2/Types/Aula8.md",
-    "Javascript/Typescript/Typescript/Selection2/Types/Aula9.md",
-    "Javascript/Angular/Section 5/Aula 8.md"
+    "Javascript/Angular/Section 5/Aula11.md"
   ]
 }
