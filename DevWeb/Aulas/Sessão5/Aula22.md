@@ -1,6 +1,6 @@
 # Responsivo
 2022-06-10
-tags: [[../../Index]]
+tags: [[../../Index DevWeb]]
 
 ## Desenvolvimento
 

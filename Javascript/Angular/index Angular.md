@@ -13,8 +13,9 @@
 | [[Section 5/Aula 8]]              | *sugar sintax*: ngFor ="let item of arrayList(; let i = index)" e [ngSwitch]='variable' ; *sugarSintex*: ngSwitchCase="condition" | ngFor e ngSwitch                                                                         |
 | [[Section 5/Aula9]]               | [ngClass]="{ 'className': variable(, 'classNameX': variableX) }", [ngStyle]="cssObject"                                           | **diretivas atributo**, ngClass e ngStyle                                                |
 | [[Section 5/Aula10]]              | [ (ngModel) ] ="variable", '<'ng-template></ng-template>                                                                          | ngModel em two-way databinding e ng-template                                             |
-| [[Section 5/Aula11]]              | '<'ng-content select='element' ></ng-content> {{ x 'pipe' transformProp }}                                                         | Organizando os elementos de pai para filho com ng-content e transformando dados com pipe |
-
+| [[Section 5/Aula11]]              | '<'ng-content select='element' ></ng-content> {{ x 'pipe' transformProp }}                                                        | Organizando os elementos de pai para filho com ng-content e transformando dados com pipe |
+| [[Section 6/Aula12]]              | @NgModules, **ng g m [submodule]/directoreName**                                                                                  | Modules and submodule                                                                    |
+| [[Section 7/Aula13]]              | @Input, arquiteture problems                                                                                                      | Comunicação entre componentes                                                            |
 
 
 

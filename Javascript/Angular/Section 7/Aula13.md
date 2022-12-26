@@ -8,7 +8,7 @@ tags: [[../index Angular]]
 É bem simples como funciona a comunicação de pai para filho, deve-se criar um input. Contudo, vamos falar especificamente entre os probles da comunicação....
 
 
-![[../../../Pasted image 20221223122713.png]]
+![[../img/Pasted image 20221223122713.png]]
 
 Vamos dizer que você precisa fazer uma **comunicação filho-pai** com essa estrutura, se você simplesmente comunicar, será um gafo ([Referência ao livro de arquitetura de software](https://github.com/kkphoenixgx/Estudos/blob/master/Conceitos/Linguagens/Literatura/Arquitetura%20Limpa.md)), o que fará com que a arquitetura fique complexa e errada de um ponto de vista infraestrutural, dessa forma, deve-se criar uma interface abstrata para que não cause esses problemas, então é um assunto mais complexo que deve-se tomar **cuidado** ao simplesmente fazer comunicações e ao usar o **output**, nos comunicamos por eventos, o que pode ser melhor mas ainda pode causar confusão e criar um site mais lento com um *inferno de eventos*...
 
@@ -23,7 +23,7 @@ Além disso, tome **cuidado** ao criar muitos componentes em **comunicações pa
 import {Input} from '@angular/core'
 
 export class someComponent{
-	@Input() piblic variable :number = 0
+	@Input() public variable :number = 0
 }
 ~~~
 

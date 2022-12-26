@@ -50,7 +50,6 @@ export default class User{
     getEmail() :string{
         return this.userData.email
     }
-
 }
 ~~~
 

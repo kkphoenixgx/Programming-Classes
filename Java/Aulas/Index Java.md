@@ -3,7 +3,7 @@
 | Arquivo | assunto | content    |
 | ------- | ------- | --- |
 |[DicionárioJava.md](./DicionárioJava.md)|||
-|[Index.md](./Index.md)|||
+|[Index.md](Index%20Java.md)|||
 |[exercicioMod91.png](img/exercicioMod91.png)|||
 |[mod73Exemple.jpg](img/mod73Exemple.jpg)|||
 |[Screenshot (168).png](img/Screenshot (168).png)|||
