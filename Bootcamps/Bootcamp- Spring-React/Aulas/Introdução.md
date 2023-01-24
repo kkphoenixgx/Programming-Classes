@@ -1,6 +1,6 @@
 # Introdução
 2022-07-06
-tags: [[Bootcacmps/Bootcamp- Spring-React/Index]]
+tags: [[../IndexBootcampSpring]]
 
 Link do figma:  
 https://www.figma.com/file/EN1zFtk4eY3Jgmpgi9YaMG/DSMeta1?node-id=0%3A1

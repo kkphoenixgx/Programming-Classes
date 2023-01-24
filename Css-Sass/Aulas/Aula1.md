@@ -1,6 +1,6 @@
 # Aula1
 2022-12-17
-tags: 
+tags: [[../Index Css-Sass]]
 
 ## - Mod  - : 
 

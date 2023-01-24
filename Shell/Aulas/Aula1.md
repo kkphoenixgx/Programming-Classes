@@ -1,6 +1,7 @@
 # Entendendo ShellScript
 
 Mod 1 -- **16/12/21**
+[[dicionario]]
 
 .sh é o type do shellscript.
 

@@ -2,7 +2,7 @@
 
 | Aula                                                                     | Recurso                                                                         |                            Assunto                             |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |:--------------------------------------------------------------:|
-| [[../../Javascript vanilla/IndexJs]]                                                                         |                                                                                 |                                                                |
+| [[../../Javascript vanilla/IndexJs]]                                     |                                                                                 |                                                                |
 | [[DicionárioTypeScript]]                                                 |                                                                                 |                                                                |
 | [[img/Funções.pdf]]                                                      |                                                                                 |                                                                |
 | [[Compilador+TypeScript.pdf]]                                            |                                                                                 |                                                                |
@@ -20,4 +20,8 @@
 | [[Selection2/Types/Aula12]]                                              | let type : null, HTMLElement, undefined, any e unknow; function() :void e never | Types: null, HTMLElement, undefined, any, unknow, void e never |
 | [[Selection2/Aula13]]                                                    | variable as type; '< type > variable;                                           |                        type assertions                         |
 | [[Selection3/Aula14]]                                                    | funções em ts, spread operator, array.reduce                                    |                     Funções no typescript                      |
-
+| [[Selection4/Aula15]]                                                    | interface x                                                                     |                     Como criar interfaces                      |
+| [[Selection4/Aula16]]  |  x?: x ; (em Interface) readoly x :type ; (parm1 :type, param2 :type) :type  | Parâmetros opcionais, metodos readonly e funções em interfaces |
+| [[Selection4/Aula17]]  | x :string[] | Arrays em interfaces |
+| [[Selection4/Aula18]] | ITeacher extends IHuman | Polimorfismo em interface  |
+| [[Selection5/Aula19]] | class x{} ; toString de classes  | classes en ts: o que comem? Onde vivem e o que fazem?  |

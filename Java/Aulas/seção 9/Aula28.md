@@ -2,7 +2,7 @@
 
 ## Palavra this
 
-mod 77  
+mod 77  [[../Index Java]]
 **10/09/21**
 
 Ele explicou o que é a palavra this.

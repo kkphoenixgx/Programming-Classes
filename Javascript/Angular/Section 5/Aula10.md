@@ -54,6 +54,12 @@ Então começaremos explicando coisas bem importantes:
 
 Mas aí você deve estar pensando:  Para que eu vou usar isso? E eu tenho sua resposta (～￣▽￣)～: Velocidade meu amigo. O for normal cria, verifica que não tem nada e tira da tela, já com o ng-template, se não tiver nada ele nem cria 
 
+```typescript
+<div *ngIf="isValid;then content else other_content">here is ignored</div>
+<ng-template #content>content here...</ng-template>
+<ng-template #other_content>other content here...</ng-template>
+```
+
 -----------------------------------------------
 ## Bibliografia
 

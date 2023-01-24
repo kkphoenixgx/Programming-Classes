@@ -7,6 +7,7 @@ selecionadas.
 *Print* =  System.out.print("x");
 
 Mod 24                    08/04/21
+[[../Index Java]]
 
 print = Coloca na tela ai.
 println = Coloca na tela ai mas pula a linha.

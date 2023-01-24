@@ -5,8 +5,7 @@ tags: [[../index Angular]]
 
 ## - Mod 36 - : Introdução a comunicação entre componentes
 
-É bem simples como funciona a comunicação de pai para filho, deve-se criar um input. Contudo, vamos falar especificamente entre os probles da comunicação....
-
+É bem simples como funciona a **comunicação de pai para filho**, deve-se criar um input. Contudo, vamos falar especificamente entre os probles da comunicação....
 
 ![[../img/Pasted image 20221223122713.png]]
 
@@ -17,7 +16,7 @@ Vamos dizer que você precisa fazer uma **comunicação filho-pai** com essa est
 Além disso, tome **cuidado** ao criar muitos componentes em **comunicações pai-filho**, pois pode se tornar um inferno ler o sistema com tantas comunicações
 
 
-## - Mod 37 - : @Input
+## - Mod 37 - : @Input - Comunicação do pai para filho
 
 ~~~ts
 import {Input} from '@angular/core'

@@ -3,5 +3,5 @@
 
 | Aula      | Recurso | Assunto |
 | --------- | ------- | ------- |
-| [[Aula1]] |         |         |
+| [[Aulas/Aula1]] |         |         |
 |           |         |         |

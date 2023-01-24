@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bfd4490aa32db019",
+        "id": "8b280299135b7b4e",
         "type": "tabs",
         "children": [
           {
-            "id": "282984737eed1ee1",
+            "id": "b9d7f3a24c6d33ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Angular/Section 7/Aula14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c0ff7f2f958865e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Angular/Section 7/Aula13.md",
+                "file": "Bootcamps/BootcampDevops-de-elite/Aula/Aula2.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Javascript/Angular/Section 7/Aula14.md",
+                "file": "Bootcamps/BootcampDevops-de-elite/Aula/Aula2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,7 +198,7 @@
                   "repelStrength": 11.2539057193316,
                   "linkStrength": 1,
                   "linkDistance": 294,
-                  "scale": 0.18462326225858627,
+                  "scale": 0.1846232622585866,
                   "close": true
                 }
               }
@@ -222,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Angular/Section 7/Aula14.md"
+                "file": "Bootcamps/BootcampDevops-de-elite/Aula/Aula2.md"
               }
             }
           },
@@ -254,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Angular/Section 7/Aula14.md",
+                "file": "Bootcamps/BootcampDevops-de-elite/Aula/Aula2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Angular/Section 7/Aula14.md",
+                "file": "Bootcamps/BootcampDevops-de-elite/Aula/Aula2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,15 +297,15 @@
   },
   "active": "73eb0faddc520d11",
   "lastOpenFiles": [
-    "Javascript/Angular/Section 7/Aula13.md",
-    "Javascript/Angular/Section 7/Aula14.md",
-    "Bootcamps/Bootcamp- Impulso/Aulas/Index - BootscampImpulso.md",
-    "DevWeb/Index DevWeb.md",
-    "Java/Aulas/Index Java.md",
-    "Javascript/Angular/Section 3/Aula3.md",
-    "Javascript/Angular/index Angular.md",
-    "Excalidraw/Javascript level design.md",
-    "Organização.md",
-    "Javascript/Angular/img/Pasted image 20221223122713.png"
+    "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula2.md",
+    "Bootcamps/BootcampDevops-de-elite/Aula/Aula1.md",
+    "Javascript/Typescript/Typescript/Selection5/Aula23.md",
+    "Javascript/Typescript/Typescript/Selection5/Aula24.md",
+    "Bootcamps/BootcampDevops-de-elite/index-bootcamp-devops-de-elite.md",
+    "Bootcamps/BootcampDevops-de-elite/Aula/Aula2.md",
+    "Javascript/Angular/Section 8/Aula15.md",
+    "Javascript/Angular/Section 8/Aula16.md",
+    "Bootcamps/Bootcamp-NLW-Settup/Aulas/Aula2.md",
+    "Bootcamps/Bootcamp-Linux/Index Linux-Bootcamp.md"
   ]
 }

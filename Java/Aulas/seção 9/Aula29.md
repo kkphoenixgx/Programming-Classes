@@ -2,6 +2,7 @@
 
 mod 79  
 **03/10/21**
+[[../Index Java]]
 
 Encapsulamento é basicamente esconder detalhes de implementação de uma classe, controlando o que pode ser acessado e o que não pode, mantendo o objeto em um estado consistente. Mantendo os atributos privados usando private e somente podendo ser acessados com métodos gets and setters:  
 

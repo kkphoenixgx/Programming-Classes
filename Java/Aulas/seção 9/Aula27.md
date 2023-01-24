@@ -5,7 +5,7 @@ Dei um tempo com o java para fazer javaScript para focar no mercado de trabalho,
 ----
 
 mod 76  
-**Java 25/08/21**  
+**Java 25/08/21**  [[../Index Java]]
 
 ## Construtores
 

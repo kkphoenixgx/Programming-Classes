@@ -1,8 +1,8 @@
 # Anotações bots de js
 2022-09-29
-tags: [[../../../DevWeb/Index DevWeb]]
+tags: [[../Index]]
 
-## - Mod  - :
+![[../Inicianção de projetos]]
 
 -----------------------------------------------
 ## Bibliografia
