@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8b280299135b7b4e",
+        "id": "44db71d922f040a8",
         "type": "tabs",
         "children": [
           {
-            "id": "b9d7f3a24c6d33ea",
+            "id": "b91fce479bbfe4cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bootcamps/BootcampDevops-de-elite/Aula/Aula3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f310a20b7c88fdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bootcamps/BootcampDevops-de-elite/Aula/Aula2.md",
+                "file": "Bootcamps/BootcampDevops-de-elite/Aula/Aula3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bootcamps/BootcampDevops-de-elite/Aula/Aula2.md"
+                "file": "Bootcamps/BootcampDevops-de-elite/Aula/Aula3.md"
               }
             }
           },
@@ -242,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bootcamps/BootcampDevops-de-elite/Aula/Aula2.md",
+                "file": "Bootcamps/BootcampDevops-de-elite/Aula/Aula3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bootcamps/BootcampDevops-de-elite/Aula/Aula2.md",
+                "file": "Bootcamps/BootcampDevops-de-elite/Aula/Aula3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,15 +309,15 @@
   },
   "active": "73eb0faddc520d11",
   "lastOpenFiles": [
-    "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula2.md",
-    "Bootcamps/BootcampDevops-de-elite/Aula/Aula1.md",
-    "Javascript/Typescript/Typescript/Selection5/Aula23.md",
-    "Javascript/Typescript/Typescript/Selection5/Aula24.md",
-    "Bootcamps/BootcampDevops-de-elite/index-bootcamp-devops-de-elite.md",
     "Bootcamps/BootcampDevops-de-elite/Aula/Aula2.md",
-    "Javascript/Angular/Section 8/Aula15.md",
-    "Javascript/Angular/Section 8/Aula16.md",
-    "Bootcamps/Bootcamp-NLW-Settup/Aulas/Aula2.md",
-    "Bootcamps/Bootcamp-Linux/Index Linux-Bootcamp.md"
+    "Bootcamps/BootcampDevops-de-elite/Aula/Aula3.md",
+    "Bootcamps/BootcampDevops-de-elite/Aula/Aula1.md",
+    "Bootcamps/Bootcamp-Linux/Aulas/Introdução-a-desenvolvimentoModerno-de-Software/Anotações.md",
+    "Pasted image 20230125165957.png",
+    "Javascript/Javascript vanilla/Selection1e2/Aula5,6,7.md",
+    "Bootcamps/Bootcamp- Impulso/Index - BootscampImpulso.md",
+    "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula1.md",
+    "Bootcamps/Bootcamp- Spring-React/Aulas/Introdução.md",
+    "Bootcamps/Bootcamp- Spring-React/IndexBootcampSpring.md"
   ]
 }

@@ -33,7 +33,7 @@ Dentro do docker, existem dois conceitos fundamentais: as imagens e os container
 
 ### Arquitetura
 
-![[Pasted image 20230123100635.png]]
+![[../img/Pasted image 20230123100635.png]]
 
 O docker existe três componentes: docker daemon, docker client e docker registery. Sendo docker deamon o que gerencia as imagens e os conteiners, o docker client o CLI do docker e o registery o repositório de imagens que distribui para os ambientes os containers. Diga oi a navegação da web.
 

@@ -12,5 +12,6 @@
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "showIndentGuide": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "useMarkdownLinks": true
 }

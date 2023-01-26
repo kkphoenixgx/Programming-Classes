@@ -32,7 +32,7 @@ devem estar um (), observe a linha 36. GRAVA ISSO
 
 Ex:
     initButtonsEvents(){
-        let buttons =  document.querySelectorAll("#buttons > g, #parts > g");
+        let buttons =  document.querySelectorAll("#buttons > g, # parts > g");
         
         buttons.forEach( (btn, index) => {
             
