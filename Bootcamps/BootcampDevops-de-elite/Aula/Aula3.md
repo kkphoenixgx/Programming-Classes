@@ -1,4 +1,4 @@
-![](../img/Pasted%20image%2020230125205638.png)# Aula3
+# Aula3
 2023-01-25
 tags: [index-bootcamp-devops-de-elite](../index-bootcamp-devops-de-elite.md)
 
@@ -16,8 +16,6 @@ Devops são agentes de transformação, organizando, melhorando e entregando per
 ![](../img/Pasted%20image%2020230125203556.png)
 
 O terraform serve basicamente para automatizar processos de cli web, ele cria uma estrutura muito mais estável e escalável do que usar cli cloud provider. O terraform que se preocupa com tudo e o terraform é multicloud
-
-![](../../../Pasted%20image%2020230125204006.png)
 
 Da para criar vários hambientes de cloud no mesmo projeto, inclusive
 
