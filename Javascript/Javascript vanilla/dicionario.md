@@ -35,6 +35,15 @@
 * **x.splice**(index, quantidade) =  No splice, você fala qual item  do array que vc quer tirar com o index e a quantidade de itens contando dele que você quer tirar. exemplo para tirar um item splice(0, 1), vai tirar o item 0 do array e se fosse quantidade = 2, iria tirar o 0 e o 1
 * **x.join(y)** =  
 * **x.reduce( (previousValue,  newvalue)=>{}, initialValue )** = Com o reduce, ele faz uma operação com todos os itens de um array, começando do initialValue que recebe a posição do array
+* **x.map(callback)** = é um for simplificado que percorre todo um array *(element, index) => {}*, então usando map, tem-se mais reutilidade
+* **x.filter()** = Você vai filtrar todos os elementos com determinada condição: 
+  ~~~js
+  const allNames =  x.filter( (element, index) => return element.name === 'someName' )
+  ~~~
+* **x.find( callback )** = Ele vai retornar um elemento só e se tiver mais, ele retorna o primeiro
+	~~~js
+	const theName = x.find( (element, index)=> return element.id === 10 )	
+	~~~
 
 ## Fors
 
@@ -288,12 +297,12 @@ console.log(ExibirCadastro(Osvaldo.name, Osvaldo.code));
 
 * ### Audio
 
-Defina algo como áudio e dê um play nele.
+  Defina algo como áudio e dê um play nele.
 
-~~~js
-var bMusic = new Audio('welcome1.mp3')
-bMusic.play()
-~~~
+  ~~~js
+  var bMusic = new Audio('welcome1.mp3')
+  bMusic.play()
+  ~~~
 
 * ### Promise()
 

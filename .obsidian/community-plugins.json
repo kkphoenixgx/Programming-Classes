@@ -1,15 +1,9 @@
 [
   "obsidian-icon-folder",
-  "obsidian-mind-map",
-  "obsidian-reminder-plugin",
-  "obsidian-collapse-all-plugin",
   "better-pdf-plugin",
-  "oz-image-plugin",
-  "darlal-switcher-plus",
   "templater-obsidian",
   "table-editor-obsidian",
-  "sliding-panes-obsidian",
   "obsidian-excalidraw-plugin",
-  "obsidian-git",
-  "obsidian-code-copy"
+  "oz-image-plugin",
+  "obsidian-git"
 ]

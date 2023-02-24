@@ -106,7 +106,7 @@ Lembre-se: steps 'Build Docker Image' e "Push docker image" são o CI, a integra
 
 
 ![](../img/Recording%2020230127062846.webm)
-![](../../../Pasted%20image%2020230127063045.png)
+![](../img/Pasted%20image%2020230127063045.png)
 
 
 -----------------------------------------------
