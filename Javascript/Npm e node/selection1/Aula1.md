@@ -1,6 +1,5 @@
 # O que é o node?
-Mod 2 -- **13/08/22**
-
+Mod 2 -- **13/08/22**.
 
 O que é o node? é uma plataforma de execução do javascript
 do lado do servidor.
