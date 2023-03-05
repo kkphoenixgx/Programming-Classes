@@ -13,6 +13,7 @@ const require {writeFile} = require('fs')
 const require {promisify} = require('util')
 
 const write = (fileName, content) => { promisify(writeFile(fileName, content)) }
+
 write('Teste.txt', 'É um teste de promisify')
   .then( console.log('Tudo ok senhor') )
   .catch(error) console.error(error)

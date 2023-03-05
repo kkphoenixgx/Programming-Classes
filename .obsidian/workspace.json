@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "39d3a4643c9c19f5",
+        "id": "7680afbd61a56265",
         "type": "tabs",
         "children": [
           {
-            "id": "d33492deb4ac4943",
+            "id": "bb5f9a851edca870",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Angular/Section 12/Aula25.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,6 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Javascript/Angular/Section 12/Aula25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -193,7 +198,7 @@
                   "repelStrength": 11.2539057193316,
                   "linkStrength": 1,
                   "linkDistance": 294,
-                  "scale": 0.18462326225858403,
+                  "scale": 0.09327696790857379,
                   "close": true
                 }
               }
@@ -204,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Javascript/Angular/Section 12/Aula25.md"
+              }
             }
           },
           {
@@ -223,8 +230,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "f7e80c1e5839227c",
@@ -236,6 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Javascript/Angular/Section 12/Aula25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,6 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Javascript/Angular/Section 12/Aula25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,56 +291,57 @@
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d33492deb4ac4943",
+  "active": "4e4acef6497b1046",
   "lastOpenFiles": [
-    "Programming-Classes/Shell/Aulas/dicionario.md",
-    "Programming-Classes/Shell/Aulas/Aula1.md",
+    "Javascript/Angular/Section13/Aula26.md",
+    "Javascript/Angular/index Angular.md",
+    "Javascript/Angular/Section 12/Aula25.md",
+    "Javascript/Angular/Section 12/Aula23.md",
+    "Javascript/Angular/Section 12/Aula24.md",
+    "Javascript/Angular/Section13",
+    "Javascript/Typescript/DesignPatternsTypescript/Selection2/Aula3.md",
+    "Javascript/Angular/img/Pasted image 20230302115011.png",
+    "Pasted image 20230227212403.png",
+    "Project notes/ysExplain.md",
+    "Project notes/Arquitetura Snake Game.md",
+    "Javascript/Angular/img/Pasted image 20230302113705.png",
+    "Pasted image 20230302113606.png",
+    "Javascript/Angular/img/Pasted image 20230302111725.png",
+    "Javascript/Npm e node/Selection 4/Aula23.md",
+    "Javascript/Npm e node/Selection 2/Aula11.md",
+    "Javascript/Npm e node/Selection 3/Aula12.md",
+    "Javascript/Npm e node/Selection 2/Aula8.md",
+    "Javascript/Npm e node/Selection 2/Aula9.md",
+    "Javascript/Npm e node/Selection 1 e 2/Aula7.md",
+    "Javascript/Npm e node/Selection 2",
+    "Javascript/Npm e node/Selection 1 e 2/Aula6.md",
+    "Javascript/Npm e node/Selection 1 e 2/Aula5.md",
+    "Javascript/Npm e node/Selection 1 e 2/Aula4.md",
+    "Javascript/Npm e node/Selection 1 e 2/Aula2.md",
+    "Javascript/Npm e node/Selection 1 e 2/Aula1.md",
+    "Javascript/Npm e node/Selection 1 e 2",
+    "Javascript/Npm e node/Selection 3/Aula17.md",
+    "Javascript/Npm e node/Selection 4/Aula18.md",
+    "Javascript/Npm e node/Selection 3/Aula16.md",
+    "Javascript/Npm e node/Selection 4/Aula19.md",
+    "Javascript/Npm e node/Selection 4/Aula20.md",
+    "Javascript/Npm e node/Selection 4/Aula21.md",
+    "Javascript/Npm e node/Selection 4/Aula22.md",
+    "Javascript/Npm e node/Selection 3",
+    "Javascript/Npm e node/Selection 4",
+    "Pasted image 20230228224540.png",
+    "Javascript/Angular/img/Pasted image 20230228223109.png",
+    "Pasted image 20230228223052.png",
+    "Bootcamps/Bootcamp-SemanaJsExpert",
+    "Javascript/Angular/Section 12",
     "Programming-Classes/Shell/Aulas",
     "Programming-Classes/Shell",
-    "Programming-Classes/Project notes/ysExplain.md",
-    "Programming-Classes/Project notes/Arquitetura Snake Game.md",
     "Programming-Classes/Project notes",
     "Programming-Classes/Pasted image 20230127063045.png",
-    "Programming-Classes/Organização.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection2/Types/Aula9.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection2/Types/Aula8.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection2/Types/Aula7.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection2/Types/Aula6.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection2/Types/Aula12.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection2/Types/Aula11.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection2/Types/Aula10.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/img/Interfaces.pdf",
-    "Programming-Classes/Javascript/Typescript/Typescript/img/Funções.pdf",
-    "Programming-Classes/Javascript/Typescript/Typescript/img/Compilador+TypeScript.pdf",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection3/Aula14.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection5/Aula24.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection5/Aula23.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection5/Aula22.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection5/Aula21.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection5/Aula20.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection5/Aula19.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection5/Aula 23.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection4/Aula18.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection4/Aula17.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection4/Aula16.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection4/Aula15.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection2/Types",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection2/Aula5.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection2/Aula4.md",
-    "Programming-Classes/Javascript/Typescript/Typescript/img",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection5",
-    "Programming-Classes/Javascript/Typescript/Typescript/Selection4",
-    "Programming-Classes/Javascript/React/img/Pasted image 20221025195903.png",
-    "Programming-Classes/Javascript/Npm e node/img/Node.jpg",
-    "Programming-Classes/Javascript/Javascript vanilla/img/senta-que.gif",
-    "Programming-Classes/Javascript/Javascript vanilla/img/Screenshot(166).png",
-    "Programming-Classes/Javascript/Javascript vanilla/img/Screenshot (166).png",
-    "Programming-Classes/Javascript/Javascript vanilla/img/ArquiteturaRESTful.png",
-    "Programming-Classes/Javascript/Javascript vanilla/img/ArquiteturaDropBoxClone.png",
-    "Programming-Classes/Javascript/Angular/img/Pasted image 20230121203002.png",
-    "Programming-Classes/Javascript/Angular/img/Pasted image 20221229235319.png"
+    "Programming-Classes/Javascript/React/img/Pasted image 20221025195903.png"
   ]
 }

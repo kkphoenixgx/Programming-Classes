@@ -4,6 +4,22 @@
 
 ### Eventos do Node.js
 
+os eventos no node é bem simples de entender, temos uma biblioteca nativa chamada events que possuí uma classe que gerencia esses eventos, podemos instanciar m filho dessa classe required('events') e com essa classe podemos usar o **eventsInstance.on('event', 'callback')** para criar um evento e podemos usar o **emit('event')** para emitir esse evento
+
+~~~js
+const EventEmmiter = require('event')
+
+class EventHandler extends EventEmiter{}
+const event = new EventHandler()
+
+
+event.on('prossesEnded', event=>{
+	console.log('ended')
+})
+
+event.emit('processEnded')
+~~~
+
 ### --Módulos e dependentes:--
 
 Caso não tenha emoji algum, significa que é nativo do js
@@ -417,31 +433,31 @@ res.status(200).json(user);
 
 ### ---Methods nodeJs---
 	
-	* **require(x):**  
+* **require(x):**  
 	    O método require(x) que trás um módulo de dentro de um outro arquivo.
 	    Então por exemplo, me traga o módulo http: require("http).  
 	
-	    Isso é muito usado para definir uma constante com o módulo que vai ser usado no código.
+	Isso é muito usado para definir uma constante com o módulo que vai ser usado no código.
 	
 	* **exec(fn)** :  
 	  Basicamente você executa a função fn, mas com o node
 	fica bem legal, pois você pode passar o erro e o a informação propriamente dita.
 	
-	    ~~~javascript
+  ~~~javascript
 	    x.exec((err, user){
 	        bloco de código 
 	    })
-	    ~~~
+	~~~
 	
 	* **req.url( )**:  
 	Retorna a url do site, exemplo:  
 	
-	    ~~~javascript
+	~~~javascript
 	    x.createServer(req, res){
 	        const url = req.url();
 	        // isso vai retornar a url dentro da const url
 	    }
-	    ~~~
+	~~~
 	
 	* **process.hrtime()[0]**:  
 	Isso pega o horario em milissegundos.
@@ -467,14 +483,13 @@ res.status(200).json(user);
 	
 	    **formula:**  
     > 	res.setHeader('Content-Type', 'y')
+    > 		sendo y como você vai responder:
+						"text/plain" = formato de texto.  
 	
-	    sendo y como você vai responder:
+"text/html" = formata para entender strings em html.  
+"application/json" = faz poder retornar um json.  
 	
-	    "text/plain" = formato de texto.  
-	    "text/html" = formata para entender strings em html.  
-	    "application/json" = faz poder retornar um json.  
-	
-	* **x.listen(porta, ip, fn)**
+* **x.listen(porta, ip, fn)**
 	
 	    No caso do listen, vamos passar a porta e o ip para o servidor rodar e o que fazer enquanto o servidor  estiver rodando, sendo x = o próprio server.
 	
@@ -487,14 +502,14 @@ res.status(200).json(user);
 	    })
 	    ~~~
 	
-	#### -----Portas e Ips :----
+#### -----Portas e Ips :----
+
+* ports:  
+3000 = porta local.
+* Ips:  
+"127.0.0.1" = IP local da maquina.
 	
-	* ports:  
-	3000 = porta local.
-	* Ips:  
-	"127.0.0.1" = IP local da maquina.
-	
-	-----------------------------------
+-----------------------------------
 
 ## --NPM--
 

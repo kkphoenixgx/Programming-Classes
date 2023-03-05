@@ -16,6 +16,11 @@
 | [[Section 5/Aula11]]              | '<'ng-content select='element' ></ng-content> {{ x 'pipe' transformProp }}                                                        | Organizando os elementos de pai para filho com ng-content e transformando dados com pipe |
 | [[Section 6/Aula12]]              | @NgModules, **ng g m [submodule]/directoreName**                                                                                  | Modules and submodule                                                                    |
 | [[Section 7/Aula13]]              | @Input, arquiteture problems                                                                                                      | Comunicação entre componentes                                                            |
+| [Aula14](Section%207/Aula14.md)   | @Output(), arquitetura                                                                                                            | Comunicação entre componentes baseada em eventos                                         |
+| [Aula15](Section%208/Aula15.md)   | Arquitetura e afins do projeto                                                                                                    | Projeto TaskBar                                                                          |
+| [Aula16](Section%208/Aula16.md)   | Organizando Componentes, identificando herança, scss selectors                                                                    | Projeto taskBar                                                                          |
+| [Aula17](Section%209/Aula17.md)   | **ng g s (path)**, @Ingectable, subscribe(),                                                                                      | Insight eventBinding, SERVICES, Comunicação e arquitetura com services                   |
+
 
 
 
