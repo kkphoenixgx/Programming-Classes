@@ -1,0 +1,66 @@
+*Variante = (Tipo) + nome = x
+[Index Java](Index%20Java.md)
+
+*Import é uma classe de aderimento de funções pré 
+selecionadas.
+
+---------------------------------------------------------------------------------------------
+*Print* =  System.out.print("x");
+
+Mod 24                    08/04/21
+[[../Index Java]]
+
+print = Coloca na tela ai.
+println = Coloca na tela ai mas pula a linha.
+printf = para concatenar várias coias na mesma linha
+
+    Para usar a váriavel no print tem que colocar (Variavel)
+depois do print.{
+
+
+	public class exercicio1 {
+
+   	 	public static void main(String[] args) {
+     
+      	 	 System.out.println(x)
+
+    	}}}
+
+Para controlar quantas casas se usa %.2f na função printf {
+
+	public class exercicio1 {
+
+   	 	public static void main(String[] args) {
+		
+		 double x = 10.123456;
+      	 	 System.out.printf("%.2f%n" , x );
+
+    	}}}
+
+saida : 10.12      por que é .123 então como é menos que 5
+arredonda para 12
+
+o %n ou /n é usado junto para pular linha 
+
+%f = marcador de variavel para *ponto flutuante* dentro de 
+sting
+%d = marcador de variavel para *inteiro* dentro de sting
+%s  = marcador de variavel para *string* dentro de sting
+
+
+%n = quebra de linha
+2% = Para 
+Para usar os marcadores, tem que separar com , no final da 
+frase 
+e colocar as variáveis
+
+Concatenar é com + não com + (Concatenar vc já sabe o que é)
+
+
+Resolver o exercicio 1
+Exercícios em C:\xampp\htdocs\Cursos\java
+
+
+
+
+--------------------------------------------------------------------------------------------

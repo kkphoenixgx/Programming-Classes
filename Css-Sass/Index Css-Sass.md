@@ -1,7 +1,9 @@
 # Index Css-Sass
 2022-12-17
 
-| Aula      | Recurso | Assunto |
-| --------- | ------- | ------- |
-| [[Aulas/Aula1]] |         |         |
-|           |         |         |
+```dataview
+TABLE
+FROM "Css-Sass"
+SORT file.name
+```
+

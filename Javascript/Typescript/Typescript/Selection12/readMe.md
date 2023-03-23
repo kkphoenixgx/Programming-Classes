@@ -1,3 +1,0 @@
-# Projeto Calculadora em typescript
-
-

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7680afbd61a56265",
+        "id": "46f3803a3ae6019d",
         "type": "tabs",
         "children": [
           {
-            "id": "bb5f9a851edca870",
+            "id": "8babfc18de5e3fd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Angular/Section 12/Aula25.md",
+                "file": "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula2.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,10 +69,10 @@
             }
           },
           {
-            "id": "4e4acef6497b1046",
+            "id": "96deb7e17d9c0360",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "starred",
               "state": {}
             }
           }
@@ -90,6 +90,7 @@
       {
         "id": "d4324376b19c690a",
         "type": "tabs",
+        "dimension": 49.504950495049506,
         "children": [
           {
             "id": "878e5939c568b8f4",
@@ -97,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Javascript/Angular/Section 12/Aula25.md",
+                "file": "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -108,7 +109,7 @@
                   "showTags": true,
                   "showAttachments": true,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "path:\"Javascript/Javascript vanilla\"",
@@ -153,7 +154,7 @@
                       }
                     },
                     {
-                      "query": "path:Bootcacmps",
+                      "query": "path:Bootcamps",
                       "color": {
                         "a": 1,
                         "rgb": 0
@@ -198,7 +199,7 @@
                   "repelStrength": 11.2539057193316,
                   "linkStrength": 1,
                   "linkDistance": 294,
-                  "scale": 0.09327696790857379,
+                  "scale": 0.15565333152348457,
                   "close": true
                 }
               }
@@ -210,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Angular/Section 12/Aula25.md"
+                "file": "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula2.md"
               }
             }
           },
@@ -235,6 +236,7 @@
       {
         "id": "f7e80c1e5839227c",
         "type": "tabs",
+        "dimension": 50.495049504950494,
         "children": [
           {
             "id": "a2b6f23c21b242a0",
@@ -242,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Angular/Section 12/Aula25.md",
+                "file": "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Angular/Section 12/Aula25.md",
+                "file": "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +280,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,53 +297,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e4acef6497b1046",
+  "active": "8babfc18de5e3fd7",
   "lastOpenFiles": [
-    "Javascript/Angular/Section13/Aula26.md",
-    "Javascript/Angular/index Angular.md",
-    "Javascript/Angular/Section 12/Aula25.md",
-    "Javascript/Angular/Section 12/Aula23.md",
-    "Javascript/Angular/Section 12/Aula24.md",
-    "Javascript/Angular/Section13",
-    "Javascript/Typescript/DesignPatternsTypescript/Selection2/Aula3.md",
-    "Javascript/Angular/img/Pasted image 20230302115011.png",
-    "Pasted image 20230227212403.png",
-    "Project notes/ysExplain.md",
-    "Project notes/Arquitetura Snake Game.md",
-    "Javascript/Angular/img/Pasted image 20230302113705.png",
-    "Pasted image 20230302113606.png",
-    "Javascript/Angular/img/Pasted image 20230302111725.png",
-    "Javascript/Npm e node/Selection 4/Aula23.md",
-    "Javascript/Npm e node/Selection 2/Aula11.md",
-    "Javascript/Npm e node/Selection 3/Aula12.md",
-    "Javascript/Npm e node/Selection 2/Aula8.md",
-    "Javascript/Npm e node/Selection 2/Aula9.md",
-    "Javascript/Npm e node/Selection 1 e 2/Aula7.md",
-    "Javascript/Npm e node/Selection 2",
-    "Javascript/Npm e node/Selection 1 e 2/Aula6.md",
-    "Javascript/Npm e node/Selection 1 e 2/Aula5.md",
-    "Javascript/Npm e node/Selection 1 e 2/Aula4.md",
-    "Javascript/Npm e node/Selection 1 e 2/Aula2.md",
-    "Javascript/Npm e node/Selection 1 e 2/Aula1.md",
-    "Javascript/Npm e node/Selection 1 e 2",
-    "Javascript/Npm e node/Selection 3/Aula17.md",
-    "Javascript/Npm e node/Selection 4/Aula18.md",
-    "Javascript/Npm e node/Selection 3/Aula16.md",
-    "Javascript/Npm e node/Selection 4/Aula19.md",
-    "Javascript/Npm e node/Selection 4/Aula20.md",
-    "Javascript/Npm e node/Selection 4/Aula21.md",
-    "Javascript/Npm e node/Selection 4/Aula22.md",
-    "Javascript/Npm e node/Selection 3",
-    "Javascript/Npm e node/Selection 4",
-    "Pasted image 20230228224540.png",
-    "Javascript/Angular/img/Pasted image 20230228223109.png",
-    "Pasted image 20230228223052.png",
-    "Bootcamps/Bootcamp-SemanaJsExpert",
-    "Javascript/Angular/Section 12",
-    "Programming-Classes/Shell/Aulas",
-    "Programming-Classes/Shell",
-    "Programming-Classes/Project notes",
-    "Programming-Classes/Pasted image 20230127063045.png",
-    "Programming-Classes/Javascript/React/img/Pasted image 20221025195903.png"
+    "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula2.md",
+    "JavascriptTypescript/Angular/index Angular.md",
+    "JavascriptTypescript/Typescript/ReadMe.md",
+    "Java/ReadMe.md",
+    "DevWeb/Aulas/Dicionário.md",
+    "DevWeb/Aulas/Estudando_A_Fundo2.md",
+    "DevWeb/Aulas/DicionárioJQuery.md",
+    "DevWeb/Aulas/Sessão7/Aula 23.md",
+    "DevWeb/Aulas/Sessão5/Aula22.md",
+    "DevWeb/Aulas/Sessão4/Aula20.md",
+    "DevWeb/Aulas/Sessão4/Aula19.md",
+    "DevWeb/Aulas/Sessão4/Aula18.md",
+    "DevWeb/Aulas/Sessão4/Aula17.md",
+    "DevWeb/Aulas/Sessão4/Aula16.md",
+    "DevWeb/Aulas/Sessão4/Aula15.md",
+    "DevWeb/Aulas/Sessão4/Aula14.md",
+    "DevWeb/Aulas/Sessão1,2,3/Aula1_Refazendo.md",
+    "DevWeb/Aulas/Sessão1,2,3/Aula2_CanseiDeFicarRefazendoCoisaDoCaderno.md",
+    "DevWeb/Aulas/Sessão1,2,3/Aula3.md",
+    "DevWeb/Aulas/Sessão1,2,3/Aula4.md",
+    "DevWeb/Aulas/Sessão1,2,3/Aula5.md",
+    "DevWeb/Aulas/Sessão1,2,3/Aula6.md",
+    "DevWeb/Aulas/Sessão1,2,3/Aula7.md",
+    "DevWeb/Aulas/Sessão1,2,3/Aula8.md",
+    "DevWeb/Aulas/Sessão1,2,3/Aula9.md",
+    "DevWeb/Aulas/Sessão1,2,3/Aula10.md",
+    "CSharp/-img",
+    "CSharp/-img/Pasted image 20230323120215.png",
+    "CSharp/-img/Pasted image 20230323114841.png",
+    "CSharp/-img/Pasted image 20230322135043.png",
+    "CSharp/-img/Pasted image 20230322115712.png",
+    "CSharp/-img/Pasted image 20230322112003.png",
+    "CSharp/dotNet",
+    "JavascriptTypescript/Angular/img/Pasted image 20230317093823.png",
+    "JavascriptTypescript/Angular/img/Pasted image 20230317093313.png",
+    "Bootcamps/Bootcamp-SemanaJsExpert/Pasted image 20230227212403.png",
+    "JavascriptTypescript/Typescript/DesignPatternsTypescript/img",
+    "JavascriptTypescript/Typescript/DesignPatternsTypescript/img/OCP-ImageCLass.png",
+    "Bootcamps/Bootcamp-Linux/Aulas/Docker",
+    "JavascriptTypescript/Angular/Section13",
+    "JavascriptTypescript/Angular/img/Pasted image 20230302115011.png",
+    "JavascriptTypescript/Node/Selection 2",
+    "JavascriptTypescript/Node/Selection 1 e 2",
+    "JavascriptTypescript/Node/Selection 3",
+    "JavascriptTypescript/Node/Selection 4",
+    "Bootcamps/Bootcamp-SemanaJsExpert"
   ]
 }

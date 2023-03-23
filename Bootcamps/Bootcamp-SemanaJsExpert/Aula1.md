@@ -4,7 +4,7 @@ tags: [Semana Js Expert](Semana%20Js%20Expert.md)
 
 
 
-![](../../Pasted%20image%2020230227212403.png)
+![](Pasted%20image%2020230227212403.png)
 
 -----------------------------------------------
 ## Bibliografia

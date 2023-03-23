@@ -2,69 +2,83 @@
   "collapse-filter": true,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Javascript/three.js",
+      "query": "tag:#manage",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "tag:#excalidraw",
+      "color": {
+        "a": 1,
+        "rgb": 5636213
+      }
+    },
+    {
+      "query": "path:JavascriptTypescript/three.js",
       "color": {
         "a": 1,
         "rgb": 16753152
       }
     },
     {
-      "query": "path:Javascript/Typescript",
+      "query": "path:JavascriptTypescript/Typescript",
       "color": {
         "a": 1,
         "rgb": 4607
       }
     },
     {
-      "query": "path:\"Javascript/Npm e node\"",
+      "query": "path:JavascriptTypescript/Node",
       "color": {
         "a": 1,
         "rgb": 4428800
       }
     },
     {
-      "query": "path:Javascript/React",
+      "query": "path:JavascriptTypescript/React",
       "color": {
         "a": 1,
         "rgb": 65471
       }
     },
     {
-      "query": "path:Javascript/electron",
+      "query": "path:JavascriptTypescript/Electron",
       "color": {
         "a": 1,
         "rgb": 11580160
       }
     },
     {
-      "query": "path:Javascript/Angular",
+      "query": "path:JavascriptTypescript/Angular",
       "color": {
         "a": 1,
         "rgb": 16749716
       }
     },
     {
-      "query": "path:\"Javascript/Javascript vanilla\"",
+      "query": "path:\"JavascriptTypescript/Javascript vanilla\"",
       "color": {
         "a": 1,
         "rgb": 16711680
       }
     },
     {
-      "query": "path:\"- Dev. web\"",
+      "query": "path:DevWeb",
       "color": {
         "a": 1,
         "rgb": 16774912
       }
     },
     {
-      "query": "path:Bootcacmps",
+      "query": "path:Bootcamps",
       "color": {
         "a": 1,
         "rgb": 0
@@ -78,17 +92,10 @@
       }
     },
     {
-      "query": "path:C#",
+      "query": "path:CSharp",
       "color": {
         "a": 1,
         "rgb": 14701233
-      }
-    },
-    {
-      "query": "path:Shell",
-      "color": {
-        "a": 1,
-        "rgb": 6881392
       }
     },
     {
@@ -97,9 +104,16 @@
         "a": 1,
         "rgb": 14024747
       }
+    },
+    {
+      "query": "path:Css-Sass",
+      "color": {
+        "a": 1,
+        "rgb": 5406207
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -109,6 +123,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.04682858058408034,
+  "scale": 0.07814388419627995,
   "close": true
 }

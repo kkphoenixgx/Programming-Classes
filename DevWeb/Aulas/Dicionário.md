@@ -1,4 +1,5 @@
 # Dicionário css e HTML
+[ReadMe](../ReadMe.md)
 
 ## HTML5
 
@@ -181,6 +182,6 @@ nomes dos espaçamentos dos box-model em ordem(Margin, border, padding, content)
 
 * **[x|=y]** = seleciona todos os x que contém algo que começa com z;
 
-* **Identificadores**: #Id
+* **Identificadores**: # Id (Sem espaço)
 
 se quiser ver mais que isso, vai [nesse site](https://tableless.com.br/referencia-seletores-css/)

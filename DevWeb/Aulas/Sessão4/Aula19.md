@@ -1,4 +1,5 @@
 # Dando um Rush no curso
+[ReadMe](../../ReadMe.md)
 
 ## Atributos da tag vídeo do HTML5 e Tag Áudio
 
