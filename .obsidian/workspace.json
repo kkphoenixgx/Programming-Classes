@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f6e4099cbf3b0fc3",
+        "id": "429291cdba2032f7",
         "type": "tabs",
         "children": [
           {
-            "id": "f92d590379579354",
+            "id": "1cd7edddecc56052",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -246,8 +245,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "f7e80c1e5839227c",
@@ -311,8 +309,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f92d590379579354",
+  "active": "1cd7edddecc56052",
   "lastOpenFiles": [
+    "-Regras de Convicência.md",
     "CSharp/Bibliotecas Nativas.md",
     "CSharp/Variáveis e types.md",
     "CSharp/Classes no CSharp.md",
@@ -337,7 +336,6 @@
     "CSharp/Namespaces.md",
     "CSharp/Operadores.md",
     "ReadMe.md",
-    "-Regras de Convicência.md",
     "JavascriptTypescript/three.js/three.js vanilla/index three.js vanilla.md",
     "JavascriptTypescript/three.js/readMe.md.md",
     "JavascriptTypescript/three.js/react-three-fiber/img",

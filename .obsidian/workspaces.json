@@ -189,11 +189,11 @@
         "type": "split",
         "children": [
           {
-            "id": "bcc46a4dda90e7dd",
+            "id": "f6e4099cbf3b0fc3",
             "type": "tabs",
             "children": [
               {
-                "id": "15605030f2bd99eb",
+                "id": "f92d590379579354",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -258,6 +258,14 @@
                 "type": "leaf",
                 "state": {
                   "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "04f8b46d3665510a",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
                   "state": {}
                 }
               }
@@ -397,7 +405,7 @@
                       "repelStrength": 11.2539057193316,
                       "linkStrength": 1,
                       "linkDistance": 294,
-                      "scale": 0.6097929809360337,
+                      "scale": 0.11063751697644611,
                       "close": true
                     }
                   }
@@ -444,7 +452,7 @@
                   "state": {
                     "file": "-Regras de Convicência.md",
                     "linksCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "unlinkedCollapsed": false
                   }
                 }
               },
@@ -461,7 +469,7 @@
                     "showSearch": false,
                     "searchQuery": "",
                     "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "unlinkedCollapsed": false
                   }
                 }
               },
@@ -495,7 +503,7 @@
           "obsidian-excalidraw-plugin:Create new drawing": false
         }
       },
-      "active": "15605030f2bd99eb"
+      "active": "f92d590379579354"
     }
   },
   "active": "Programming"
