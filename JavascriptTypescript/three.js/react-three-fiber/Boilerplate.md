@@ -1,12 +1,12 @@
 # Aula1
 2022-11-04
-tags: [[../three.js_yt-class]]
+tags: [-index React-three-fiber](-index%20React-three-fiber.md)
 
 Searching for threejs, I actually finded this react library that fits better with my code :D, now, I'm going to learn it
 
-## Desenvolvimento
+To create boilerplate:
 
-
+https://sbcode.net/react-three-fiber/build-course-boilerplate/
 
 -----------------------------------------------
 ## Bibliografia

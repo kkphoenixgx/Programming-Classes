@@ -2,6 +2,7 @@
 #manage  
 
 - Nota:  Os frameworks das linguagens ficam em suas categorias
+- Abra esse repo no Obsidian para melhor experiência
 
 ## Javascript, Typescript 
 

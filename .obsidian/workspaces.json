@@ -189,16 +189,16 @@
         "type": "split",
         "children": [
           {
-            "id": "7cb8d737a3766ad5",
+            "id": "bcc46a4dda90e7dd",
             "type": "tabs",
             "children": [
               {
-                "id": "87525c49e436c44c",
+                "id": "15605030f2bd99eb",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Java/ReadMe.md",
+                    "file": "-Regras de Convicência.md",
                     "mode": "source",
                     "source": false
                   }
@@ -252,6 +252,14 @@
                     "useHierarchy": true
                   }
                 }
+              },
+              {
+                "id": "96deb7e17d9c0360",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
               }
             ]
           }
@@ -274,7 +282,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Java/ReadMe.md",
+                    "file": "-Regras de Convicência.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -288,45 +296,73 @@
                       "collapse-color-groups": false,
                       "colorGroups": [
                         {
-                          "query": "path:\"Javascript/Javascript vanilla\"",
+                          "query": "path:JavascriptTypescript/React",
                           "color": {
                             "a": 1,
-                            "rgb": 16711680
+                            "rgb": 5431473
                           }
                         },
                         {
-                          "query": "path:Javascript/Typescript",
+                          "query": "path:JavascriptTypescript/Angular",
                           "color": {
                             "a": 1,
-                            "rgb": 3604735
+                            "rgb": 16752286
                           }
                         },
                         {
-                          "query": "path:\"Javascript/Npm e node\"",
+                          "query": "path:JavascriptTypescript/Typescript/DesignPatternsTypescript",
                           "color": {
                             "a": 1,
-                            "rgb": 4815360
+                            "rgb": 2443441
                           }
                         },
                         {
-                          "query": "path:Javascript/React",
+                          "query": "path:JavascriptTypescript/Typescript",
                           "color": {
                             "a": 1,
-                            "rgb": 5439435
+                            "rgb": 255
                           }
                         },
                         {
-                          "query": "path:Javascript/electron",
+                          "query": "path:JavascriptTypescript/Node",
+                          "color": {
+                            "a": 1,
+                            "rgb": 165120
+                          }
+                        },
+                        {
+                          "query": "path:JavascriptTypescript/Electron",
                           "color": {
                             "a": 1,
                             "rgb": 10990336
                           }
                         },
                         {
-                          "query": "path:\"- Dev. web\"",
+                          "query": "path:JavascriptTypescript/three.js",
                           "color": {
                             "a": 1,
-                            "rgb": 14870016
+                            "rgb": 16753152
+                          }
+                        },
+                        {
+                          "query": "path:\"JavascriptTypescript/Javascript vanilla\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16711680
+                          }
+                        },
+                        {
+                          "query": "path:CSharp",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14899199
+                          }
+                        },
+                        {
+                          "query": "path:DevWeb",
+                          "color": {
+                            "a": 1,
+                            "rgb": 15662848
                           }
                         },
                         {
@@ -337,31 +373,17 @@
                           }
                         },
                         {
-                          "query": "path:\"Project notes\"",
+                          "query": "path:Css-Sass",
                           "color": {
                             "a": 1,
-                            "rgb": 11621088
+                            "rgb": 5419488
                           }
                         },
                         {
-                          "query": "path:C#",
+                          "query": "path:Java/JavaVanilla",
                           "color": {
                             "a": 1,
-                            "rgb": 14701233
-                          }
-                        },
-                        {
-                          "query": "path:Shell",
-                          "color": {
-                            "a": 1,
-                            "rgb": 9175198
-                          }
-                        },
-                        {
-                          "query": "path:Java",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14024747
+                            "rgb": 11737369
                           }
                         }
                       ],
@@ -375,7 +397,7 @@
                       "repelStrength": 11.2539057193316,
                       "linkStrength": 1,
                       "linkDistance": 294,
-                      "scale": 0.2597421438281217,
+                      "scale": 0.6097929809360337,
                       "close": true
                     }
                   }
@@ -387,7 +409,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Java/ReadMe.md"
+                    "file": "-Regras de Convicência.md"
                   }
                 }
               },
@@ -420,7 +442,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Java/ReadMe.md",
+                    "file": "-Regras de Convicência.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -432,7 +454,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Java/ReadMe.md",
+                    "file": "-Regras de Convicência.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -456,7 +478,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 303.5
+        "width": 307.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -473,81 +495,7 @@
           "obsidian-excalidraw-plugin:Create new drawing": false
         }
       },
-      "floating": {
-        "id": "6add84f37a1c4a9c",
-        "type": "floating",
-        "children": [
-          {
-            "id": "dc64d2b6f96ecb40",
-            "type": "window",
-            "children": [
-              {
-                "id": "3a902ce0157cce4f",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "20f7348ff96dafcb",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "JavascriptTypescript/Javascript vanilla/IndexJs.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "637a4f602947a07d",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "JavascriptTypescript/React/DicionárioJSX.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "e2886f7489bf6ab4",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "JavascriptTypescript/React/DicionárioJSX.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "1fbeb430d0b0c79e",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "JavascriptTypescript/React/DicionárioJSX.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ],
-                "currentTab": 3
-              }
-            ],
-            "direction": "vertical",
-            "x": 529,
-            "y": 57,
-            "width": 608,
-            "height": 609,
-            "maximize": false,
-            "zoom": 0.5
-          }
-        ]
-      },
-      "active": "87525c49e436c44c"
+      "active": "15605030f2bd99eb"
     }
   },
   "active": "Programming"

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "46f3803a3ae6019d",
+        "id": "f6e4099cbf3b0fc3",
         "type": "tabs",
         "children": [
           {
-            "id": "8babfc18de5e3fd7",
+            "id": "f92d590379579354",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -75,8 +71,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "04f8b46d3665510a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -97,7 +102,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -111,45 +115,73 @@
                   "collapse-color-groups": false,
                   "colorGroups": [
                     {
-                      "query": "path:\"Javascript/Javascript vanilla\"",
+                      "query": "path:JavascriptTypescript/React",
                       "color": {
                         "a": 1,
-                        "rgb": 16711680
+                        "rgb": 5431473
                       }
                     },
                     {
-                      "query": "path:Javascript/Typescript",
+                      "query": "path:JavascriptTypescript/Angular",
                       "color": {
                         "a": 1,
-                        "rgb": 3604735
+                        "rgb": 16752286
                       }
                     },
                     {
-                      "query": "path:\"Javascript/Npm e node\"",
+                      "query": "path:JavascriptTypescript/Typescript/DesignPatternsTypescript",
                       "color": {
                         "a": 1,
-                        "rgb": 4815360
+                        "rgb": 2443441
                       }
                     },
                     {
-                      "query": "path:Javascript/React",
+                      "query": "path:JavascriptTypescript/Typescript",
                       "color": {
                         "a": 1,
-                        "rgb": 5439435
+                        "rgb": 255
                       }
                     },
                     {
-                      "query": "path:Javascript/electron",
+                      "query": "path:JavascriptTypescript/Node",
+                      "color": {
+                        "a": 1,
+                        "rgb": 165120
+                      }
+                    },
+                    {
+                      "query": "path:JavascriptTypescript/Electron",
                       "color": {
                         "a": 1,
                         "rgb": 10990336
                       }
                     },
                     {
-                      "query": "path:\"- Dev. web\"",
+                      "query": "path:JavascriptTypescript/three.js",
                       "color": {
                         "a": 1,
-                        "rgb": 14870016
+                        "rgb": 16753152
+                      }
+                    },
+                    {
+                      "query": "path:\"JavascriptTypescript/Javascript vanilla\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711680
+                      }
+                    },
+                    {
+                      "query": "path:CSharp",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14899199
+                      }
+                    },
+                    {
+                      "query": "path:DevWeb",
+                      "color": {
+                        "a": 1,
+                        "rgb": 15662848
                       }
                     },
                     {
@@ -160,31 +192,17 @@
                       }
                     },
                     {
-                      "query": "path:\"Project notes\"",
+                      "query": "path:Css-Sass",
                       "color": {
                         "a": 1,
-                        "rgb": 11621088
+                        "rgb": 5419488
                       }
                     },
                     {
-                      "query": "path:C#",
+                      "query": "path:Java/JavaVanilla",
                       "color": {
                         "a": 1,
-                        "rgb": 14701233
-                      }
-                    },
-                    {
-                      "query": "path:Shell",
-                      "color": {
-                        "a": 1,
-                        "rgb": 9175198
-                      }
-                    },
-                    {
-                      "query": "path:Java",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14024747
+                        "rgb": 11737369
                       }
                     }
                   ],
@@ -198,7 +216,7 @@
                   "repelStrength": 11.2539057193316,
                   "linkStrength": 1,
                   "linkDistance": 294,
-                  "scale": 0.15565333152348457,
+                  "scale": 0.11063751697644611,
                   "close": true
                 }
               }
@@ -209,9 +227,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -230,7 +246,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "f7e80c1e5839227c",
@@ -243,9 +260,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula2.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -255,14 +271,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -279,7 +294,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 307.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,34 +311,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8babfc18de5e3fd7",
+  "active": "f92d590379579354",
   "lastOpenFiles": [
+    "CSharp/Bibliotecas Nativas.md",
+    "CSharp/Variáveis e types.md",
+    "CSharp/Classes no CSharp.md",
+    "Project notes/ArquiteturaHotellChallange.md",
+    "Project notes/ArquiteturaHotellChallange.png",
+    "CSharp/Collections.md",
+    "CSharp/Laços de repetição.md",
+    "JavascriptTypescript/three.js/react-three-fiber/ReactHooks.md",
+    "JavascriptTypescript/three.js/react-three-fiber/Events.md",
+    "JavascriptTypescript/three.js/react-three-fiber/Boilerplate.md",
+    "JavascriptTypescript/React/Selection4/Aula10.md",
+    "CSharp/-Index CSharp.md",
     "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula2.md",
-    "JavascriptTypescript/Angular/index Angular.md",
-    "JavascriptTypescript/Typescript/ReadMe.md",
-    "Java/ReadMe.md",
-    "DevWeb/Aulas/Dicionário.md",
-    "DevWeb/Aulas/Estudando_A_Fundo2.md",
-    "DevWeb/Aulas/DicionárioJQuery.md",
-    "DevWeb/Aulas/Sessão7/Aula 23.md",
-    "DevWeb/Aulas/Sessão5/Aula22.md",
-    "DevWeb/Aulas/Sessão4/Aula20.md",
-    "DevWeb/Aulas/Sessão4/Aula19.md",
-    "DevWeb/Aulas/Sessão4/Aula18.md",
-    "DevWeb/Aulas/Sessão4/Aula17.md",
-    "DevWeb/Aulas/Sessão4/Aula16.md",
-    "DevWeb/Aulas/Sessão4/Aula15.md",
-    "DevWeb/Aulas/Sessão4/Aula14.md",
-    "DevWeb/Aulas/Sessão1,2,3/Aula1_Refazendo.md",
-    "DevWeb/Aulas/Sessão1,2,3/Aula2_CanseiDeFicarRefazendoCoisaDoCaderno.md",
-    "DevWeb/Aulas/Sessão1,2,3/Aula3.md",
-    "DevWeb/Aulas/Sessão1,2,3/Aula4.md",
-    "DevWeb/Aulas/Sessão1,2,3/Aula5.md",
-    "DevWeb/Aulas/Sessão1,2,3/Aula6.md",
-    "DevWeb/Aulas/Sessão1,2,3/Aula7.md",
-    "DevWeb/Aulas/Sessão1,2,3/Aula8.md",
-    "DevWeb/Aulas/Sessão1,2,3/Aula9.md",
-    "DevWeb/Aulas/Sessão1,2,3/Aula10.md",
+    "JavascriptTypescript/Angular/Section13/Aula28.md",
+    "JavascriptTypescript/Javascript vanilla/Selection6/Aula59.md",
+    "CSharp/Tratamento de Erro.md",
+    "CSharp/-img/Pasted image 20230331183507.png",
+    "CSharp/Condicionais.md",
+    "CSharp/dotNet/dotnet CLI.md",
+    "Pasted image 20230331183441.png",
+    "CSharp/Arrays.md",
+    "CSharp/Namespaces.md",
+    "CSharp/Operadores.md",
+    "ReadMe.md",
+    "-Regras de Convicência.md",
+    "JavascriptTypescript/three.js/three.js vanilla/index three.js vanilla.md",
+    "JavascriptTypescript/three.js/readMe.md.md",
+    "JavascriptTypescript/three.js/react-three-fiber/img",
+    "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230326193330.png",
+    "JavascriptTypescript/three.js/three.js vanilla",
     "CSharp/-img",
     "CSharp/-img/Pasted image 20230323120215.png",
     "CSharp/-img/Pasted image 20230323114841.png",
@@ -332,17 +351,11 @@
     "CSharp/-img/Pasted image 20230322112003.png",
     "CSharp/dotNet",
     "JavascriptTypescript/Angular/img/Pasted image 20230317093823.png",
-    "JavascriptTypescript/Angular/img/Pasted image 20230317093313.png",
-    "Bootcamps/Bootcamp-SemanaJsExpert/Pasted image 20230227212403.png",
     "JavascriptTypescript/Typescript/DesignPatternsTypescript/img",
-    "JavascriptTypescript/Typescript/DesignPatternsTypescript/img/OCP-ImageCLass.png",
     "Bootcamps/Bootcamp-Linux/Aulas/Docker",
     "JavascriptTypescript/Angular/Section13",
-    "JavascriptTypescript/Angular/img/Pasted image 20230302115011.png",
     "JavascriptTypescript/Node/Selection 2",
     "JavascriptTypescript/Node/Selection 1 e 2",
-    "JavascriptTypescript/Node/Selection 3",
-    "JavascriptTypescript/Node/Selection 4",
-    "Bootcamps/Bootcamp-SemanaJsExpert"
+    "JavascriptTypescript/Node/Selection 3"
   ]
 }
