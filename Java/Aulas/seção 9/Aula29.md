@@ -1,5 +1,5 @@
 # Encapsulamento
-
+[Index Java](../../JavaVanilla/Index%20Java.md)
 mod 79  
 **03/10/21**
 

@@ -1,5 +1,5 @@
 # Dicionário java
-
+[Index Java](../JavaVanilla/Index%20Java.md)
 ## Métodos pré-determinados
 
 * prints

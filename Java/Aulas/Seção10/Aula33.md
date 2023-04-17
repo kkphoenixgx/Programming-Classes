@@ -1,4 +1,5 @@
 # garbage Collector
+[Index Java](../../JavaVanilla/Index%20Java.md)
 
 Mod 88 -- **15/12/21**
 

@@ -1,4 +1,5 @@
 # Explicação
+[Index Java](../../JavaVanilla/Index%20Java.md)
 
 Dei um tempo com o java para fazer javaScript para focar no mercado de trabalho, mas a real é que eu tenho muito tempo para melhorar em todas as áreas de ensino e me formar um dev completo e por via de dúvida, eu tô usando o Visual Studio Code para escrever os textos também, então meu modo de escrita deve mudar.  
 
