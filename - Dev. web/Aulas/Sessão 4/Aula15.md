@@ -1,5 +1,5 @@
 # jQuery Selectors
-
+[Index](../Index.md)
 Mod 34 -- **10/08/21**
 
 Bom, nessa aula teve uns pontos muito legais, como a mudança da cor e o transition, que foram simplesmente muito legais, pelo visto o $ é sim repetido, mas quando vou trabalhar com pontos do html, devo usar esses seletores com $(x), sendo x que você quer selecionar entre aspas usando seletor css mesmo.

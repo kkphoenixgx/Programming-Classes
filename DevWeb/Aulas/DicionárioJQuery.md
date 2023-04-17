@@ -1,5 +1,5 @@
 [[../../JavascriptTypescript/Javascript vanilla/IndexJs]]
-[Index Java](../../Java/JavaVanilla/Index%20Java.md)
+[Index](../../-%20Dev.%20web/Aulas/Index.md)
 
 métodos:
     on("x" , f)  x = nome do evento, f a função a ser adicionada
