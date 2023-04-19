@@ -11,8 +11,12 @@
             "id": "d6ce2c205c44e9f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CSharp/Variáveis e types.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -101,6 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "CSharp/Variáveis e types.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSharp/Variáveis e types.md"
+              }
             }
           },
           {
@@ -258,6 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSharp/Variáveis e types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,6 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSharp/Variáveis e types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
