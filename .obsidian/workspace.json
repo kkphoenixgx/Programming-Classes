@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f78969171fe0d3e6",
+        "id": "9f6cf96221bf349f",
         "type": "tabs",
         "children": [
           {
-            "id": "587c8acd635e4a69",
+            "id": "d6ce2c205c44e9f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSharp/Arrays.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CSharp/Arrays.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +226,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSharp/Arrays.md"
-              }
+              "state": {}
             }
           },
           {
@@ -265,7 +258,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSharp/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +269,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSharp/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,10 +309,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "587c8acd635e4a69",
+  "active": "d6ce2c205c44e9f2",
   "lastOpenFiles": [
-    "CSharp/-Index CSharp.md",
     "CSharp/Arrays.md",
+    "CSharp/-Index CSharp.md",
     "- Dev. web/Aulas/Sessão 4/Aula15.md",
     "DevWeb/Aulas/DicionárioJQuery.md",
     "JavascriptTypescript/Javascript vanilla/IndexJs.md",
