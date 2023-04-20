@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9f6cf96221bf349f",
+        "id": "6083496c1a527881",
         "type": "tabs",
         "children": [
           {
-            "id": "d6ce2c205c44e9f2",
+            "id": "713fa7fddd744b8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSharp/Variáveis e types.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CSharp/Variáveis e types.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +226,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSharp/Variáveis e types.md"
-              }
+              "state": {}
             }
           },
           {
@@ -265,7 +258,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSharp/Variáveis e types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +269,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSharp/Variáveis e types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,8 +309,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d6ce2c205c44e9f2",
+  "active": "713fa7fddd744b8c",
   "lastOpenFiles": [
+    "CSharp/Dynamics365",
+    "CSharp/Variáveis e types.md",
     "CSharp/Arrays.md",
     "CSharp/-Index CSharp.md",
     "- Dev. web/Aulas/Sessão 4/Aula15.md",
@@ -344,8 +337,6 @@
     "- Dev. web/Aulas/Sessão 4/Aula14.md",
     "- Dev. web/Aulas/Dicionário.md",
     "- Dev. web/Aulas/Sessão 4/Aula20.md",
-    "Hack/Section1/Aula 1.md",
-    "Hack/index cybersecurity.md",
     "Project notes/ArquiteturaHotellChallange.png",
     "CSharp/-img/Pasted image 20230331183507.png",
     "Pasted image 20230331183441.png",
