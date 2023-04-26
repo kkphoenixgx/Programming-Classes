@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula29.md",
+                "file": "JavascriptTypescript/Angular/Section 3/Aula 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula29.md",
+                "file": "JavascriptTypescript/Angular/Section 3/Aula 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula29.md"
+                "file": "JavascriptTypescript/Angular/Section 3/Aula 1.md"
               }
             }
           },
@@ -265,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula29.md",
+                "file": "JavascriptTypescript/Angular/Section 3/Aula 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula29.md",
+                "file": "JavascriptTypescript/Angular/Section 3/Aula 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,8 +318,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04a9ef8d6a13233a",
+  "active": "61b535711869a483",
   "lastOpenFiles": [
+    "JavascriptTypescript/Angular/Section 3/Aula4.md",
+    "JavascriptTypescript/Angular/Section 3/Aula3.md",
+    "JavascriptTypescript/Angular/Section 3/Aula2.md",
+    "JavascriptTypescript/Angular/Section 3/Aula 1.md",
     "JavascriptTypescript/Angular/section14/Aula29.md",
     "JavascriptTypescript/Angular/section14",
     "CSharp/Dynamics365/index Dynamics.md",
@@ -345,10 +349,6 @@
     "Hack/readMe.md",
     "- Dev. web/Aulas/Sessão 4/Aula19.md",
     "JavascriptTypescript/Typescript/ReadMe.md",
-    "- Dev. web/Aulas/Sessão 4/Aula16.md",
-    "- Dev. web/Aulas/Sessão 4/Aula18.md",
-    "- Dev. web/Aulas/Sessão 4/Aula17.md",
-    "-Templates/Template.sync-conflict-20230416-102646-675ZGCU.md",
     "Project notes/ArquiteturaHotellChallange.png",
     "CSharp/-img/Pasted image 20230331183507.png",
     "Pasted image 20230331183441.png",
