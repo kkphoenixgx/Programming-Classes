@@ -10,7 +10,7 @@ Para realizar os testes unitários, utilizamos o Karma para node e o Jasmine par
 
 ## - Mod 103 - : Jasmine
 
-Vale ressaltar que isso não é um curso de Jasmine e tem muito mais coisa para aprender, só vamos fazer o básico, *o guia de instalação está linkado na bibliografia, contudo, o Angular já possuí instalado o Jasmine*
+Vale ressaltar que isso não é um curso de Jasmine e tem muito mais coisa para aprender, só vamos fazer o básico, *o guia de instalação está linkado na bibliografia, contudo, o Angular já possuí instalado o Jasmine*.
 
 
 
