@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6083496c1a527881",
+        "id": "36651bf246c60205",
         "type": "tabs",
         "children": [
           {
-            "id": "43512f033fcc236d",
+            "id": "04a9ef8d6a13233a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSharp/Dynamics365/index Dynamics.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula29.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CSharp/Dynamics365/index Dynamics.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSharp/Dynamics365/index Dynamics.md"
+                "file": "JavascriptTypescript/Angular/section14/Aula29.md"
               }
             }
           },
@@ -265,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSharp/Dynamics365/index Dynamics.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSharp/Dynamics365/index Dynamics.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,11 +318,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61b535711869a483",
+  "active": "04a9ef8d6a13233a",
   "lastOpenFiles": [
+    "JavascriptTypescript/Angular/section14/Aula29.md",
+    "JavascriptTypescript/Angular/section14",
+    "CSharp/Dynamics365/index Dynamics.md",
     "CSharp/-img/arquiteturaDynamics365.png",
     "CSharp/Dynamics365/readMe.md",
-    "CSharp/Dynamics365/index Dynamics.md",
     "ReadMe.md",
     "CSharp/-Index CSharp.md",
     "CSharp/Dynamics365",
@@ -360,11 +362,9 @@
     "CSharp/-img/Pasted image 20230322115712.png",
     "CSharp/-img/Pasted image 20230322112003.png",
     "CSharp/dotNet",
-    "JavascriptTypescript/Angular/img/Pasted image 20230317093823.png",
     "JavascriptTypescript/Typescript/DesignPatternsTypescript/img",
     "Bootcamps/Bootcamp-Linux/Aulas/Docker",
     "JavascriptTypescript/Angular/Section13",
-    "JavascriptTypescript/Node/Selection 2",
-    "JavascriptTypescript/Node/Selection 1 e 2"
+    "JavascriptTypescript/Node/Selection 2"
   ]
 }
