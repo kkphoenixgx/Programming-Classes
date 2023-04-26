@@ -12,8 +12,36 @@ Para realizar os testes unitários, utilizamos o Karma para node e o Jasmine par
 
 Vale ressaltar que isso não é um curso de Jasmine e tem muito mais coisa para aprender, só vamos fazer o básico, *o guia de instalação está linkado na bibliografia, contudo, o Angular já possuí instalado o Jasmine*.
 
+### Instalation from Chatgpt
 
+To set up an Angular project to start already with Jasmine, you can follow these steps:
 
+1.  Install Jasmine:
+> `npm install jasmine --save-dev`
+    
+-   Install Karma test runner:
+     `npm install karma karma-jasmine jasmine-core karma-chrome-launcher --save-dev`
+    
+-   Create a new configuration file for Karma:
+    
+    csharp
+    
+-   `npx karma init`
+    
+    Follow the prompts to set up the Karma configuration file. Be sure to include the Jasmine framework and any other relevant settings.
+-   Create a new folder called `src/app` if it doesn't exist already. Inside that folder, create a new file called `app.component.spec.ts`. This will be the spec file for your `AppComponent`.
+-   Inside the `app.component.spec.ts` file, add a test case using the Jasmine syntax. For example:
+    
+    scss
+    
+-   `describe('AppComponent', () => {   it('should create the app', () => {     const fixture = TestBed.createComponent(AppComponent);     const app = fixture.componentInstance;     expect(app).toBeTruthy();   }); });`
+    
+-   Run the tests using Karma:
+    
+    sql
+    
+
+`npx karma start`
 
 -----------------------------------------------
 ## Bibliografia
