@@ -10,7 +10,7 @@ Para realizar os testes unitários, utilizamos o Karma para node e o Jasmine par
 
 ## - Mod 103 - : Jasmine
 
-Vale ressaltar que isso não é um curso de Jasmine e tem muito mais coisa para aprender, só vamos fazer o básico, *o guia de instalação está linkado na bibliografia, contudo, o Angular já possuí instalado o Jasmine*.
+Vale ressaltar que isso não é um curso de Jasmine e tem muito mais coisa para aprender, só vamos fazer o básico, *o guia de instalação está linkado na bibliografia, contudo, o Angular já possuí instalado o Jasmine  e eu fiz um quick guide logo abaixo*.
 
 ### Instalação
 
@@ -103,10 +103,16 @@ Temos diversas classes e métodos que estão ajudando a testar o componente e va
 
 * **it('description', callback)**: Isso deveria < descrição >. Exemplo: it(O AppComponent) deveria ser criado(description) sendo o Call back os testes que serão feitos. É importante manter a lógica para ficar intuitivo no console;
 
-Agora vamos falar sobre a syntaxe que ocorre no *callback do it* 
+Agora vamos falar sobre a sintaxe que ocorre no *callback do it*.
+
+* **TestBed**: O TestBed é uma classe que fornece um ambiente de teste para o código que está sendo testado, é possível criar e configurar módulos de teste, criar componentes e serviços, bem como criar instâncias do componente para serem testados. *Com isso podemos criar testes que simulam a interação do usuário com o aplicativo*, testar o fluxo de dados entre componentes e serviços e garantir que o aplicativo se comporte de forma previsível em diferentes situações. - **Um ambientador** -
+
+* **fixure**: O fixure é usado para interagir com o componente criado e com seu template, para testar se o comportamento do componente está correto. Criamos um template, uma interface, do Componente para 
 
 -----------------------------------------------
 ## Bibliografia
+
+_Alguns dos textos desse arquivo foram ajustados com conversas com o ChatGPT sobre o Angular._
 
 * site do jasmine:  jasmine.github.io/pages/getting_started.html
 
