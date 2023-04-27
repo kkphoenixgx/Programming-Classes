@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3c688497efc4fd82",
+        "id": "d53f0219e571cd49",
         "type": "tabs",
         "children": [
           {
-            "id": "cab29eb5546e8561",
+            "id": "945867305f4d9e34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSharp/Dynamics365/Setting up Enviroment.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula29.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CSharp/Dynamics365/Setting up Enviroment.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSharp/Dynamics365/Setting up Enviroment.md"
+                "file": "JavascriptTypescript/Angular/section14/Aula29.md"
               }
             }
           },
@@ -265,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSharp/Dynamics365/Setting up Enviroment.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSharp/Dynamics365/Setting up Enviroment.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,12 +318,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cab29eb5546e8561",
+  "active": "945867305f4d9e34",
   "lastOpenFiles": [
+    "CSharp/Dynamics365/Setting up Enviroment.md",
     "CSharp/Variáveis e types.md",
     "-Templates/Template.md",
     "-Templates/Simple Template.md",
-    "CSharp/Dynamics365/Setting up Enviroment.md",
     "JavascriptTypescript/Angular/section14/Aula29.md",
     "JavascriptTypescript/Angular/Section 3/Aula 1.md",
     "JavascriptTypescript/Angular/Section 3/Aula4.md",
