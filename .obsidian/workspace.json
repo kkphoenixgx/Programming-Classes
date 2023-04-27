@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7d5a02189cb68616",
+        "id": "6ef3a0baed56135f",
         "type": "tabs",
         "children": [
           {
-            "id": "f7f51d4a13722410",
+            "id": "e39fa50cf507b858",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "JavascriptTypescript/Angular/section14/Aula30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80ddc79c7a2a1c01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavascriptTypescript/Angular/JasmineDicionary.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -232,7 +220,7 @@
                   "repelStrength": 11.2539057193316,
                   "linkStrength": 1,
                   "linkDistance": 294,
-                  "scale": 0.25974214382811983,
+                  "scale": 0.18462326225858214,
                   "close": true
                 }
               }
@@ -330,10 +318,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7f51d4a13722410",
+  "active": "e39fa50cf507b858",
   "lastOpenFiles": [
-    "JavascriptTypescript/Angular/JasmineDicionary.md",
     "JavascriptTypescript/Angular/section14/Aula30.md",
+    "-Regras de Convicência.md",
+    "JavascriptTypescript/Angular/JasmineDicionary.md",
     "JavascriptTypescript/Angular/section14/Aula29.md",
     "-Templates/Template.md",
     "CSharp/Dynamics365/Setting up Enviroment.md",
@@ -360,7 +349,6 @@
     "Java/Aulas/DicionárioJava.md",
     "Java/Aulas/seção 9/Aula28.md",
     "Java/Aulas/seção 9/Aula30.md",
-    "- Dev. web/Aulas/Sessão 4/Aula21.md",
     "Project notes/ArquiteturaHotellChallange.png",
     "CSharp/-img/Pasted image 20230331183507.png",
     "Pasted image 20230331183441.png",

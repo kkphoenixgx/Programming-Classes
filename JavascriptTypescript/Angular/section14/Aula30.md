@@ -8,6 +8,13 @@ tags: [index Angular](../index%20Angular.md)
 
 * **expect(x)**: O expect diz que é esperado que x aconteça ele é usado para verificar se uma determinada expressão é verdadeira ou falsa.
 
+* **x.toEqual(y)**: Isso diz que a gente espera que x seya igual a y, exemplo: <br>`const sum = function (x, y) return x +y; expect(sum.toEqual(3))`<br> Se não for 3 vai dar erro.
+
+* **x.not.y**: Isso transforma em negativo y, exemplo:
+	> `const sum = function (x, y) return x +y; expect(sum.not.toEqual(3))`  
+	Isso vai dar erro quando o resultado for 3
+	
+
 
 ## - Mod  - :
 
