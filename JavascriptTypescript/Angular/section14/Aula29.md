@@ -107,7 +107,7 @@ Agora vamos falar sobre a sintaxe que ocorre no *callback do it*.
 
 * **TestBed**: O TestBed é uma classe que fornece um ambiente de teste para o código que está sendo testado, é possível criar e configurar módulos de teste, criar componentes e serviços, bem como criar instâncias do componente para serem testados. *Com isso podemos criar testes que simulam a interação do usuário com o aplicativo*, testar o fluxo de dados entre componentes e serviços e garantir que o aplicativo se comporte de forma previsível em diferentes situações. - **Um ambientador** -
 
-* **fixure**: O fixure é usado para interagir com o componente criado e com seu template, para testar se o comportamento do componente está correto. Criamos um template, uma interface, do Componente para 
+* **fixure**: O fixure é usado para interagir com o componente criado e com seu template, para testar se o comportamento do componente está correto. Criamos um template, uma interface, do Componente para podermos fazer testes, ***Não é uma instância, é a interface do componente***, o app é a instância.
 
 -----------------------------------------------
 ## Bibliografia

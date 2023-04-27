@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "file:JasmineDicionary",
+      "color": {
+        "a": 1,
+        "rgb": 5505192
+      }
+    },
+    {
       "query": "tag:#manage",
       "color": {
         "a": 1,
@@ -130,6 +137,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.06588203330683205,
+  "scale": 0.18345729877974937,
   "close": true
 }

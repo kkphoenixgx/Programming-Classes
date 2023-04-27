@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula29.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80ddc79c7a2a1c01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/Angular/JasmineDicionary.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula29.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula30.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula29.md"
+                "file": "JavascriptTypescript/Angular/section14/Aula30.md"
               }
             }
           },
@@ -265,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula29.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula29.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,11 +332,12 @@
   },
   "active": "f7f51d4a13722410",
   "lastOpenFiles": [
+    "JavascriptTypescript/Angular/JasmineDicionary.md",
     "JavascriptTypescript/Angular/section14/Aula30.md",
     "JavascriptTypescript/Angular/section14/Aula29.md",
+    "-Templates/Template.md",
     "CSharp/Dynamics365/Setting up Enviroment.md",
     "CSharp/Variáveis e types.md",
-    "-Templates/Template.md",
     "-Templates/Simple Template.md",
     "JavascriptTypescript/Angular/Section 3/Aula 1.md",
     "JavascriptTypescript/Angular/Section 3/Aula4.md",
@@ -348,7 +361,6 @@
     "Java/Aulas/seção 9/Aula28.md",
     "Java/Aulas/seção 9/Aula30.md",
     "- Dev. web/Aulas/Sessão 4/Aula21.md",
-    "Java/Aulas/seção 9/Aula27.md",
     "Project notes/ArquiteturaHotellChallange.png",
     "CSharp/-img/Pasted image 20230331183507.png",
     "Pasted image 20230331183441.png",
