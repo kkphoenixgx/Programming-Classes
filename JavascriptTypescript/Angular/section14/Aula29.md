@@ -12,19 +12,55 @@ Para realizar os testes unitários, utilizamos o Karma para node e o Jasmine par
 
 Vale ressaltar que isso não é um curso de Jasmine e tem muito mais coisa para aprender, só vamos fazer o básico, *o guia de instalação está linkado na bibliografia, contudo, o Angular já possuí instalado o Jasmine*.
 
-### Instalation from Chatgpt
+### Instalation
 
-To set up an Angular project to start already with Jasmine, you can follow these steps:
+Para começar, instala e salva como dependência o Jasmine
 
-1.  Install Jasmine:
+*  Install Jasmine:
 > `npm install jasmine --save-dev`
-    
+
+Depois o karma test runner
+
 -   Install Karma test runner:  
 	>`npm install karma karma-jasmine jasmine-core karma-chrome-launcher --save-dev`
-    
--   Create a new configuration file for Karma:
-  > `npx karma init`
-  
+
+- Cria um karma.config.json
+	~~~json
+	module.exports = function (config) {
+		config.set({
+			basePath: '',
+			frameworks: ['jasmine', '@angular-devkit/build-angular'],
+			plugins: [
+				require('karma-jasmine'),
+				require('karma-chrome-launcher'),
+				require('@angular-devkit/build-angular/plugins/karma')
+			],
+			
+			client: {
+				clearContext: false // leave Jasmine Spec Runner output visible in browser
+			},
+			
+			coverageIstanbulReporter: {
+				
+				dir: require('path').join(__dirname, '../coverage'),
+				reports: ['html', 'lcovonly'],
+				fixWebpackSourcePaths: true
+			
+			},
+			
+			reporters: ['progress', 'kjhtml'],
+			port: 9876,
+			colors: true,
+			logLevel: config.LOG_INFO,
+			autoWatch: true,
+			browsers: ['Chrome'],
+			singleRun: false,
+			restartOnFileChange: true
+		});
+	};
+	~~~
+
+
 -   Create a new folder called src/app if it doesn't exist already. Inside that folder, create a new file called **app.component.spec.ts**. This will be the spec file for your **AppComponent**.
 -   Inside the **app.component.spec.ts** file, add a test case using the Jasmine syntax. For example:
 ~~~ts
@@ -44,6 +80,9 @@ describe('AppComponent', () => {
 > `npx karma start`
 
 -----------------------------------------------
+### Uderstanding syntax
+
+
 ## Bibliografia
 
 * site do jasmine:  jasmine.github.io/pages/getting_started.html
