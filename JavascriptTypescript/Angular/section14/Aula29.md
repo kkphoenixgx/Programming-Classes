@@ -12,16 +12,14 @@ Para realizar os testes unitários, utilizamos o Karma para node e o Jasmine par
 
 Vale ressaltar que isso não é um curso de Jasmine e tem muito mais coisa para aprender, só vamos fazer o básico, *o guia de instalação está linkado na bibliografia, contudo, o Angular já possuí instalado o Jasmine*.
 
-### Instalation
+### Instalação
 
 Para começar, instala e salva como dependência o Jasmine
 
 *  Install Jasmine:
-> `npm install jasmine --save-dev`
+  > `npm install jasmine --save-dev`
 
-Depois o karma test runner
-
--   Install Karma test runner:  
+-   Depois o karma test runner:  
 	>`npm install karma karma-jasmine jasmine-core karma-chrome-launcher --save-dev`
 
 - Cria um karma.config.json
@@ -60,29 +58,54 @@ Depois o karma test runner
 	};
 	~~~
 
+* Cria o arquivo spec que vai realizar o primeiro teste
+	
+	-   Cria um arquivo em **src/app/app.component.spec.ts**, esse vai ser um o arquvo de testes para o seu **AppComponent** que vêm por padrão no Angular.
+	-   Dentro do **app.component.spec.ts**, coloca isso para testar:
+	~~~ts
+	import { TestBed } from '@angular/core/testing';
+	import { AppComponent } from './app.component';
+	
+	describe('AppComponent', () => { 
+		it('should create the app', () => { 
+	    const fixture = TestBed.createComponent(AppComponent);
+			const app = fixture.componentInstance;
+	
+			expect(app).toBeTruthy();   
+		}); 
+	});
+	~~~
 
--   Create a new folder called src/app if it doesn't exist already. Inside that folder, create a new file called **app.component.spec.ts**. This will be the spec file for your **AppComponent**.
--   Inside the **app.component.spec.ts** file, add a test case using the Jasmine syntax. For example:
-~~~ts
-import { TestBed } from '@angular/core/testing';
-import { AppComponent } from './app.component';
+* Realize o primeiro teste com:
+	> **ng test**
 
-describe('AppComponent', () => { 
-	it('should create the app', () => { 
-    const fixture = TestBed.createComponent(AppComponent);
-		const app = fixture.componentInstance;
-
-		expect(app).toBeTruthy();   
-	}); 
-});
-~~~
--   Run the tests using Karma:
-> `npx karma start`
-
------------------------------------------------
 ### Uderstanding syntax
 
+Com o Agular funcionando com o Jasmine, vamos só entender o que fizemos dentro do spec:
 
+~~~ts
+	import { TestBed } from '@angular/core/testing';
+	import { AppComponent } from './app.component';
+	
+	describe('AppComponent', () => { 
+		it('should create the app', () => { 
+	    const fixture = TestBed.createComponent(AppComponent);
+			const app = fixture.componentInstance;
+	
+			expect(app).toBeTruthy();   
+		}); 
+	});
+	~~~
+
+Temos diversas classes e métodos que estão ajudando a testar o componente e vamos ir entendendo a sintaxe do Jasmine aos poucos. Começando pelo describe e o it:
+
+* **describe(component, callBack)**: Os testes que ocorrerão no component por meio do callBack;
+
+* **it('description', callback)**: Isso deveria < descrição >. Exemplo: it(O AppComponent) deveria ser criado(description) sendo o Call back os testes que serão feitos. É importante manter a lógica para ficar intuitivo no console;
+
+Agora vamos falar sobre a syntaxe que ocorre no *callback do it* 
+
+-----------------------------------------------
 ## Bibliografia
 
 * site do jasmine:  jasmine.github.io/pages/getting_started.html
