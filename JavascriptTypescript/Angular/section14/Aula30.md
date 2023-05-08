@@ -13,11 +13,6 @@ tags: [index Angular](../index%20Angular.md)
 * **x.not.y**: Isso transforma em negativo y, exemplo:
 	> `const sum = function (x, y) return x + y; expect(sum.not.toEqual(3))`  
 	Isso vai dar erro quando o resultado for 3
-	
-
-
-## - Mod  - :
-
 
 
 -----------------------------------------------
