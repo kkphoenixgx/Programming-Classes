@@ -11,8 +11,12 @@
             "id": "01d2e44975e0cbca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CSharp/Dynamics365/Dataverse.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -109,6 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "CSharp/Dynamics365/Dataverse.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,7 +239,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSharp/Dynamics365/Dataverse.md"
+              }
             }
           },
           {
@@ -266,6 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSharp/Dynamics365/Dataverse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,6 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSharp/Dynamics365/Dataverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,8 +326,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61b535711869a483",
+  "active": "01d2e44975e0cbca",
   "lastOpenFiles": [
+    "Pasted image 20230508145934.png",
+    "CSharp/Dynamics365/Dataverse.md",
     "Project notes/Drawing 2023-05-05 23.31.28.excalidraw.md",
     "JavascriptTypescript/Angular/section14/Aula31.md",
     "JavascriptTypescript/Angular/section14/Aula30.md",
@@ -353,8 +364,6 @@
     "JavascriptTypescript/Typescript/Typescript/Selection9e10/Aula29-Mixins.md",
     "JavascriptTypescript/Typescript/Typescript/Selection7e8/Aula28.md",
     "JavascriptTypescript/Typescript/Typescript/Selection7e8/Aula27.md",
-    "JavascriptTypescript/Typescript/Typescript/Selection6/Aula26.md",
-    "JavascriptTypescript/Typescript/Typescript/Selection6/Aula25.md",
     "JavascriptTypescript/Typescript/Typescript/Selection3/Types",
     "JavascriptTypescript/Typescript/DesignPatternsTypescript/img/OCP-ImageCLass.png",
     "JavascriptTypescript/three.js/react-three-fiber/img",
