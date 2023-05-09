@@ -11,8 +11,12 @@
             "id": "e301492b6f7e9246",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/Angular/section14/Aula31.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -109,6 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "JavascriptTypescript/Angular/section14/Aula31.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,7 +239,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JavascriptTypescript/Angular/section14/Aula31.md"
+              }
             }
           },
           {
@@ -266,6 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavascriptTypescript/Angular/section14/Aula31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,6 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavascriptTypescript/Angular/section14/Aula31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,6 +328,7 @@
   },
   "active": "e301492b6f7e9246",
   "lastOpenFiles": [
+    "Pasted image 20230509090650.png",
     "CSharp/Dynamics365/Dataverse.md",
     "Pasted image 20230508145934.png",
     "Project notes/Drawing 2023-05-05 23.31.28.excalidraw.md",
