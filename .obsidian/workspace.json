@@ -310,8 +310,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "087d2e13b931669b",
+  "active": "61b535711869a483",
   "lastOpenFiles": [
+    "Docker/img",
+    "Docker/img/Pasted image 20230510090700.png",
     "Docker/readMe.md",
     "Docker/index Docker.md",
     "Organização.md",
@@ -349,14 +351,12 @@
     "Project notes/Arquitetura Snake Game.sync-conflict-20230416-102639-675ZGCU.md",
     "Bootcamps/Bootcamp- Impulso/Aulas/-SCRUM/Aula2.md",
     "CSharp/Classes no CSharp.md",
-    "CSharp/Namespaces.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230509091526.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230509090650.png",
     "CSharp/-img/Pasted image 20230508145934.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230326193330.png",
     "JavascriptTypescript/Typescript/Typescript/img/Pasted image 20230205194511.png",
     "JavascriptTypescript/Typescript/Typescript/img/Pasted image 20230204101216.png",
-    "JavascriptTypescript/Typescript/Typescript/img/Pasted image 20230202001106.png",
-    "JavascriptTypescript/Typescript/Typescript/img/Pasted image 20230202000827.png"
+    "JavascriptTypescript/Typescript/Typescript/img/Pasted image 20230202001106.png"
   ]
 }

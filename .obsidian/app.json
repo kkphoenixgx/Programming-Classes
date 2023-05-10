@@ -13,5 +13,10 @@
   "showUnsupportedFiles": true,
   "showIndentGuide": false,
   "showInlineTitle": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "spellcheckLanguages": [
+    "pt-BR",
+    "en-CA"
+  ],
+  "spellcheck": true
 }
