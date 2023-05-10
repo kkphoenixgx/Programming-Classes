@@ -189,19 +189,15 @@
         "type": "split",
         "children": [
           {
-            "id": "f6e4099cbf3b0fc3",
+            "id": "dddacd539929801d",
             "type": "tabs",
             "children": [
               {
-                "id": "f92d590379579354",
+                "id": "e301492b6f7e9246",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "-Regras de Convicência.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -228,18 +224,19 @@
                 }
               },
               {
-                "id": "8daf106071126953",
+                "id": "04f8b46d3665510a",
                 "type": "leaf",
                 "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
+                  "type": "git-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "bc83363142bd004b",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
                 }
               },
               {
@@ -254,26 +251,25 @@
                 }
               },
               {
-                "id": "96deb7e17d9c0360",
+                "id": "8daf106071126953",
                 "type": "leaf",
                 "state": {
-                  "type": "starred",
-                  "state": {}
-                }
-              },
-              {
-                "id": "04f8b46d3665510a",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {}
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 211.5129165649414
+        "width": 229.5
       },
       "right": {
         "id": "31bbf7ce70508d5b",
@@ -290,7 +286,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "-Regras de Convicência.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -405,7 +400,7 @@
                       "repelStrength": 11.2539057193316,
                       "linkStrength": 1,
                       "linkDistance": 294,
-                      "scale": 0.11063751697644611,
+                      "scale": 0.18462326225858214,
                       "close": true
                     }
                   }
@@ -416,16 +411,6 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "-Regras de Convicência.md"
-                  }
-                }
-              },
-              {
-                "id": "fc5fbca9d6fe5165",
-                "type": "leaf",
-                "state": {
-                  "type": "reminder-list",
                   "state": {}
                 }
               },
@@ -450,7 +435,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "-Regras de Convicência.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -462,7 +446,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "-Regras de Convicência.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -503,7 +486,7 @@
           "obsidian-excalidraw-plugin:Create new drawing": false
         }
       },
-      "active": "f92d590379579354"
+      "active": "e301492b6f7e9246"
     }
   },
   "active": "Programming"
