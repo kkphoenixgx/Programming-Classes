@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6d67c20aa5622423",
+        "id": "8b37170574982074",
         "type": "tabs",
         "children": [
           {
-            "id": "231ddde5f1a5a70e",
+            "id": "9e0d187abf98782e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mongo.db/readMe.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mongo.db/readMe.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +226,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mongo.db/readMe.md"
-              }
+              "state": {}
             }
           },
           {
@@ -257,7 +250,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mongo.db/readMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +261,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mongo.db/readMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,10 +301,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "231ddde5f1a5a70e",
+  "active": "9e0d187abf98782e",
   "lastOpenFiles": [
-    "Docker/readMe.md",
     "Mongo.db/readMe.md",
+    "Docker/readMe.md",
     "Mongo.db/Index Mongo.db.md",
     "Mongo.db",
     "Docker/index Docker.md",
