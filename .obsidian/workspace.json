@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2cd660314e70658e",
+        "id": "6d67c20aa5622423",
         "type": "tabs",
         "children": [
           {
-            "id": "087d2e13b931669b",
+            "id": "231ddde5f1a5a70e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/index Docker.md",
+                "file": "Mongo.db/readMe.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Docker/index Docker.md",
+                "file": "Mongo.db/readMe.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/index Docker.md"
+                "file": "Mongo.db/readMe.md"
               }
             }
           },
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/index Docker.md",
+                "file": "Mongo.db/readMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/index Docker.md",
+                "file": "Mongo.db/readMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,12 +310,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61b535711869a483",
+  "active": "231ddde5f1a5a70e",
   "lastOpenFiles": [
+    "Docker/readMe.md",
+    "Mongo.db/readMe.md",
+    "Mongo.db/Index Mongo.db.md",
+    "Mongo.db",
+    "Docker/index Docker.md",
     "Docker/img",
     "Docker/img/Pasted image 20230510090700.png",
-    "Docker/readMe.md",
-    "Docker/index Docker.md",
     "Organização.md",
     "DevWeb/ReadMe.md",
     "Docker",
@@ -327,8 +330,6 @@
     "- Dev. web/Aulas/Fora de Aula/cssFA/Estudando_A_Fundo3.txt",
     "- Dev. web/Aulas/Fora de Aula/cssFA/Estudando_A_Fundo2.txt",
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssTips.txt",
-    "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT",
-    "- Dev. web/Aulas/Fora de Aula/cssFA/CssConcepts.txt",
     "- Dev. web/Aulas/Sessão 6/Aula 23.md",
     "- Dev. web/Aulas/Sessão 5/Aula 22.md",
     "- Dev. web/Aulas/Sessão 4/Aula20.md",
@@ -350,7 +351,6 @@
     "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula1.md",
     "Project notes/Arquitetura Snake Game.sync-conflict-20230416-102639-675ZGCU.md",
     "Bootcamps/Bootcamp- Impulso/Aulas/-SCRUM/Aula2.md",
-    "CSharp/Classes no CSharp.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230509091526.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230509090650.png",
     "CSharp/-img/Pasted image 20230508145934.png",
