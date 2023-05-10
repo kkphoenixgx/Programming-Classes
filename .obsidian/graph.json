@@ -125,6 +125,13 @@
         "a": 1,
         "rgb": 8660151
       }
+    },
+    {
+      "query": "path:Docker",
+      "color": {
+        "a": 1,
+        "rgb": 131705
+      }
     }
   ],
   "collapse-display": true,
@@ -137,6 +144,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.065882033306832,
+  "scale": 0.05601444843854503,
   "close": true
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5218b290a7588711",
+        "id": "2cd660314e70658e",
         "type": "tabs",
         "children": [
           {
-            "id": "448194b428ef7bad",
+            "id": "087d2e13b931669b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/readMe.md",
+                "file": "Docker/index Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,8 +84,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Docker/readMe.md",
+                "file": "Docker/index Docker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -233,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/readMe.md"
+                "file": "Docker/index Docker.md"
               }
             }
           },
@@ -258,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/readMe.md",
+                "file": "Docker/index Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/readMe.md",
+                "file": "Docker/index Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,10 +310,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04f8b46d3665510a",
+  "active": "087d2e13b931669b",
   "lastOpenFiles": [
-    "DevWeb/ReadMe.md",
     "Docker/readMe.md",
+    "Docker/index Docker.md",
+    "Organização.md",
+    "DevWeb/ReadMe.md",
     "Docker",
     "-Templates/Simple Template.md",
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula4cssyt.txt",
@@ -349,8 +350,6 @@
     "Bootcamps/Bootcamp- Impulso/Aulas/-SCRUM/Aula2.md",
     "CSharp/Classes no CSharp.md",
     "CSharp/Namespaces.md",
-    "CSharp/Operadores.md",
-    "Hack/readMe.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230509091526.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230509090650.png",
     "CSharp/-img/Pasted image 20230508145934.png",
