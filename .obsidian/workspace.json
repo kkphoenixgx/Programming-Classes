@@ -11,8 +11,12 @@
             "id": "9e0d187abf98782e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -101,6 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JavascriptTypescript/Angular/section14/Aula32.md"
+              }
             }
           },
           {
@@ -250,6 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -261,6 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,6 +312,8 @@
   },
   "active": "9e0d187abf98782e",
   "lastOpenFiles": [
+    "JavascriptTypescript/Angular/section14/Aula31.md",
+    "JavascriptTypescript/Angular/section14/Aula32.md",
     "Mongo.db/readMe.md",
     "Docker/readMe.md",
     "Mongo.db/Index Mongo.db.md",
@@ -340,8 +351,6 @@
     "Bootcamps/Bootcamp- Impulso/Aulas/-LógicaComputacional/Aula3.md",
     "Bootcamps/Bootcamp- Impulso/Aulas/-LógicaDeProgramação/Aula2.md",
     "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula1.md",
-    "Project notes/Arquitetura Snake Game.sync-conflict-20230416-102639-675ZGCU.md",
-    "Bootcamps/Bootcamp- Impulso/Aulas/-SCRUM/Aula2.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230509091526.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230509090650.png",
     "CSharp/-img/Pasted image 20230508145934.png",
