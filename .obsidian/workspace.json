@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSharp/Unity/MonoBehaviour.md",
+                "file": "CSharp/Unity/Coroutines.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSharp/Unity/MonoBehaviour.md",
+                "file": "CSharp/Unity/Classes Nativas.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CSharp/Unity/MonoBehaviour.md",
+                "file": "CSharp/Unity/Classes Nativas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSharp/Unity/MonoBehaviour.md"
+                "file": "CSharp/Unity/Classes Nativas.md"
               }
             }
           },
@@ -270,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSharp/Unity/MonoBehaviour.md",
+                "file": "CSharp/Unity/Classes Nativas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSharp/Unity/MonoBehaviour.md",
+                "file": "CSharp/Unity/Classes Nativas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,13 +325,14 @@
   },
   "active": "beed2625faf07761",
   "lastOpenFiles": [
+    "CSharp/Unity/-index Unity.md",
+    "CSharp/Unity/Classes Nativas.md",
+    "CSharp/Unity/MonoBehaviour.md",
     "CSharp/Unity/Coroutines.md",
     "CSharp/Classes no CSharp.md",
-    "CSharp/Unity/MonoBehaviour.md",
     "CSharp/Unity/img",
     "CSharp/Unity/img/Pasted image 20230511111524.png",
     "Pasted image 20230511111500.png",
-    "CSharp/Unity/-index Unity.md",
     "JavascriptTypescript/Angular/section14/Aula32.md",
     "CSharp/Unity",
     "JavascriptTypescript/Angular/section14/Aula31.md",
@@ -365,7 +366,6 @@
     "Bootcamps/Bootcamp- Impulso/Aulas/img/padrao-de-fluxograma.png",
     "Bootcamps/Bootcamp- Impulso/Aulas/img/Estrutura de repetição.png",
     "Bootcamps/Bootcamp- Impulso/Aulas/-LógicaDeProgramação/Portugol/Aula4.md",
-    "Bootcamps/Bootcamp- Impulso/Aulas/-LógicaComputacional/Aula2.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230509091526.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230509090650.png",
     "CSharp/-img/Pasted image 20230508145934.png",

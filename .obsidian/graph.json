@@ -99,6 +99,20 @@
       }
     },
     {
+      "query": "path:CSharp/Unity",
+      "color": {
+        "a": 1,
+        "rgb": 10682496
+      }
+    },
+    {
+      "query": "path:CSharp/Dynamics365",
+      "color": {
+        "a": 1,
+        "rgb": 5308503
+      }
+    },
+    {
       "query": "path:CSharp",
       "color": {
         "a": 1,
@@ -144,6 +158,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.05601444843854498,
+  "scale": 0.04683024442255399,
   "close": true
 }

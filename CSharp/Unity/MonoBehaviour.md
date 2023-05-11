@@ -23,4 +23,5 @@ public class Game :MonoBehaviour {
 ## Métodos
 
 * **print** = Coloca na tela do console Unity.
-* **WaitForSeconds**= O "WaitForSeconds" é uma classe da Unity que herda de "CustomYieldInstruction" e é usada em corrotinas que são executadas por meio de componentes "MonoBehaviour" ~ *ChatGPT*. Basicamente espera 
+* **WaitForSeconds**= O "WaitForSeconds" é uma classe da Unity que herda de "CustomYieldInstruction" e é usada em corrotinas que são executadas por meio de componentes "MonoBehaviour" ~ *ChatGPT*. Basicamente espera uma quantidade de tempo e deve ser usado justamente com as [Coroutines](Coroutines.md)
+* **WaitForEndOfFrame** = Espera até o final de um frame, deve ser usado com o contexto das [Coroutines](Coroutines.md).
