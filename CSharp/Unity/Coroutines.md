@@ -8,6 +8,6 @@ As corrotinas (coroutines, em inglês) são uma funcionalidade do Unity que perm
 
 Como podemos ver na imagem acima, para fazer uma coroutine precisamos de um contexto, nesse caso, usamos o método **StartCoroutine()** para justamente ativar esse ambiente assíncrono e executar **IEnumerators**, tarefas com a  interface para execução de coisas assíncronas...
 
-## O que podemos fazer com as corrotinas: Métodos, classes que recebem suporte
+* **yield** = Espere, é uma forma de dizer que o que vêm a seguir é assíncrono, Parte do contexto para a execução.
 
-* **yield** = Espere, é uma forma de dizer que o que vêm a seguir é assíncrono.
+
