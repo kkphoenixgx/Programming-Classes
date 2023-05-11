@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSharp/Unity/Coroutines.md",
+                "file": "CSharp/Unity/MonoBehavior.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CSharp/Unity/Coroutines.md",
+                "file": "CSharp/Unity/MonoBehavior.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSharp/Unity/Coroutines.md"
+                "file": "CSharp/Unity/MonoBehavior.md"
               }
             }
           },
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSharp/Unity/Coroutines.md",
+                "file": "CSharp/Unity/MonoBehavior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSharp/Unity/Coroutines.md",
+                "file": "CSharp/Unity/MonoBehavior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,10 +312,12 @@
   },
   "active": "1337c3d91c2e2f91",
   "lastOpenFiles": [
+    "CSharp/Unity/MonoBehavior.md",
+    "CSharp/Unity/img",
     "CSharp/Unity/Coroutines.md",
-    "Pasted image 20230511111524.png",
+    "CSharp/Unity/img/Pasted image 20230511111524.png",
     "Pasted image 20230511111500.png",
-    "CSharp/Unity/index Unity.md",
+    "CSharp/Unity/-index Unity.md",
     "JavascriptTypescript/Angular/section14/Aula32.md",
     "CSharp/Unity",
     "JavascriptTypescript/Angular/section14/Aula31.md",
@@ -335,7 +337,6 @@
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula2cssyt.txt",
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula1cssyt.txt",
     "- Dev. web/Aulas/Fora de Aula/cssFA/Estudando_A_Fundo3.txt",
-    "- Dev. web/Aulas/Fora de Aula/cssFA/Estudando_A_Fundo2.txt",
     "- Dev. web/Aulas/Sessão 6/Aula 23.md",
     "- Dev. web/Aulas/Sessão 5/Aula 22.md",
     "- Dev. web/Aulas/Sessão 4/Aula20.md",
@@ -351,7 +352,6 @@
     "Bootcamps/Bootcamp- Impulso/Aulas/img/Estrutura de repetição.png",
     "Bootcamps/Bootcamp- Impulso/Aulas/-LógicaDeProgramação/Portugol/Aula4.md",
     "Bootcamps/Bootcamp- Impulso/Aulas/-LógicaComputacional/Aula2.md",
-    "Bootcamps/Bootcamp- Impulso/Aulas/-LógicaDeProgramação/Aula3.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230509091526.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230509090650.png",
     "CSharp/-img/Pasted image 20230508145934.png",
