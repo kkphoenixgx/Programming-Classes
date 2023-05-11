@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3a1071ebcd0c2c4c",
+        "id": "47bee22c98d57a26",
         "type": "tabs",
         "children": [
           {
-            "id": "1337c3d91c2e2f91",
+            "id": "8b52760c00e3fded",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSharp/Unity/Coroutines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "beed2625faf07761",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSharp/Unity/Classes Nativas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CSharp/Unity/Classes Nativas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,9 +226,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSharp/Unity/Classes Nativas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -270,7 +250,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSharp/Unity/Classes Nativas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -282,7 +261,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSharp/Unity/Classes Nativas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,12 +301,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "beed2625faf07761",
+  "active": "8b52760c00e3fded",
   "lastOpenFiles": [
-    "CSharp/Unity/-index Unity.md",
-    "CSharp/Unity/Classes Nativas.md",
-    "CSharp/Unity/MonoBehaviour.md",
+    "Java/JavaVanilla/Seção10/Aula37.md",
     "CSharp/Unity/Coroutines.md",
+    "Java/JavaVanilla/DicionárioJava.md",
+    "Java/Aulas/DicionárioJava.md",
+    "Java/JavaVanilla/seção-1to8/Aula1-mod24.md",
+    "CSharp/Unity/Classes Nativas.md",
+    "CSharp/Unity/-index Unity.md",
+    "CSharp/Unity/MonoBehaviour.md",
     "CSharp/Classes no CSharp.md",
     "CSharp/Unity/img",
     "CSharp/Unity/img/Pasted image 20230511111524.png",
@@ -360,12 +342,8 @@
     "- Dev. web/Aulas/Sessão 4/Aula17.md",
     "- Dev. web/Aulas/Sessão 4/Aula16.md",
     "- Dev. web/Aulas/Sessão 4/Aula15.md",
-    "- Dev. web/Aulas/Sessão 4/Aula14.md",
-    "- Dev. web/Aulas/Index.md",
-    "- Dev. web/Aulas/Dicionário.md",
     "Bootcamps/Bootcamp- Impulso/Aulas/img/padrao-de-fluxograma.png",
     "Bootcamps/Bootcamp- Impulso/Aulas/img/Estrutura de repetição.png",
-    "Bootcamps/Bootcamp- Impulso/Aulas/-LógicaDeProgramação/Portugol/Aula4.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230509091526.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230509090650.png",
     "CSharp/-img/Pasted image 20230508145934.png",
