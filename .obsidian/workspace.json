@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSharp/Unity/Corrotinas.md",
+                "file": "CSharp/Unity/Coroutines.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CSharp/Unity/Corrotinas.md",
+                "file": "CSharp/Unity/Coroutines.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSharp/Unity/Corrotinas.md"
+                "file": "CSharp/Unity/Coroutines.md"
               }
             }
           },
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSharp/Unity/Corrotinas.md",
+                "file": "CSharp/Unity/Coroutines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSharp/Unity/Corrotinas.md",
+                "file": "CSharp/Unity/Coroutines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,9 +312,9 @@
   },
   "active": "1337c3d91c2e2f91",
   "lastOpenFiles": [
+    "CSharp/Unity/Coroutines.md",
     "Pasted image 20230511111524.png",
     "Pasted image 20230511111500.png",
-    "CSharp/Unity/Corrotinas.md",
     "CSharp/Unity/index Unity.md",
     "JavascriptTypescript/Angular/section14/Aula32.md",
     "CSharp/Unity",
@@ -356,7 +356,6 @@
     "JavascriptTypescript/Angular/img/Pasted image 20230509090650.png",
     "CSharp/-img/Pasted image 20230508145934.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230326193330.png",
-    "JavascriptTypescript/Typescript/Typescript/img/Pasted image 20230205194511.png",
-    "JavascriptTypescript/Typescript/Typescript/img/Pasted image 20230204101216.png"
+    "JavascriptTypescript/Typescript/Typescript/img/Pasted image 20230205194511.png"
   ]
 }
