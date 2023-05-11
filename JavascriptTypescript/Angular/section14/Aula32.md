@@ -6,7 +6,7 @@ tags: [index Angular](../index%20Angular.md)
 
 * **beforeEach** = antes de todas specs, execute isso
 * **fixture.detectChanges** = detecta as mudanças da fixure
-* **x.toBeTruthy()** = espera que x seja true
+* **x** = espera que x seja true
 
 vale salientar que o fixture.detectChanges pode dar problema quando iniciado dentro de um beforeEach, qualquer coisa só colocar em um it
 
