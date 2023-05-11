@@ -1,5 +1,6 @@
-*Variante = (Tipo) + nome = x
 [Index Java](Index%20Java.md)
+
+*Variante = (Tipo) + nome = x
 
 *Import é uma classe de aderimento de funções pré 
 selecionadas.

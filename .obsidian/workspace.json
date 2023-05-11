@@ -4,18 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "47bee22c98d57a26",
+        "id": "11c5b8efacb9c8a3",
         "type": "tabs",
         "children": [
           {
-            "id": "8b52760c00e3fded",
+            "id": "fc63f6adfc72762d",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "4273f2f4d2a4f7fb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Project notes/Drawing 2023-05-11 18.18.06.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,6 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Project notes/Drawing 2023-05-11 18.18.06.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +238,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project notes/Drawing 2023-05-11 18.18.06.excalidraw.md"
+              }
             }
           },
           {
@@ -250,6 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project notes/Drawing 2023-05-11 18.18.06.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -261,6 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project notes/Drawing 2023-05-11 18.18.06.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,8 +317,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b52760c00e3fded",
+  "active": "4273f2f4d2a4f7fb",
   "lastOpenFiles": [
+    "Project notes/JavaEx.md",
+    "Project notes/Drawing 2023-05-11 18.18.06.excalidraw.md",
+    "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula1- mod24.md",
     "Java/JavaVanilla/Seção10/Aula37.md",
     "CSharp/Unity/Coroutines.md",
     "Java/JavaVanilla/DicionárioJava.md",
@@ -339,9 +358,6 @@
     "- Dev. web/Aulas/Sessão 4/Aula20.md",
     "- Dev. web/Aulas/Sessão 4/Aula19.md",
     "- Dev. web/Aulas/Sessão 4/Aula18.md",
-    "- Dev. web/Aulas/Sessão 4/Aula17.md",
-    "- Dev. web/Aulas/Sessão 4/Aula16.md",
-    "- Dev. web/Aulas/Sessão 4/Aula15.md",
     "Bootcamps/Bootcamp- Impulso/Aulas/img/padrao-de-fluxograma.png",
     "Bootcamps/Bootcamp- Impulso/Aulas/img/Estrutura de repetição.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230509091526.png",
