@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "11c5b8efacb9c8a3",
+        "id": "20d5ddc39936936b",
         "type": "tabs",
         "children": [
           {
-            "id": "fc63f6adfc72762d",
+            "id": "3fbd034c1a25d233",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "4273f2f4d2a4f7fb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Project notes/Drawing 2023-05-11 18.18.06.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Project notes/Drawing 2023-05-11 18.18.06.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,9 +226,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project notes/Drawing 2023-05-11 18.18.06.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -264,7 +250,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project notes/Drawing 2023-05-11 18.18.06.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,7 +261,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project notes/Drawing 2023-05-11 18.18.06.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,10 +301,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4273f2f4d2a4f7fb",
+  "active": "61b535711869a483",
   "lastOpenFiles": [
-    "Project notes/JavaEx.md",
     "Project notes/Drawing 2023-05-11 18.18.06.excalidraw.md",
+    "Project notes/JavaEx.md",
     "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula1- mod24.md",
     "Java/JavaVanilla/Seção10/Aula37.md",
     "CSharp/Unity/Coroutines.md",
