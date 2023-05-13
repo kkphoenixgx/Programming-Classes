@@ -5,6 +5,7 @@ Docker is a technology to manage containers, is created to manage entire apps in
 
 ![](img/Pasted%20image%2020230510090700.png)
 
+
 ## Bibliography
 
 https://www.udemy.com/course/docker-kubernetes-the-practical-guide/learn/lecture/22166758#overview

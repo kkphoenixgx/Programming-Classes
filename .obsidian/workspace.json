@@ -11,8 +11,12 @@
             "id": "3fbd034c1a25d233",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Containers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -101,6 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Docker/Containers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Docker/Containers.md"
+              }
             }
           },
           {
@@ -250,6 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Docker/Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -261,6 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Docker/Containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,8 +310,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61b535711869a483",
+  "active": "3fbd034c1a25d233",
   "lastOpenFiles": [
+    "Docker/Images.md",
+    "Docker/dockerDiccionary.md",
+    "Docker/Containers.md",
     "Project notes/Drawing 2023-05-11 18.18.06.excalidraw.md",
     "Project notes/JavaEx.md",
     "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula1- mod24.md",
@@ -339,9 +351,6 @@
     "- Dev. web/Aulas/Fora de Aula/cssFA/Estudando_A_Fundo3.txt",
     "- Dev. web/Aulas/Sessão 6/Aula 23.md",
     "- Dev. web/Aulas/Sessão 5/Aula 22.md",
-    "- Dev. web/Aulas/Sessão 4/Aula20.md",
-    "- Dev. web/Aulas/Sessão 4/Aula19.md",
-    "- Dev. web/Aulas/Sessão 4/Aula18.md",
     "Bootcamps/Bootcamp- Impulso/Aulas/img/padrao-de-fluxograma.png",
     "Bootcamps/Bootcamp- Impulso/Aulas/img/Estrutura de repetição.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230509091526.png",
