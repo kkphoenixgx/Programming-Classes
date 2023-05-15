@@ -53,7 +53,7 @@ The useState hook allow us to re-render objects when we change a propriety autom
 ## useMemo()
 
 ~~~js 
-import {useState} from 'react'
+import {useMemo} from 'react'
 ~~~
 
 

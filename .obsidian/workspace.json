@@ -11,8 +11,12 @@
             "id": "d54698a432e4210d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/three.js/react-three-fiber/ReactHooks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -101,6 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "JavascriptTypescript/three.js/react-three-fiber/ReactHooks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JavascriptTypescript/three.js/react-three-fiber/ReactHooks.md"
+              }
             }
           },
           {
@@ -250,6 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavascriptTypescript/three.js/react-three-fiber/ReactHooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -261,6 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavascriptTypescript/three.js/react-three-fiber/ReactHooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,6 +312,7 @@
   },
   "active": "d54698a432e4210d",
   "lastOpenFiles": [
+    "JavascriptTypescript/three.js/react-three-fiber/Boilerplate.md",
     "Bootcamps/BootcampDevops-de-elite/Aula/Aula1.md",
     "Bootcamps/BootcampDevops-de-elite/Aula/Aula5.md",
     "Bootcamps/BootcampDevops-de-elite/index-bootcamp-devops-de-elite.md",
@@ -335,7 +345,6 @@
     "Docker/index Docker.md",
     "Docker/img",
     "Docker/img/Pasted image 20230510090700.png",
-    "Organização.md",
     "Docker",
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula4cssyt.txt",
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula3cssyt.txt",
