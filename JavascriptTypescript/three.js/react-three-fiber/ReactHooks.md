@@ -1,5 +1,4 @@
 # Aula2
-2023-03-26
 tags: [-index React-three-fiber](-index%20React-three-fiber.md)
 
 ## useRef()
@@ -56,7 +55,7 @@ The useState hook allow us to re-render objects when we change a propriety autom
 import {useMemo} from 'react'
 ~~~
 
-
+To do not lose data in state changes, we have to use this useMemo, imagine if you have to create a new three.js mesh object, this will be created in production andcannot will be recreated every time that the state changes....
 
 -----------------------------------------------
 ## Bibliografia
@@ -68,3 +67,5 @@ https://sbcode.net/react-three-fiber/use-effect/
 https://sbcode.net/react-three-fiber/use-frame/
 
 https://sbcode.net/react-three-fiber/use-state/
+
+https://sbcode.net/react-three-fiber/use-memo/
