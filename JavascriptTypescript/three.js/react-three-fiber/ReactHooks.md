@@ -55,8 +55,7 @@ The useState hook allow us to re-render objects when we change a propriety autom
 import {useMemo} from 'react'
 ~~~
 
-
-To do not lose data in state changes, we have to use this **useMemo** hook, imagine if you have to create a new three.js mesh object, this will be created in production so it will be created every time. However, it cannot be recreated every time that the state changes, the performance of the react app will be realy, realy bad if you do so....
+To do not lose data in state changes, we have to use this **useMemo** hook, imagine if you have to create a new three.js mesh object, this will be created in production so it will be created every time. However, it cannot be recreated every time that the state changes, the performance of the react app will be realy, realy bad if you do so...
 
 > `const someName = useMemo( () => fn, [dependencies] )`
 
