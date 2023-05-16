@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Images.md",
+                "file": "Docker/dockerDiccionary.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7787b453b135d3a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Containers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Docker/Containers.md",
+                "file": "Docker/dockerDiccionary.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Containers.md"
+                "file": "Docker/dockerDiccionary.md"
               }
             }
           },
@@ -282,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Containers.md",
+                "file": "Docker/dockerDiccionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -294,7 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Containers.md",
+                "file": "Docker/dockerDiccionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,8 +322,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b3f8d6a34d1089b4",
+  "active": "0dd8255235bb653c",
   "lastOpenFiles": [
+    "Docker/index Docker.md",
     "Docker/Images.md",
     "Docker/Containers.md",
     "Mongo.db/Index Mongo.db.md",
