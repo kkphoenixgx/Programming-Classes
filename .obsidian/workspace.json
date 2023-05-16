@@ -105,7 +105,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mongo.db/Index Mongo.db.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +230,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mongo.db/Index Mongo.db.md"
-              }
+              "state": {}
             }
           },
           {
@@ -257,7 +254,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mongo.db/Index Mongo.db.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +265,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mongo.db/Index Mongo.db.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,13 +305,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61b535711869a483",
+  "active": "18e4291c106f4ae0",
   "lastOpenFiles": [
+    "Mongo.db/Index Mongo.db.md",
+    "Pasted image 20230516165547.png",
     "Mongo.db/img/Pasted image 20230516165213.png",
     "Mongo.db/img",
     "Mongo.db/img/Pasted image 20230516164559.png",
     "Mongo.db/readMe.md",
-    "Mongo.db/Index Mongo.db.md",
     "JavascriptTypescript/Angular/section14/Aula33.md",
     "JavascriptTypescript/Angular/section14/Aula32.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230516135350.png",
@@ -355,8 +351,6 @@
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula1cssyt.txt",
     "Bootcamps/Bootcamp- Impulso/Aulas/img/padrao-de-fluxograma.png",
     "Bootcamps/Bootcamp- Impulso/Aulas/img/Estrutura de repetição.png",
-    "JavascriptTypescript/Angular/img/Pasted image 20230509091526.png",
-    "JavascriptTypescript/Angular/img/Pasted image 20230509090650.png",
-    "CSharp/-img/Pasted image 20230508145934.png"
+    "JavascriptTypescript/Angular/img/Pasted image 20230509091526.png"
   ]
 }
