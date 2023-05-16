@@ -10,8 +10,8 @@ To run our container, we need a image, check how to create one in [Create a Imag
 
 With *imageId* that is displayed in the  last line of `docker build .` like it: "Successfully built *d2cc7b04fb0a*" we can create our container with the image running: **docker run imageId**. However, since our container has a port to connect, we publish **docker run -p 3000:3000 imageId** to fully connect our local port to the container port.
 
-And, to shut down a container, we can run `docker ps` loo
-	* ￼￼-it￼￼ = this k out the containerName and shut down it running **docker stop containerName**
+And, to shut down a container, we can run `docker ps` too
+	**-it** = this k out the containerName and shut down it running **docker stop containerName**
 
 ## Util command lines
 
