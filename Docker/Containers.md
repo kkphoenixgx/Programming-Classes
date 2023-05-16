@@ -2,6 +2,8 @@
 2023-04-29
 tags: [index Docker](index%20Docker.md)
 
+Containers are virtual containers that encapsulates some app or some process, databases... Some kind of production that will be running in the container's environment  
+
 ## Setting up a Container
 
 To run our container, we need a dockerfile to run all the enviroment, just like it:
