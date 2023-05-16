@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a8b768533b6c591c",
+        "id": "745fc390fe713f7f",
         "type": "tabs",
         "children": [
           {
-            "id": "e724b42cfc285b6c",
+            "id": "46cc0c3529bfec73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula33.md",
+                "file": "Mongo.db/Index Mongo.db.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula33.md",
+                "file": "Mongo.db/Index Mongo.db.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula33.md"
+                "file": "Mongo.db/Index Mongo.db.md"
               }
             }
           },
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula33.md",
+                "file": "Mongo.db/Index Mongo.db.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula33.md",
+                "file": "Mongo.db/Index Mongo.db.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,10 +310,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e724b42cfc285b6c",
+  "active": "61b535711869a483",
   "lastOpenFiles": [
-    "JavascriptTypescript/Angular/section14/Aula32.md",
+    "Mongo.db/img/Pasted image 20230516165213.png",
+    "Mongo.db/img",
+    "Mongo.db/img/Pasted image 20230516164559.png",
+    "Mongo.db/readMe.md",
+    "Mongo.db/Index Mongo.db.md",
     "JavascriptTypescript/Angular/section14/Aula33.md",
+    "JavascriptTypescript/Angular/section14/Aula32.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230516135350.png",
     "JavascriptTypescript/three.js/react-three-fiber/ReactHooks.md",
     "JavascriptTypescript/three.js/three.js vanilla/Three.js's Native Objects.md",
@@ -336,9 +341,6 @@
     "Java/JavaVanilla/Seção10/Aula37.md",
     "CSharp/Unity/Coroutines.md",
     "Java/JavaVanilla/DicionárioJava.md",
-    "Java/Aulas/DicionárioJava.md",
-    "Java/JavaVanilla/seção-1to8/Aula1-mod24.md",
-    "CSharp/Unity/Classes Nativas.md",
     "CSharp/Unity/img",
     "CSharp/Unity/img/Pasted image 20230511111524.png",
     "Pasted image 20230511111500.png",
@@ -351,12 +353,10 @@
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula3cssyt.txt",
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula2cssyt.txt",
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula1cssyt.txt",
-    "- Dev. web/Aulas/Fora de Aula/cssFA/Estudando_A_Fundo3.txt",
     "Bootcamps/Bootcamp- Impulso/Aulas/img/padrao-de-fluxograma.png",
     "Bootcamps/Bootcamp- Impulso/Aulas/img/Estrutura de repetição.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230509091526.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230509090650.png",
-    "CSharp/-img/Pasted image 20230508145934.png",
-    "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230326193330.png"
+    "CSharp/-img/Pasted image 20230508145934.png"
   ]
 }
