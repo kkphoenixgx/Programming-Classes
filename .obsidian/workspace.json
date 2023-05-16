@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "269e482e7668f2e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Images.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -324,9 +336,10 @@
   },
   "active": "0dd8255235bb653c",
   "lastOpenFiles": [
-    "Docker/index Docker.md",
     "Docker/Images.md",
     "Docker/Containers.md",
+    "Docker/dockerDiccionary.md",
+    "Docker/index Docker.md",
     "Mongo.db/Index Mongo.db.md",
     "Pasted image 20230516165547.png",
     "Mongo.db/img/Pasted image 20230516165213.png",
@@ -348,7 +361,6 @@
     "Bootcamps/BootcampDevops-de-elite/Aula/Aula5.md",
     "Bootcamps/BootcampDevops-de-elite/index-bootcamp-devops-de-elite.md",
     "DevWeb/ReadMe.md",
-    "Docker/dockerDiccionary.md",
     "Project notes/Drawing 2023-05-11 18.18.06.excalidraw.md",
     "Project notes/JavaEx.md",
     "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula1- mod24.md",
