@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula33.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula33.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula32.md"
+                "file": "JavascriptTypescript/Angular/section14/Aula33.md"
               }
             }
           },
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,6 +312,9 @@
   },
   "active": "e724b42cfc285b6c",
   "lastOpenFiles": [
+    "JavascriptTypescript/Angular/section14/Aula32.md",
+    "JavascriptTypescript/Angular/section14/Aula33.md",
+    "JavascriptTypescript/Angular/img/Pasted image 20230516135350.png",
     "JavascriptTypescript/three.js/react-three-fiber/ReactHooks.md",
     "JavascriptTypescript/three.js/three.js vanilla/Three.js's Native Objects.md",
     "-Regras de Convicência.md",
@@ -336,8 +339,6 @@
     "Java/Aulas/DicionárioJava.md",
     "Java/JavaVanilla/seção-1to8/Aula1-mod24.md",
     "CSharp/Unity/Classes Nativas.md",
-    "CSharp/Unity/-index Unity.md",
-    "CSharp/Unity/MonoBehaviour.md",
     "CSharp/Unity/img",
     "CSharp/Unity/img/Pasted image 20230511111524.png",
     "Pasted image 20230511111500.png",
@@ -356,7 +357,6 @@
     "JavascriptTypescript/Angular/img/Pasted image 20230509091526.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230509090650.png",
     "CSharp/-img/Pasted image 20230508145934.png",
-    "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230326193330.png",
-    "JavascriptTypescript/Typescript/Typescript/img/Pasted image 20230205194511.png"
+    "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230326193330.png"
   ]
 }

@@ -12,11 +12,8 @@ vale salientar que o fixture.detectChanges pode dar problema quando iniciado den
 
 Chat gpt ~  *The (U) stands for "under test", and it's just a way to indicate that the function being passed in is the one being tested. This convention can help make it clearer which functions are being tested in a given test suite, especially when there are multiple functions being tested in the same file.*
 
-
-
-## - Mod  - :
-
-
+Exemplo: 
+![](../img/Pasted%20image%2020230516135350.png)
 
 -----------------------------------------------
 ## Bibliografia
