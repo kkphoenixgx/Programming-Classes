@@ -15,6 +15,6 @@ And it will not have any schema as SQL...
 
 ## Ecosystem
 
-![](../Pasted%20image%2020230516165547.png)
+![](img/Pasted%20image%2020230516165547.png)
 
 --------------------

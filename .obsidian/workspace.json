@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md",
+                "file": "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md",
+                "file": "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md"
+                "file": "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md"
               }
             }
           },
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md",
+                "file": "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md",
+                "file": "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,11 +310,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7512133a7c0ad61a",
+  "active": "61b535711869a483",
   "lastOpenFiles": [
+    "Pasted image 20230519181056.png",
+    "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230519181054.png",
+    "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230519180917.png",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md",
-    "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/ReactHooks.md",
+    "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
     "JavascriptTypescript/three.js/react-three-fiber/Boilerplate.md",
     "JavascriptTypescript/three.js/three.js vanilla/Three.js's Native Objects.md",
@@ -323,7 +326,7 @@
     "Docker/dockerDiccionary.md",
     "Docker/index Docker.md",
     "Mongo.db/Index Mongo.db.md",
-    "Pasted image 20230516165547.png",
+    "Mongo.db/img/Pasted image 20230516165547.png",
     "Mongo.db/img/Pasted image 20230516165213.png",
     "Mongo.db/img",
     "Mongo.db/img/Pasted image 20230516164559.png",
@@ -354,8 +357,6 @@
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula4cssyt.txt",
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula3cssyt.txt",
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula2cssyt.txt",
-    "Bootcamps/Bootcamp- Impulso/Aulas/img/padrao-de-fluxograma.png",
-    "Bootcamps/Bootcamp- Impulso/Aulas/img/Estrutura de repetição.png",
-    "JavascriptTypescript/Angular/img/Pasted image 20230509091526.png"
+    "Bootcamps/Bootcamp- Impulso/Aulas/img/padrao-de-fluxograma.png"
   ]
 }
