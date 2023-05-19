@@ -123,4 +123,4 @@ Although docker is isolated from the others servers into our machine, it is not 
 EXPOSE 3000
 ~~~
 
-For this reason, expose port 3000.
+For this reason, expose port 3000. However, EXPOSE do not make all the deal, you have to make a **port bind**, bind those ports, our local one with our docker one as we say into [Setting up a Container](Containers.md#Setting%20up%20a%20Container).
