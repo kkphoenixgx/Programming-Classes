@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md",
+                "file": "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md",
+                "file": "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md"
+                "file": "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md"
               }
             }
           },
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md",
+                "file": "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md",
+                "file": "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,8 +312,9 @@
   },
   "active": "7512133a7c0ad61a",
   "lastOpenFiles": [
-    "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/ReactHooks.md",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md",
+    "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md",
+    "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/ReactHooks.md",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
     "JavascriptTypescript/three.js/react-three-fiber/Boilerplate.md",
     "JavascriptTypescript/three.js/three.js vanilla/Three.js's Native Objects.md",
@@ -333,7 +334,6 @@
     "-Regras de Convicência.md",
     "ReadMe.md",
     "JavascriptTypescript/three.js/react-three-fiber/Events.md",
-    "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md",
     "Bootcamps/BootcampDevops-de-elite/Aula/Aula1.md",
     "Bootcamps/BootcampDevops-de-elite/Aula/Aula5.md",
     "Bootcamps/BootcampDevops-de-elite/index-bootcamp-devops-de-elite.md",
