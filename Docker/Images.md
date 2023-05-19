@@ -60,7 +60,16 @@ When you define a **copy** command, you define fist what should be copy to the c
 COPY . /app
 ~~~
 
+
 So, copy everything and add those things to the /app directory
+
+###### With WORKDIR
+
+~~~Dockerfile
+COPY . ./
+~~~
+
+In this case, the use of *./* indicates that we are going to create everything into our currently WORKDIR. However, do not use it as default, just use it into a simple project, because is clear to just say /app and do not check what directory we are using as WORKDIR.
 
 ##### RUN
 
@@ -70,4 +79,16 @@ So, copy everything and add those things to the /app directory
 RUN npm install
 ~~~
 
-But, **there is a problem to execute it**, since we defined that our container will be into a directory, if we RUN a command inside the root directory, we are going to 
+But, **there is a problem to execute it**, since we defined that our container will be into a directory, if we RUN a command inside that root directory, we are going to run npm install into the root directory of our folder, so we have to say before the command what is our *WORKDIR*  to execute it into our /app directory.
+
+##### WORKDIR
+
+Therefore, to execute where our WORKDIR will be, we can just say:
+
+~~~Dockerfile
+WORKDIR /app
+~~~
+
+Since we said what WORKDIR we will be working in, a lot of things will chance, first, every path will be started into our WORKDIR, so, we have to change our COPY path... To simply say that we are going to copy things to our WORKDIR, we can just say **"./"**  -> see a example: [With WORKDIR](Images.md#With%20WORKDIR)
+
+##### 
