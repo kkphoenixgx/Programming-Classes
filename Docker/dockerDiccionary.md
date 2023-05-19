@@ -1,5 +1,6 @@
 # Docker Diccionary
 2023-04-29
+[index Docker](index%20Docker.md)
 
 * **docker build path** = Create a image by a Dockerfile in the selected path, generally just ".", in the current path
 * **docker run imageId** = Creates a container using a image identified by the image's id 

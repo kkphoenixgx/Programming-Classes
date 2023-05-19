@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Docker/dockerDiccionary.md",
+                "file": "Docker/Images.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/dockerDiccionary.md"
+                "file": "Docker/Images.md"
               }
             }
           },
@@ -281,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/dockerDiccionary.md",
+                "file": "Docker/Images.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -293,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/dockerDiccionary.md",
+                "file": "Docker/Images.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,11 +335,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0dd8255235bb653c",
+  "active": "269e482e7668f2e6",
   "lastOpenFiles": [
-    "Docker/Containers.md",
-    "Docker/Images.md",
     "Docker/dockerDiccionary.md",
+    "Docker/Images.md",
+    "Docker/Containers.md",
     "Docker/index Docker.md",
     "Mongo.db/Index Mongo.db.md",
     "Pasted image 20230516165547.png",

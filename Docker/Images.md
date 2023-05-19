@@ -32,4 +32,6 @@ Run **docker build .** -> . is the path to the Dockerfile, generally we are
 
 And it will use the node base image to create our image as we said in line 1
 
+##
+
 
