@@ -38,6 +38,22 @@ The point of understanding the Dockerfile is to dive deep into details of the im
 
 #### Code Explanation
 
+Example
+
+~~~Dockerfile
+FROM node
+
+WORKDIR /app
+
+COPY . /app
+
+RUN npm install
+
+EXPOSE 3000
+
+CMD ["node", "serverFile.js"]
+~~~
+
 ##### FROM
 
 **From** is to define a base image that you will create in top of, there is a lot of configurations that we are not going to do basically just creating a image in top of another. Examples- *node*
@@ -91,4 +107,20 @@ WORKDIR /app
 
 Since we said what WORKDIR we will be working in, a lot of things will chance, first, every path will be started into our WORKDIR, so, we have to change our COPY path... To simply say that we are going to copy things to our WORKDIR, we can just say **"./"**  -> see a example: [With WORKDIR](Images.md#With%20WORKDIR)
 
-##### 
+##### CMD
+
+**CMD** command is really special because we want to execute some Bash command **after the container is started**. It is not as *RUN* command that execute something *when the image is been created*.
+
+~~~Dockerfile
+CMD ["node", "serverFileStart.js"]
+~~~
+
+##### EXPOSE
+
+Although docker is isolated from the others servers into our machine, it is not just because a app is listening to a port that it will be able to listening, because if we do not EXPOSE the port, there is no way that our system can interact with our container...
+
+~~~Dockerfile
+EXPOSE 3000
+~~~
+
+For this reason, expose port 3000.
