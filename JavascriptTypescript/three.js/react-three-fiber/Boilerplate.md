@@ -1,8 +1,8 @@
-# Aula1
+# Aula 1
 2022-11-04
 tags: [-index React-three-fiber](-index%20React-three-fiber.md)
 
-Searching for threejs, I actually finded this react library that fits better with my code :D, now, I'm going to learn it
+Searching for three.js, I actually found this react library that fits better with my code :D, now, I'm going to learn it
 
 To create boilerplate:
 

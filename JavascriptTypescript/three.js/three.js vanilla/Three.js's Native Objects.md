@@ -12,3 +12,4 @@ import * as THREE from 'trhee'
 
 * **THREE.BoxGeometry()** → Creates a simple Box 3d Geometry
 * **THREE.SphereGeometry()** → Creates a basic Sphere 3d Geometry 
+* **THREE.ElipseCourve()** → Creates a basic Sphere 3d Geometry 

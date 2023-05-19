@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2b32f8552634cfab",
+        "id": "bd7a1310e6054c2e",
         "type": "tabs",
         "children": [
           {
-            "id": "0dd8255235bb653c",
+            "id": "7512133a7c0ad61a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/dockerDiccionary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3f8d6a34d1089b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Images.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "269e482e7668f2e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Containers.md",
+                "file": "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Docker/Images.md",
+                "file": "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Images.md"
+                "file": "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md"
               }
             }
           },
@@ -282,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Images.md",
+                "file": "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -294,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Images.md",
+                "file": "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,10 +310,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b3f8d6a34d1089b4",
+  "active": "7512133a7c0ad61a",
   "lastOpenFiles": [
-    "Docker/Containers.md",
+    "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/ReactHooks.md",
+    "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md",
+    "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
+    "JavascriptTypescript/three.js/react-three-fiber/Boilerplate.md",
+    "JavascriptTypescript/three.js/three.js vanilla/Three.js's Native Objects.md",
     "Docker/Images.md",
+    "Docker/Containers.md",
     "Docker/dockerDiccionary.md",
     "Docker/index Docker.md",
     "Mongo.db/Index Mongo.db.md",
@@ -350,14 +330,10 @@
     "JavascriptTypescript/Angular/section14/Aula33.md",
     "JavascriptTypescript/Angular/section14/Aula32.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230516135350.png",
-    "JavascriptTypescript/three.js/react-three-fiber/ReactHooks.md",
-    "JavascriptTypescript/three.js/three.js vanilla/Three.js's Native Objects.md",
     "-Regras de Convicência.md",
     "ReadMe.md",
-    "JavascriptTypescript/three.js/react-three-fiber/Untitled.md",
     "JavascriptTypescript/three.js/react-three-fiber/Events.md",
     "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md",
-    "JavascriptTypescript/three.js/react-three-fiber/Boilerplate.md",
     "Bootcamps/BootcampDevops-de-elite/Aula/Aula1.md",
     "Bootcamps/BootcampDevops-de-elite/Aula/Aula5.md",
     "Bootcamps/BootcampDevops-de-elite/index-bootcamp-devops-de-elite.md",
@@ -367,7 +343,6 @@
     "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula1- mod24.md",
     "Java/JavaVanilla/Seção10/Aula37.md",
     "CSharp/Unity/Coroutines.md",
-    "Java/JavaVanilla/DicionárioJava.md",
     "CSharp/Unity/img",
     "CSharp/Unity/img/Pasted image 20230511111524.png",
     "Pasted image 20230511111500.png",
@@ -379,7 +354,6 @@
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula4cssyt.txt",
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula3cssyt.txt",
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula2cssyt.txt",
-    "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula1cssyt.txt",
     "Bootcamps/Bootcamp- Impulso/Aulas/img/padrao-de-fluxograma.png",
     "Bootcamps/Bootcamp- Impulso/Aulas/img/Estrutura de repetição.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230509091526.png"
