@@ -124,3 +124,7 @@ EXPOSE 3000
 ~~~
 
 For this reason, expose port 3000. However, EXPOSE do not make all the deal, you have to make a **port bind**, bind those ports, our local one with our docker one as we say into [Setting up a Container](Containers.md#Setting%20up%20a%20Container).
+
+## Maintenance 
+
+The problem with docker containers is that all of them are read only, we can not just update our code and rerun a container... Because the container already have been created
