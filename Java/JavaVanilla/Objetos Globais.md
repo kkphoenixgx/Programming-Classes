@@ -36,3 +36,13 @@ Basicamente o que vai sair do sistema, e podemos usar os métodos:
 			
 		}
 	  ~~~
+
+![](../../Pasted%20image%2020230520172135.png)
+
+## Locale
+
+**Locale.setDefault(Locale.ourLocale)** = Para adicionar formatação por localidade.
+
+
+
+

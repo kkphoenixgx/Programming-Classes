@@ -33,7 +33,7 @@ depois do print.{
 
 Para controlar quantas casas se usa %.2f na função printf {
 
-	public class exercicio1 {
+	public class exercicio1 {""
 
    	 	public static void main(String[] args) {
 		
