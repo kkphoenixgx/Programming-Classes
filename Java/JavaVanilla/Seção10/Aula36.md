@@ -1,5 +1,5 @@
 # Exercício de fixação
-[Index Java](Index%20Java.md)
+[☕ Index Java](../☕%20Index%20Java.md)
 
 Mod 91 -- **20/01/22**
 

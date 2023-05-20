@@ -1,6 +1,6 @@
 # Variantes em Java
 2021-04-08 // Mod 24
-[Index Java](Index%20Java.md)
+[☕ Index Java](../☕%20Index%20Java.md)
 
 * Variante = (Tipo) + nome = x
 

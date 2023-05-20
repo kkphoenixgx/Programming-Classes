@@ -1,5 +1,5 @@
 Mod 26- Java 11/04/21
-[[../Index Java]]
+[[../☕ Index Java]]
 
 ------------------------------------------------------------------
 No java tem uma variável chamada scaner que  

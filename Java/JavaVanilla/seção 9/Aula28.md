@@ -1,9 +1,9 @@
 # Mods 77 e 78
-[Index Java](Index%20Java.md)
+[☕ Index Java](../☕%20Index%20Java.md)
 
 ## Palavra this
 
-mod 77  [[../Index Java]]
+mod 77  [[../☕ Index Java]]
 **10/09/21**
 
 Ele explicou o que é a palavra this.

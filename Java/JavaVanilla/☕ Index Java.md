@@ -1,5 +1,5 @@
 # Index Java
-[Index Java](Index%20Java.md)
+[☕ Index Java](☕%20Index%20Java.md)
 
 ```dataview
 TABLE

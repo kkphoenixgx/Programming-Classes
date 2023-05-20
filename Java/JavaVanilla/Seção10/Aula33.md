@@ -1,5 +1,5 @@
 # garbage Collector
-[Index Java](Index%20Java.md)
+[☕ Index Java](../☕%20Index%20Java.md)
 
 Mod 88 -- **15/12/21**
 

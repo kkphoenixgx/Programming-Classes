@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "12b4ba01bbada885",
+        "id": "fc4cbc795a67492b",
         "type": "tabs",
         "children": [
           {
-            "id": "73aa1b945363de1e",
+            "id": "90b29bfa662cbc4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JavaVanilla/Index Java.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07bb1261f93d28b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula2.md",
+                "file": "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula1- mod24.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Java/JavaVanilla/Index Java.md",
+                "file": "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula1- mod24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/JavaVanilla/Index Java.md"
+                "file": "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula1- mod24.md"
               }
             }
           },
@@ -269,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/JavaVanilla/Index Java.md",
+                "file": "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula1- mod24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -281,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/JavaVanilla/Index Java.md",
+                "file": "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula1- mod24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -322,10 +310,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "73aa1b945363de1e",
+  "active": "90b29bfa662cbc4f",
   "lastOpenFiles": [
-    "Java/JavaVanilla/Objetos Globais.md",
+    "Java/JavaVanilla/DicionárioJava.md",
+    "Java/ReadMe.md",
     "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula2.md",
+    "Java/JavaVanilla/☕ Index Java.md",
+    "Java/JavaVanilla/Objetos Globais.md",
     "Java/JavaVanilla/img/mod73Exemple.jpg",
     "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula1- mod24.md",
     "Java/JavaVanilla/Variáveis.md",
@@ -357,8 +348,6 @@
     "Bootcamps/BootcampDevops-de-elite/Aula/Aula1.md",
     "Bootcamps/BootcampDevops-de-elite/Aula/Aula5.md",
     "Bootcamps/BootcampDevops-de-elite/index-bootcamp-devops-de-elite.md",
-    "DevWeb/ReadMe.md",
-    "Project notes/Drawing 2023-05-11 18.18.06.excalidraw.md",
     "CSharp/Unity/img",
     "CSharp/Unity/img/Pasted image 20230511111524.png",
     "Pasted image 20230511111500.png",

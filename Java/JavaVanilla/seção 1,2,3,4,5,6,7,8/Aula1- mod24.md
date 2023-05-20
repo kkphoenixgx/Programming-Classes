@@ -1,7 +1,7 @@
 
 
 
-[Index Java](Index%20Java.md)
+[☕ Index Java](../☕%20Index%20Java.md)
 
 *Variante = (Tipo) + nome = x
 
@@ -12,7 +12,7 @@ selecionadas.
 *Print* =  System.out.print("x");
 
 Mod 24                    08/04/21
-[[../Index Java]]
+[[../☕ Index Java]]
 
 print = Coloca na tela ai.
 println = Coloca na tela ai mas pula a linha.
@@ -28,7 +28,8 @@ depois do print.{
      
       	 	 System.out.println(x)
 
-    	}}}
+    	}
+	  }
 
 Para controlar quantas casas se usa %.2f na função printf {
 

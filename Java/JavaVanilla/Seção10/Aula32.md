@@ -1,5 +1,5 @@
 # Tipo referência vs tipo valor
-[Index Java](Index%20Java.md)
+[☕ Index Java](../☕%20Index%20Java.md)
 
 Mod 87 -- **08/12/21**
 

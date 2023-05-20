@@ -1,11 +1,11 @@
 # Módulos 80 e 81
-[Index Java](Index%20Java.md)
+[☕ Index Java](../☕%20Index%20Java.md)
 
 ## Gerando automaticamente construtores, getters e setters com o eclipse
 
 mod 80  
 **13/10/21**
-[[../Index Java]]
+[[../☕ Index Java]]
 
 Não uso eclipse.
 

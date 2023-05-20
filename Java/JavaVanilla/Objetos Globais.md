@@ -1,6 +1,6 @@
 # Objetos Globais
 2023-05-20
-tags: [Index Java](Index%20Java.md)
+tags: [☕ Index Java](☕%20Index%20Java.md)
 
 ## System
 

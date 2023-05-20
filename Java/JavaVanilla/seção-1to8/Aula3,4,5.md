@@ -1,5 +1,5 @@
 Entrada de dados mod 27                                                            23/04/21
-[Index Java](Index%20Java.md)
+[☕ Index Java](../☕%20Index%20Java.md)
 
 *Dá para criar várias variéveis com vírgula
 

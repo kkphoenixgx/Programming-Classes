@@ -1,6 +1,6 @@
 # Scanner
 Mod 26- Java 11/04/21
-[Index Java](Index%20Java.md)
+[☕ Index Java](../☕%20Index%20Java.md)
 
 No java tem uma variável chamada scaner que  escuta dados, tipo o eventListener do js(Tipo) y = x   é a forma de qualquer variável e essa variável scaner segue o mesmo padrão mas com o y pré definido. 
 $$Scanner sc = new Scannner(System.in);$$

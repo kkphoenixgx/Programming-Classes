@@ -1,5 +1,5 @@
 mod 68                                                                                                 21/05/21
-[Index Java](Index%20Java.md)
+[☕ Index Java](../☕%20Index%20Java.md)
 
 
 Object e to String:
