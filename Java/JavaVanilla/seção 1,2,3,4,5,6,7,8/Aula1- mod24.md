@@ -1,3 +1,6 @@
+
+
+
 [Index Java](Index%20Java.md)
 
 *Variante = (Tipo) + nome = x
