@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JavaVanilla/Objetos Globais.md",
-                "mode": "source",
+                "file": "Java/JavaVanilla/Index Java.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula1- mod24.md",
+                "file": "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula2.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 261.5
   },
   "right": {
     "id": "31bbf7ce70508d5b",
@@ -117,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Java/JavaVanilla/Objetos Globais.md",
+                "file": "Java/JavaVanilla/Index Java.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/JavaVanilla/Objetos Globais.md"
+                "file": "Java/JavaVanilla/Index Java.md"
               }
             }
           },
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/JavaVanilla/Objetos Globais.md",
+                "file": "Java/JavaVanilla/Index Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -281,7 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/JavaVanilla/Objetos Globais.md",
+                "file": "Java/JavaVanilla/Index Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,10 +324,11 @@
   },
   "active": "73aa1b945363de1e",
   "lastOpenFiles": [
-    "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula1- mod24.md",
     "Java/JavaVanilla/Objetos Globais.md",
-    "Java/JavaVanilla/Variáveis.md",
     "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula2.md",
+    "Java/JavaVanilla/img/mod73Exemple.jpg",
+    "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula1- mod24.md",
+    "Java/JavaVanilla/Variáveis.md",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md",
     "Pasted image 20230519181056.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230519181054.png",
@@ -358,14 +359,12 @@
     "Bootcamps/BootcampDevops-de-elite/index-bootcamp-devops-de-elite.md",
     "DevWeb/ReadMe.md",
     "Project notes/Drawing 2023-05-11 18.18.06.excalidraw.md",
-    "Project notes/JavaEx.md",
     "CSharp/Unity/img",
     "CSharp/Unity/img/Pasted image 20230511111524.png",
     "Pasted image 20230511111500.png",
     "CSharp/Unity",
     "Mongo.db",
     "Docker/img",
-    "Docker/img/Pasted image 20230510090700.png",
     "Docker",
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula4cssyt.txt",
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula3cssyt.txt",
