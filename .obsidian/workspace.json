@@ -117,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Java/JavaVanilla/Objetos Globais.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,9 +242,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/JavaVanilla/Objetos Globais.md"
-              }
+              "state": {}
             }
           },
           {
@@ -269,7 +266,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/JavaVanilla/Objetos Globais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -281,7 +277,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/JavaVanilla/Objetos Globais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -322,10 +317,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90b29bfa662cbc4f",
+  "active": "18e4291c106f4ae0",
   "lastOpenFiles": [
-    "Java/JavaVanilla/Variáveis.md",
     "Java/JavaVanilla/Objetos Globais.md",
+    "Java/JavaVanilla/Variáveis.md",
     "Pasted image 20230520172135.png",
     "Pasted image 20230520172107.png",
     "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula1- mod24.md",
