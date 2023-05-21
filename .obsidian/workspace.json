@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Images.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Docker/Images.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Images.md"
+                "file": "JavascriptTypescript/Angular/section14/Aula32.md"
               }
             }
           },
@@ -258,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Images.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Images.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,12 +311,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61b535711869a483",
+  "active": "948c15a39b26d2d3",
   "lastOpenFiles": [
+    "JavascriptTypescript/Angular/section14/Aula33.md",
+    "Docker/Images.md",
     "Docker/img/Pasted image 20230521100552.png",
     "Hack/💻 index cybersecurity.md",
     "Mongo.db/🍃 Index Mongo.db.md",
-    "Docker/Images.md",
     "Docker/img/Pasted image 20230521094806.png",
     "Java/JavaVanilla/Variáveis.md",
     "Java/JavaVanilla/Objetos Globais.md",
@@ -343,9 +344,7 @@
     "Mongo.db/img/Pasted image 20230516165547.png",
     "Mongo.db/img/Pasted image 20230516165213.png",
     "Mongo.db/img",
-    "Mongo.db/img/Pasted image 20230516164559.png",
     "Mongo.db/readMe.md",
-    "JavascriptTypescript/Angular/section14/Aula33.md",
     "JavascriptTypescript/Angular/section14/Aula32.md",
     "-Regras de Convicência.md",
     "ReadMe.md",
