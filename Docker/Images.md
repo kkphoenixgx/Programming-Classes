@@ -127,4 +127,6 @@ For this reason, expose port 3000. However, EXPOSE do not make all the deal, you
 
 ## Maintenance 
 
-The problem with docker containers is that all of them are read only, we can not just update our code and rerun a container... Because the container already have been created
+The problem with docker images is that all of them are read only, we can not just update our code and rerun a container... Because the container already have been created, but when we recreate the container, the update process is in layers, the docker build will use the cache to just update files that have changed in your code to do not demand more than necessary.
+
+![](img/Pasted%20image%2020230521094806.png)

@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fc4cbc795a67492b",
+        "id": "4e72fa35eef9d53e",
         "type": "tabs",
         "children": [
           {
-            "id": "90b29bfa662cbc4f",
+            "id": "948c15a39b26d2d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/JavaVanilla/Objetos Globais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25575c8729c868b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/JavaVanilla/Variáveis.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -317,12 +301,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18e4291c106f4ae0",
+  "active": "948c15a39b26d2d3",
   "lastOpenFiles": [
-    "Java/JavaVanilla/Objetos Globais.md",
+    "Hack/💻 index cybersecurity.md",
+    "Mongo.db/🍃 Index Mongo.db.md",
+    "Docker/Images.md",
+    "Docker/img/Pasted image 20230521094806.png",
     "Java/JavaVanilla/Variáveis.md",
-    "Pasted image 20230520172135.png",
-    "Pasted image 20230520172107.png",
+    "Java/JavaVanilla/Objetos Globais.md",
+    "Java/JavaVanilla/img/Pasted image 20230520172135.png",
+    "Java/JavaVanilla/img/Pasted image 20230520172107.png",
     "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula1- mod24.md",
     "Java/JavaVanilla/DicionárioJava.md",
     "Java/ReadMe.md",
@@ -338,11 +326,9 @@
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
     "JavascriptTypescript/three.js/react-three-fiber/Boilerplate.md",
     "JavascriptTypescript/three.js/three.js vanilla/Three.js's Native Objects.md",
-    "Docker/Images.md",
     "Docker/Containers.md",
     "Docker/dockerDiccionary.md",
     "Docker/index Docker.md",
-    "Mongo.db/Index Mongo.db.md",
     "Mongo.db/img/Pasted image 20230516165547.png",
     "Mongo.db/img/Pasted image 20230516165213.png",
     "Mongo.db/img",
@@ -350,7 +336,6 @@
     "Mongo.db/readMe.md",
     "JavascriptTypescript/Angular/section14/Aula33.md",
     "JavascriptTypescript/Angular/section14/Aula32.md",
-    "JavascriptTypescript/Angular/img/Pasted image 20230516135350.png",
     "-Regras de Convicência.md",
     "ReadMe.md",
     "JavascriptTypescript/three.js/react-three-fiber/Events.md",

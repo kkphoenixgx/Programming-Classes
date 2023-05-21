@@ -1,5 +1,5 @@
 ## Cybersecurity folder
-[index cybersecurity](index%20cybersecurity.md)
+[💻 index cybersecurity](💻%20index%20cybersecurity.md)
 
 ```dataview
 TABLE
