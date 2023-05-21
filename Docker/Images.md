@@ -166,6 +166,6 @@ EXPOSE 3000
 CMD ["node", "serverFile.js"]
 ~~~
 
-Our code is also part of
+Our code is also part of the image.
 
 ![](img/Pasted%20image%2020230521100552.png)
