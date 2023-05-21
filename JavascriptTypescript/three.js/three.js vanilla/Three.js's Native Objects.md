@@ -1,6 +1,6 @@
 # Objetos Nativos do Three.js
 2023-05-15
-tags: [index three.js vanilla](index%20three.js%20vanilla.md)
+tags: [🌲 index three.js](🌲%20index%20three.js.md)
 
 
 ## THREE

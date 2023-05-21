@@ -1,6 +1,6 @@
 # Images
 2023-04-29
-tags: [index Docker](index%20Docker.md)
+tags: [🛳 index Docker](🛳%20index%20Docker.md)
 
 Docker images are how you struct such containers, who set up the environment.
 
@@ -127,6 +127,45 @@ For this reason, expose port 3000. However, EXPOSE do not make all the deal, you
 
 ## Maintenance 
 
-The problem with docker images is that all of them are read only, we can not just update our code and rerun a container... Because the container already have been created, but when we recreate the container, the update process is in layers, the docker build will use the cache to just update files that have changed in your code to do not demand more than necessary.
+The problem with docker images is that all of them are read only, we can not just update our code and rerun a container... Because the container already have been created.
+However, when we recreate the container, the update process is in layers. So, every step that you coded into the Dockerfile will check if is necessary recreate the step or use the cache and then, if needed, recreate...
 
 ![](img/Pasted%20image%2020230521094806.png)
+
+### Understanding and optimizing
+
+Understanding it, check this code:
+
+~~~Dockerfile
+FROM node:14
+
+WORKDIR /app
+
+COPY . /app
+
+RUN npm install
+
+EXPOSE 3000
+
+CMD ["node", "app.mjs"]
+~~~
+
+When we recreate the docker container, we will be running npm install again and just losing time, so, first, check the package.json file... Check if there is a need to rerun npm install and, just if needed, if there is not a cache for that, rerun npm:
+
+~~~Dockerfile
+FROM node
+
+WORKDIR /app
+
+COPY . /app
+
+RUN npm install
+
+EXPOSE 3000
+
+CMD ["node", "serverFile.js"]
+~~~
+
+Our code is also part of
+
+![](img/Pasted%20image%2020230521100552.png)

@@ -11,8 +11,12 @@
             "id": "948c15a39b26d2d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Images.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -101,6 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Docker/Images.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +220,7 @@
                   "repelStrength": 11.2539057193316,
                   "linkStrength": 1,
                   "linkDistance": 294,
-                  "scale": 0.18462326225858214,
+                  "scale": 0.15435218481432467,
                   "close": true
                 }
               }
@@ -226,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Docker/Images.md"
+              }
             }
           },
           {
@@ -237,7 +244,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f7e80c1e5839227c",
@@ -250,6 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Docker/Images.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -261,6 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Docker/Images.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,8 +311,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "948c15a39b26d2d3",
+  "active": "61b535711869a483",
   "lastOpenFiles": [
+    "Docker/img/Pasted image 20230521100552.png",
     "Hack/💻 index cybersecurity.md",
     "Mongo.db/🍃 Index Mongo.db.md",
     "Docker/Images.md",
@@ -328,7 +339,7 @@
     "JavascriptTypescript/three.js/three.js vanilla/Three.js's Native Objects.md",
     "Docker/Containers.md",
     "Docker/dockerDiccionary.md",
-    "Docker/index Docker.md",
+    "Docker/🛳 index Docker.md",
     "Mongo.db/img/Pasted image 20230516165547.png",
     "Mongo.db/img/Pasted image 20230516165213.png",
     "Mongo.db/img",
@@ -340,7 +351,6 @@
     "ReadMe.md",
     "JavascriptTypescript/three.js/react-three-fiber/Events.md",
     "Bootcamps/BootcampDevops-de-elite/Aula/Aula1.md",
-    "Bootcamps/BootcampDevops-de-elite/Aula/Aula5.md",
     "CSharp/Unity/img",
     "CSharp/Unity",
     "Mongo.db",
