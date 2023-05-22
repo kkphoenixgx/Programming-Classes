@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8f50888cd53f223b",
+        "id": "49c7cd91782bf9cd",
         "type": "tabs",
         "children": [
           {
-            "id": "f5a3e062cc34af1e",
+            "id": "19a1c6b94f4bc0d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/Node/Selection 4/Aula19.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -101,6 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "JavascriptTypescript/Node/Selection 4/Aula19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JavascriptTypescript/Node/Selection 4/Aula19.md"
+              }
             }
           },
           {
@@ -251,6 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavascriptTypescript/Node/Selection 4/Aula19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -262,6 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavascriptTypescript/Node/Selection 4/Aula19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,8 +311,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f5a3e062cc34af1e",
+  "active": "19a1c6b94f4bc0d6",
   "lastOpenFiles": [
+    "JavascriptTypescript/Node/Selection 4/Aula18.md",
+    "JavascriptTypescript/Node/Selection 3/Aula16.md",
+    "JavascriptTypescript/Node/Selection 3/Aula12.md",
     "JavascriptTypescript/Angular/section14/Aula32.md",
     "JavascriptTypescript/Angular/section14/Aula33.md",
     "Docker/Images.md",
@@ -339,8 +351,6 @@
     "Mongo.db/readMe.md",
     "-Regras de Convicência.md",
     "ReadMe.md",
-    "JavascriptTypescript/three.js/react-three-fiber/Events.md",
-    "Bootcamps/BootcampDevops-de-elite/Aula/Aula1.md",
     "CSharp/Unity/img",
     "CSharp/Unity",
     "Mongo.db",
