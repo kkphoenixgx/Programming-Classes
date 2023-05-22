@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "49c7cd91782bf9cd",
+        "id": "635d9dd5fa1f9bce",
         "type": "tabs",
         "children": [
           {
-            "id": "19a1c6b94f4bc0d6",
+            "id": "392600baca2c5b09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavascriptTypescript/Node/Selection 1 e 2/Aula3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 1 e 2/Aula3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +226,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavascriptTypescript/Node/Selection 1 e 2/Aula3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -258,7 +251,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 1 e 2/Aula3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +262,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 1 e 2/Aula3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +285,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -311,13 +302,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19a1c6b94f4bc0d6",
+  "active": "392600baca2c5b09",
   "lastOpenFiles": [
-    "JavascriptTypescript/Node/Modules.md",
+    "JavascriptTypescript/Node/Servers.md",
     "JavascriptTypescript/Node/Selection 1 e 2/Aula3.md",
+    "JavascriptTypescript/Node/Index node.md",
+    "JavascriptTypescript/Node/Modules.md",
+    "JavascriptTypescript/Node/NPM.md",
+    "JavascriptTypescript/Node/Selection 1 e 2/Aula5.md",
+    "JavascriptTypescript/Node/Selection 1 e 2/Aula4.md",
     "JavascriptTypescript/Node/Selection 1 e 2/Aula2.md",
     "JavascriptTypescript/Node/Selection 1 e 2/Aula1.md",
-    "JavascriptTypescript/Node/Index node.md",
     "JavascriptTypescript/Node/Selection 3/Aula17.md",
     "JavascriptTypescript/Node/Selection 4/Aula18.md",
     "JavascriptTypescript/Node/Selection 4/Aula19.md",
@@ -340,14 +335,10 @@
     "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula2.md",
     "Java/JavaVanilla/☕ Index Java.md",
     "Java/JavaVanilla/img/mod73Exemple.jpg",
-    "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/Components Communication in React.md",
     "Pasted image 20230519181056.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230519181054.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230519180917.png",
-    "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/ReactHooks.md",
-    "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
-    "JavascriptTypescript/three.js/react-three-fiber/Boilerplate.md",
     "Mongo.db/img/Pasted image 20230516165547.png",
     "Mongo.db/img/Pasted image 20230516165213.png",
     "Mongo.db/img",
