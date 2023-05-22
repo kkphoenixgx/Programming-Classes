@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4e72fa35eef9d53e",
+        "id": "8f50888cd53f223b",
         "type": "tabs",
         "children": [
           {
-            "id": "948c15a39b26d2d3",
+            "id": "f5a3e062cc34af1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +226,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula32.md"
-              }
+              "state": {}
             }
           },
           {
@@ -258,7 +251,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +262,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,8 +302,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "948c15a39b26d2d3",
+  "active": "f5a3e062cc34af1e",
   "lastOpenFiles": [
+    "JavascriptTypescript/Angular/section14/Aula32.md",
     "JavascriptTypescript/Angular/section14/Aula33.md",
     "Docker/Images.md",
     "Docker/img/Pasted image 20230521100552.png",
@@ -345,7 +337,6 @@
     "Mongo.db/img/Pasted image 20230516165213.png",
     "Mongo.db/img",
     "Mongo.db/readMe.md",
-    "JavascriptTypescript/Angular/section14/Aula32.md",
     "-Regras de Convicência.md",
     "ReadMe.md",
     "JavascriptTypescript/three.js/react-three-fiber/Events.md",
