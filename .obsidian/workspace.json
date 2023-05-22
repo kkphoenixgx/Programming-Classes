@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula19.md",
+                "file": "JavascriptTypescript/Node/Selection 3/Aula17.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula19.md",
+                "file": "JavascriptTypescript/Node/Selection 3/Aula17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula19.md"
+                "file": "JavascriptTypescript/Node/Selection 3/Aula17.md"
               }
             }
           },
@@ -258,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula19.md",
+                "file": "JavascriptTypescript/Node/Selection 3/Aula17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula19.md",
+                "file": "JavascriptTypescript/Node/Selection 3/Aula17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,6 +314,7 @@
   "active": "19a1c6b94f4bc0d6",
   "lastOpenFiles": [
     "JavascriptTypescript/Node/Selection 4/Aula18.md",
+    "JavascriptTypescript/Node/Selection 4/Aula19.md",
     "JavascriptTypescript/Node/Selection 3/Aula16.md",
     "JavascriptTypescript/Node/Selection 3/Aula12.md",
     "JavascriptTypescript/Angular/section14/Aula32.md",
@@ -350,7 +351,6 @@
     "Mongo.db/img",
     "Mongo.db/readMe.md",
     "-Regras de Convicência.md",
-    "ReadMe.md",
     "CSharp/Unity/img",
     "CSharp/Unity",
     "Mongo.db",
