@@ -2,22 +2,6 @@
 
 Mod 7 -- **06/09/22**
 
-Usando esse primeiro código que eu nem sei se eu posso falar que estou de fato usando nodejs agora, percebo que é bem diferente do usual, ele é cheio de métodos facilitadores que realmente de primeira mão deve ser meio complicado de gravar e entender, mas eu estou começando o processo.
-  O método require(x) que trás um módulo de dentro de um
-outro arquivo. Então fica a pergunta:
-
-* **Em suma o que é um módulo?**
-
-Nisso o google pode me ajudar bastante, de acordo com  as palavras do amuleto dá sabedoria dado pelo Joandel:
-
-> "É um script php no qual você consegue incluir em um outro script. É uma maneira bem tradicional de se organizar as partes funcionais do código."
-
-* **Mas que porra isso significa?**
-
-Ele basicamente tá falando que a classe que ele usa para fazer as coisas é escrita em php. E isso é libertador até por que isso significa que é possível migrar  informações transformando em módulo para entregar para o javascript.
-
-Então por exemplo, posso criar com o módulo require(x) sendo x "http" e usar os módulos do php já nativos do nodejs para criar um servidor na web que vai rodar algo usando o exemplo de um localhost.  
-
 [servidor de Exemplo](..\..\Projetos\arquivosSoltos\server.js)
 
 ~~~js

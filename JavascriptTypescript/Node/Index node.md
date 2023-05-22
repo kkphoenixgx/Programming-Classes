@@ -1,4 +1,10 @@
-# Index para todas as notas de node.js
+# Node
+
+O Node é uma plataforma de execução do javascript do lado do servidor. Ele é basicamente uma interpretação do motor V8 para interpretar javascript fora do ambiente do browser. Assim como o V8 do chrome, tem outros motores de interpretação, como o Spider Monkey do Firefox, o Chakracore do edge....
+
+Contudo, o grande barato do nodejs é a capacidade dele de fazer conexões muito rápidas e trazer o js para fora do ambiente web.
+
+## Index
 
 | **Aula**                            | **Recurso**                                                                              | **Assunto**                                                |
 | ----------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------- |

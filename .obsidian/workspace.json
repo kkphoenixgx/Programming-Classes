@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 3/Aula17.md",
+                "file": "JavascriptTypescript/Node/Selection 1 e 2/Aula3.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 3/Aula17.md",
+                "file": "JavascriptTypescript/Node/Selection 1 e 2/Aula3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 3/Aula17.md"
+                "file": "JavascriptTypescript/Node/Selection 1 e 2/Aula3.md"
               }
             }
           },
@@ -258,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 3/Aula17.md",
+                "file": "JavascriptTypescript/Node/Selection 1 e 2/Aula3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 3/Aula17.md",
+                "file": "JavascriptTypescript/Node/Selection 1 e 2/Aula3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,6 +313,12 @@
   },
   "active": "19a1c6b94f4bc0d6",
   "lastOpenFiles": [
+    "JavascriptTypescript/Node/Modules.md",
+    "JavascriptTypescript/Node/Selection 1 e 2/Aula3.md",
+    "JavascriptTypescript/Node/Selection 1 e 2/Aula2.md",
+    "JavascriptTypescript/Node/Selection 1 e 2/Aula1.md",
+    "JavascriptTypescript/Node/Index node.md",
+    "JavascriptTypescript/Node/Selection 3/Aula17.md",
     "JavascriptTypescript/Node/Selection 4/Aula18.md",
     "JavascriptTypescript/Node/Selection 4/Aula19.md",
     "JavascriptTypescript/Node/Selection 3/Aula16.md",
@@ -342,15 +348,9 @@
     "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
     "JavascriptTypescript/three.js/react-three-fiber/Boilerplate.md",
-    "JavascriptTypescript/three.js/three.js vanilla/Three.js's Native Objects.md",
-    "Docker/Containers.md",
-    "Docker/dockerDiccionary.md",
-    "Docker/🛳 index Docker.md",
     "Mongo.db/img/Pasted image 20230516165547.png",
     "Mongo.db/img/Pasted image 20230516165213.png",
     "Mongo.db/img",
-    "Mongo.db/readMe.md",
-    "-Regras de Convicência.md",
     "CSharp/Unity/img",
     "CSharp/Unity",
     "Mongo.db",
