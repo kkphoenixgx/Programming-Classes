@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6b50782802dac0b1",
+        "id": "4baaf3dd6d9e9bd1",
         "type": "tabs",
         "children": [
           {
-            "id": "4a4a4ff7b9197afb",
+            "id": "908c1d77690a6b99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula33.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula33.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +226,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula33.md"
-              }
+              "state": {}
             }
           },
           {
@@ -258,7 +251,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +262,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,11 +302,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4a4a4ff7b9197afb",
+  "active": "908c1d77690a6b99",
   "lastOpenFiles": [
+    "JavascriptTypescript/Angular/section14/Aula33.md",
+    "JavascriptTypescript/Angular/img/Pasted image 20230524164854.png",
     "JavascriptTypescript/Angular/section14/Aula32.md",
     "JavascriptTypescript/Angular/section14/Aula31.md",
-    "JavascriptTypescript/Angular/section14/Aula33.md",
     "JavascriptTypescript/Node/Servers.md",
     "JavascriptTypescript/Node/Selection 1 e 2/Aula3.md",
     "JavascriptTypescript/Node/Index node.md",
@@ -342,14 +334,12 @@
     "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula1- mod24.md",
     "Java/JavaVanilla/DicionárioJava.md",
     "Java/ReadMe.md",
-    "Java/JavaVanilla/seção 1,2,3,4,5,6,7,8/Aula2.md",
     "Java/JavaVanilla/img/mod73Exemple.jpg",
     "Pasted image 20230519181056.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230519181054.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230519180917.png",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
     "Mongo.db/img/Pasted image 20230516165547.png",
-    "Mongo.db/img/Pasted image 20230516165213.png",
     "Mongo.db/img",
     "CSharp/Unity/img",
     "CSharp/Unity",

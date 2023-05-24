@@ -15,7 +15,9 @@ Sempre cubra todos os testes, muito bom.
 fixure.debugeElement.nativeElement.querySelector('cssSelector')
 ~~~
 
-Isso permite você ter um elemento. Contudo, quando você definir elementos, executar funções, todos os estados dos objetos não você ser atualizados como quer. Dessa forma, você deve detectar mudanças com a fixture
+Isso permite você ter um elemento. Contudo, quando você definir elementos, executar funções, todos os estados dos objetos não você ser atualizados como quer. Dessa forma, você deve detectar mudanças com `fixture.detectChanges` 
+
+![](../img/Pasted%20image%2020230524164854.png)
 
 -----------------------------------------------
 ## Bibliografia
