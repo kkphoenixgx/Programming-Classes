@@ -11,9 +11,11 @@ Sempre cubra todos os testes, muito bom.
 
 ## - Mod 110 - : Testando a interface do componente
 
+~~~ts
+fixure.debugeElement.nativeElement.querySelector('cssSelector')
+~~~
 
-
-
+Isso permite você a ter um elemento, quando você definir um elemento
 
 -----------------------------------------------
 ## Bibliografia
