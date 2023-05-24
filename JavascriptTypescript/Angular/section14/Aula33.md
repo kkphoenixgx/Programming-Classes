@@ -5,9 +5,13 @@ tags: [index Angular](../index%20Angular.md)
 ## - Mod 109 - : Testando a unidade nos ifs do componente
 
 U -> Under Test;  
-I 
+I -> Interface's test
 
-## - Mod  - :
+Sempre cubra todos os testes, muito bom.
+
+## - Mod 110 - : Testando a interface do componente
+
+
 
 
 
