@@ -259,7 +259,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -312,6 +312,7 @@
   },
   "active": "908c1d77690a6b99",
   "lastOpenFiles": [
+    "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525094233.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525092217.png",
     "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
     "-Regras de Convicência.md",
@@ -348,7 +349,6 @@
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230519181054.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230519180917.png",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
-    "Mongo.db/img/Pasted image 20230516165547.png",
     "Mongo.db/img",
     "CSharp/Unity/img",
     "CSharp/Unity",
