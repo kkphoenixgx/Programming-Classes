@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "a29a2641f819e38d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -302,7 +313,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "908c1d77690a6b99",
+  "active": "a29a2641f819e38d",
   "lastOpenFiles": [
     "JavascriptTypescript/Angular/section14/Aula33.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230524164854.png",
