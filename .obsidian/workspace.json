@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4baaf3dd6d9e9bd1",
+        "id": "ce4120eb3c1bd723",
         "type": "tabs",
         "children": [
           {
-            "id": "908c1d77690a6b99",
+            "id": "bb26b392d71f3fd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +226,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md"
-              }
+              "state": {}
             }
           },
           {
@@ -258,7 +251,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +262,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,12 +301,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "908c1d77690a6b99",
+  "active": "bb26b392d71f3fd2",
   "lastOpenFiles": [
+    "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
     "Pasted image 20230525095435.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525094233.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525092217.png",
-    "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
     "-Regras de Convicência.md",
     "Organização.md",
     "JavascriptTypescript/Angular/section14/Aula33.md",
@@ -347,7 +338,6 @@
     "Java/JavaVanilla/img/Pasted image 20230520172107.png",
     "Java/JavaVanilla/img/mod73Exemple.jpg",
     "Pasted image 20230519181056.png",
-    "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230519181054.png",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
     "Mongo.db/img",
     "CSharp/Unity/img",
