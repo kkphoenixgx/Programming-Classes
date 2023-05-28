@@ -11,8 +11,12 @@
             "id": "bb26b392d71f3fd2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -101,6 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md"
+              }
             }
           },
           {
@@ -251,6 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -262,6 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
