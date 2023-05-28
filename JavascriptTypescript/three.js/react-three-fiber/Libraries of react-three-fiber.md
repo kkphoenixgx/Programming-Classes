@@ -97,3 +97,19 @@ There is a lot of things that you can do, a lot of proprieties that you can dive
 
 
 
+
+### leva
+
+Leva is basically a control panel that you can bind values into a panel that can be changed with the program running
+
+> **npm install leva**
+
+~~~jsx
+import { useControls } from "leva"
+
+const valueName = useControls({
+	value: 'someValue' // ex: value: 'green'
+})
+~~~
+
+Since you've added it, you can change this value into a panel in the app and you can attach valueName.value to anywhere. 
