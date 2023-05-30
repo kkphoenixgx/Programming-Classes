@@ -229,7 +229,7 @@
                   "repelStrength": 11.2539057193316,
                   "linkStrength": 1,
                   "linkDistance": 294,
-                  "scale": 0.09019695223604683,
+                  "scale": 0.09019695223604675,
                   "close": true
                 }
               }
@@ -302,7 +302,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -321,6 +322,8 @@
   },
   "active": "61b535711869a483",
   "lastOpenFiles": [
+    "JavascriptTypescript/Angular/Section 7/Aula14.md",
+    "JavascriptTypescript/Angular/index Angular.md",
     "JavascriptTypescript/Angular/NotesReview",
     "CSharp/Bibliotecas Nativas.md",
     "CSharp/Classes no CSharp.md",
@@ -328,8 +331,7 @@
     "CSharp/Variáveis e types.md",
     "JavascriptTypescript/Angular/section14/Aula33.md",
     "JavascriptTypescript/Angular/section14/Aula32.md",
-    "JavascriptTypescript/Angular/Section 3/Aula 1.md",
-    "JavascriptTypescript/Angular/index Angular.md",
+    "JavascriptTypescript/Angular/Section 3/Aula1.md",
     "JavascriptTypescript/Angular/Section 9/Aula18.md",
     "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
     "Pasted image 20230525095435.png",
@@ -365,7 +367,6 @@
     "Docker/img",
     "Docker",
     "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula4cssyt.txt",
-    "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula3cssyt.txt",
-    "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula2cssyt.txt"
+    "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula3cssyt.txt"
   ]
 }
