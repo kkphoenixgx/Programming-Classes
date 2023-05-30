@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b8542eda49f5947",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "b54d02dadd2a0e33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md",
+                "file": "JavascriptTypescript/Angular/Section 10/Aula20.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "31bbf7ce70508d5b",
@@ -115,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md",
+                "file": "JavascriptTypescript/Angular/Section 10/Aula20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md"
+                "file": "JavascriptTypescript/Angular/Section 10/Aula20.md"
               }
             }
           },
@@ -254,7 +244,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f7e80c1e5839227c",
@@ -267,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md",
+                "file": "JavascriptTypescript/Angular/Section 10/Aula20.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -279,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md",
+                "file": "JavascriptTypescript/Angular/Section 10/Aula20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,13 +289,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -323,8 +312,10 @@
   },
   "active": "b54d02dadd2a0e33",
   "lastOpenFiles": [
-    "JavascriptTypescript/Angular/Section 7/Aula14.md",
+    "JavascriptTypescript/Angular/Section 8/Aula15.md",
+    "JavascriptTypescript/Angular/Section 8/Aula16.md",
     "JavascriptTypescript/Angular/index Angular.md",
+    "JavascriptTypescript/Angular/Section 7/Aula14.md",
     "JavascriptTypescript/Angular/NotesReview",
     "CSharp/Bibliotecas Nativas.md",
     "CSharp/Classes no CSharp.md",
@@ -352,8 +343,6 @@
     "JavascriptTypescript/Node/Selection 1 e 2/Aula2.md",
     "JavascriptTypescript/Node/Selection 1 e 2/Aula1.md",
     "JavascriptTypescript/Node/Selection 3/Aula17.md",
-    "JavascriptTypescript/Node/Selection 4/Aula18.md",
-    "JavascriptTypescript/Node/Selection 4/Aula19.md",
     "Docker/img/Pasted image 20230521100552.png",
     "Docker/img/Pasted image 20230521094806.png",
     "Java/JavaVanilla/img/Pasted image 20230520172135.png",
