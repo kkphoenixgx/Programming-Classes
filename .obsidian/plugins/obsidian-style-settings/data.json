@@ -28,5 +28,19 @@
   "obsidian-prism-theme@@link-external-custom-color-dt": "#F02CFF",
   "lyt-mode@@file-explorer-unwrap": false,
   "lyt-mode@@highlight-style": "lyt-gradient-bg-highlights",
-  "lyt-mode@@search-explorer-unwrap": false
+  "lyt-mode@@search-explorer-unwrap": false,
+  "chime-theme@@theme-settings": "theme-classic",
+  "chime-theme@@h1-center": true,
+  "chime-theme@@h1-bottom-border": false,
+  "chime-theme@@h1-weight": 1000,
+  "chime-theme@@h2-weight": 800,
+  "chime-theme@@h2-bottom-border": true,
+  "chime-theme@@colored-bold-and-italic": true,
+  "chime-theme@@h3-variant": "petite-caps",
+  "chime-theme@@h3-weight": 600,
+  "chime-theme@@h4-weight": 500,
+  "chime-theme@@h5-weight": 400,
+  "chime-theme@@h6-weight": 300,
+  "chime-theme@@h4-variant": "small-caps",
+  "chime-theme@@h5-variant": "all-small-caps"
 }
