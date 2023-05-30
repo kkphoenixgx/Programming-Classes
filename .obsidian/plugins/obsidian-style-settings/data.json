@@ -1,0 +1,18 @@
+{
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-custom-dt",
+  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-plain-dt",
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-purple-dt",
+  "obsidian-prism-theme@@highlight-text-accent-dt": "pt-highlight-text-light-dt",
+  "obsidian-prism-theme@@color-accent-base-dt": "#FFFFFF",
+  "obsidian-prism-theme@@h1-text-color-dt": "var(--h1-text-color-custom-dt)",
+  "obsidian-prism-theme@@h1-text-color-custom-dt": "#FFDE4F",
+  "obsidian-prism-theme@@h2-text-color-dt": "var(--h2-text-color-custom-dt)",
+  "obsidian-prism-theme@@h2-text-color-custom-dt": "#3918FF",
+  "obsidian-prism-theme@@h3-text-color-dt": "var(--h3-text-color-custom-dt)",
+  "obsidian-prism-theme@@h4-text-color-dt": "var(--h4-text-color-custom-dt)",
+  "obsidian-prism-theme@@h3-text-color-custom-dt": "#FF2727",
+  "obsidian-prism-theme@@h4-text-color-custom-dt": "#5BEBFF",
+  "obsidian-prism-theme@@h5-text-color-dt": "var(--h5-text-color-custom-dt)",
+  "obsidian-prism-theme@@h5-text-color-custom-dt": "#FFFFFF",
+  "obsidian-prism-theme@@h6-text-color-custom-dt": "#A2FF6D"
+}

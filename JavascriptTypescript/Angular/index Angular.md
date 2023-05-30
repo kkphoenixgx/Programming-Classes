@@ -20,6 +20,7 @@
 | [Aula15](Section%208/Aula15.md)   | Arquitetura e afins do projeto                                                                                                    | Projeto TaskBar                                                                          |
 | [Aula16](Section%208/Aula16.md)   | Organizando Componentes, identificando herança, scss selectors                                                                    | Projeto taskBar                                                                          |
 | [Aula17](Section%209/Aula17.md)   | **ng g s (path)**, @Ingectable, subscribe(),                                                                                      | Insight eventBinding, SERVICES, Comunicação e arquitetura com services                   |
+| [Aula18](../Typescript/Typescript/Selection5/Aula18.md)   |  | |
 
 
 

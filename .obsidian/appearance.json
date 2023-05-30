@@ -1,7 +1,7 @@
 {
-  "cssTheme": "LYT Mode",
-  "baseFontSize": 20,
+  "cssTheme": "Prism",
+  "baseFontSize": 19,
   "translucency": false,
-  "accentColor": "",
+  "accentColor": "#4d0297",
   "showViewHeader": true
 }
