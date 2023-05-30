@@ -2,13 +2,6 @@
 2023-01-31
 tags: [index Angular](../index%20Angular.md)
 
-# adata
-## AAA
-### adawdaw
-#### adjhawdwa
-##### daiwjdawdwa
-###### dawijdoawdwa
-
 ## - Mod 58 - : Observable + http-Get
 
 Para pegar dados de um servidor, precisamos do **HttpClientModule** que é o modulo de cliente do angular... Para usar ele, precisamos importar .module do componente e cadastra-lo nos imports do module, code exemple 1. Somente assim podemos usar os métodos http do angular no nosso app... é só chamar uma variável do **type HttpClient** com o método get e a url embora tenha que tomar muito cuidado com o link que você tá fazendo a requisção, pois se tiver algo errado não funciona... 
