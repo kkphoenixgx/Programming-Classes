@@ -38,9 +38,13 @@
   "chime-theme@@colored-bold-and-italic": true,
   "chime-theme@@h3-variant": "petite-caps",
   "chime-theme@@h3-weight": 600,
-  "chime-theme@@h4-weight": 500,
-  "chime-theme@@h5-weight": 400,
+  "chime-theme@@h4-weight": 600,
+  "chime-theme@@h5-weight": 600,
   "chime-theme@@h6-weight": 300,
   "chime-theme@@h4-variant": "small-caps",
-  "chime-theme@@h5-variant": "all-small-caps"
+  "chime-theme@@h5-variant": "all-small-caps",
+  "chime-theme@@heading-colors": "colorful-headings-alt",
+  "chime-theme@@code-background": "var(--background-secondary-alt)",
+  "chime-theme@@hide-scrollbars": false,
+  "chime-theme@@code-normal": "var(--text-normal)"
 }
