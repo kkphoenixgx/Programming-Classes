@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "31bbf7ce70508d5b",
@@ -320,7 +321,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "61b535711869a483",
+  "active": "b54d02dadd2a0e33",
   "lastOpenFiles": [
     "JavascriptTypescript/Angular/Section 7/Aula14.md",
     "JavascriptTypescript/Angular/index Angular.md",

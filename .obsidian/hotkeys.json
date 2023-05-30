@@ -43,5 +43,15 @@
       "key": "Tab"
     }
   ],
-  "workspace:previous-tab": []
+  "workspace:previous-tab": [],
+  "table-editor-obsidian:format-all-tables": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ]
 }
