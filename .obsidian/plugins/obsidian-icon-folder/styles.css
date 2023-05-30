@@ -1,8 +1,14 @@
 .obsidian-icon-folder-icon {
   border: 1px solid transparent;
-  padding: 2px 2px 2px 2px;
+  margin: 0px 4px 0px 0px;
   display: flex;
+  align-self: center;
   margin: auto 0;
+}
+
+.nav-folder-title,
+.nav-file-title {
+  align-items: center;
 }
 
 .obsidian-icon-folder-setting .setting-item-control .dropdown {
@@ -28,6 +34,15 @@
   grid-column-end: 6;
 }
 
+@media (max-width: 640px) {
+  .obsidian-icon-folder-modal.prompt-results {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .prompt .obsidian-icon-folder-subheadline {
+    grid-column-end: 4;
+  }
+}
+
 .obsidian-icon-folder-modal.prompt-results .suggestion-item {
   cursor: pointer;
   white-space: pre-wrap;
@@ -46,6 +61,10 @@
 
 .obsidian-icon-folder-modal.prompt-results .suggestion-item.suggestion-item__center {
   justify-content: center;
+}
+
+.obsidian-icon-folder-icon-preview {
+  font-size: 22px;
 }
 
 .obsidian-icon-folder-icon-preview img {
@@ -73,4 +92,20 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+/* Custom rule modal. */
+.obsidian-icon-folder-custom-rule-modal .modal-title h3 {
+  margin: 0;
+}
+
+.obsidian-icon-folder-custom-rule-modal .modal-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.obsidian-icon-folder-custom-rule-modal .modal-content input {
+  width: 100%;
+  margin-right: 0.5rem;
 }

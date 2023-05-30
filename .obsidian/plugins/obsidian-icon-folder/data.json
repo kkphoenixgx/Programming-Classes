@@ -12,6 +12,14 @@
       "right": 2,
       "bottom": 2,
       "left": 2
-    }
+    },
+    "emojiStyle": "none",
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
   }
 }
