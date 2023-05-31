@@ -50,15 +50,25 @@
 | [Aula24](Section%2012/Aula24.md) | `[routerLinkActive] = "['class']"`; `[routerLinkActiveOptions]="{exact: true}"`; `:param` | Active Routes, parâmetro nas rotas   |
 | [Aula25](Section%2012/Aula25.md) | `router :Router`; `this.router.navigate`; `this.router.navigateByUrl`                     | Redirecionamento pelo código         |
 
-## Rxjs e httpClientModule
+## Rxjs e APIs externas
 
 | Aula                          | Recurso(s)           | Assunto(s)       |
 | ----------------------------- | -------------------- | ---------------- |
-| [Aula27](Section13/Aula27.md) | httpClientModule     | httpClientModule |
+| [Aula27](Section13/Aula27.md) | http: HttpClient     | httpClientModule em APIs externas |
 | [Aula28](Section13/Aula28.md) | pipe(); tap(); map() | Rxjs             |
 
+## Jasmine
 
+| Aula                                                   | Recurso(s)                                                                                                                                                          | Assunto(s)                      |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| [Aula29](../Javascript%20vanilla/Selection3/Aula29.md) | **npm install jasmine**; **npm install karma karma-jasmine jasmine-core karma-chrome-launcher**, karma.config, **ngTest** --- `describe()`; `it()`; TestBed; fixure | Introdução ao Jasmine           |
+| [Aula30](section14/Aula30.md)                          | `expect()`; `x.toEqual(y)`; `x.not.y`;                                                                                                                              | Manipulando testes fluentemente |
+| [Aula31](section14/Aula31.md) |  | |
 
+## Projetos
 
+| Aula                           | Assunto(s)       |
+| -----------------------------  | ---------------- |
+| [Aula26](Section13/Aula26.md) | Pokédex App |
 
 

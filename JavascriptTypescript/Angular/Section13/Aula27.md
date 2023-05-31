@@ -4,11 +4,12 @@ tags: [index Angular](../index%20Angular.md)
 
 ## - Mod 83-89 - : Hands on 1-7
 
-O httpClientModule permite você fazer requosições via http, podemos importa-lo no app.module: *import { httpClientModule } from '@angular/common/http'*. E a questão é que é bem mais rápido do que fazer um fetch ou coisas assim. Dessa forma, 
+O httpClientModule permite você fazer requisições via http, podemos importa-lo no app.module: *import { httpClientModule } from '@angular/common/http'*. Desse modo, podemos usa-lo para requirir APIs externas, e a questão é que é bem mais rápido do que fazer um fetch ou coisas assim.
 
 ~~~ts
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+
 import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({

@@ -79,9 +79,9 @@ Para começar, instala e salva como dependência o Jasmine
 * Realize o primeiro teste com:
 	> **ng test**
 
-### Uderstanding syntax
+### Understanding syntax
 
-Com o Agular funcionando com o Jasmine, vamos só entender o que fizemos dentro do spec:
+Com o Angular funcionando com o Jasmine, vamos só entender o que fizemos dentro do spec:
 
 ~~~ts
 	import { TestBed } from '@angular/core/testing';

@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3e64644efc32f761",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavascriptTypescript/Angular/Section13/Aula27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/Section13/Aula27.md",
+                "file": "JavascriptTypescript/Angular/index Angular.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Angular/Section13/Aula27.md"
+                "file": "JavascriptTypescript/Angular/index Angular.md"
               }
             }
           },
@@ -271,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/Section13/Aula27.md",
+                "file": "JavascriptTypescript/Angular/index Angular.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -283,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/Section13/Aula27.md",
+                "file": "JavascriptTypescript/Angular/index Angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,12 +311,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e64644efc32f761",
+  "active": "475fb206fc5efa49",
   "lastOpenFiles": [
+    "JavascriptTypescript/Angular/section14/Aula30.md",
     "JavascriptTypescript/Angular/index Angular.md",
+    "JavascriptTypescript/Angular/section14/Aula29.md",
+    "JavascriptTypescript/Angular/Section13/Aula26.md",
     "JavascriptTypescript/Angular/Section13/Aula27.md",
     "JavascriptTypescript/Angular/Section13/Aula28.md",
-    "JavascriptTypescript/Angular/Section13/Aula26.md",
     "JavascriptTypescript/Angular/Section 12/Aula25.md",
     "JavascriptTypescript/Angular/Section 12/Aula24.md",
     "JavascriptTypescript/Angular/Section 12/Aula23.md",
@@ -351,8 +340,6 @@
     "JavascriptTypescript/Angular/NotesReview",
     "CSharp/Bibliotecas Nativas.md",
     "CSharp/Classes no CSharp.md",
-    "CSharp/Laços de repetição.md",
-    "CSharp/Variáveis e types.md",
     "Pasted image 20230525095435.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525094233.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525092217.png",
