@@ -35,7 +35,9 @@
 
 ## NgForm, ReactiveForms
 
-| Aula                             | Recurso(s)                                                       | Assunto(s) |
-| -------------------------------- | ---------------------------------------------------------------- | ---------- |
-| [Aula20](Section%2010/Aula20.md) | input ngModel, select ngModel, Erros com NgForms e Submit NgForm | NgForm          |
-| [Aula21](Section%2011/Aula21.md) | `formGroup :FormGroup`; `formBuilder : FormBuilder`; `[formGroup] = "cadastroFormGroup"` | Criando um ReactiveFroms |
+| Aula                             | Recurso(s)                                                                               | Assunto(s)                             |
+| -------------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------- |
+| [Aula20](Section%2010/Aula20.md) | input ngModel, select ngModel, Erros com NgForms e Submit NgForm                         | NgForm                                 |
+| [Aula21](Section%2011/Aula21.md) | `formGroup :FormGroup`; `formBuilder : FormBuilder`; `[formGroup] = "cadastroFormGroup"` | Criando um ReactiveFroms               |
+| [Aula22](Section%2011/Aula22.md) | Validators                                                                               | Validação de formulários reactiveForms |
+|                                  |                                                                                          |                                        |
