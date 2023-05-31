@@ -1,6 +1,11 @@
 # Index Angular
 [Index of typescript](../Typescript/Typescript/Index%20of%20typescript.md)
 
+~ = mesma coisa que a outra coluna
+. - = hífen é quando não tem valor
+
+## Introdutório
+
 | Aula                            | Recurso(s)                                                                                           | Assunto(s)                                                                               |
 | ------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | [Aula1](Section%203/Aula1.md)   | -                                                                                                    | instalando o Angular                                                                     |
@@ -15,7 +20,7 @@
 | [Aula10](Section%205/Aula10.md) | [ (ngModel) ] ="variable", '<'ng-template></ng-template>                                             | ngModel em two-way databinding e ng-template                                             |
 | [Aula11](Section%205/Aula11.md) | '<'ng-content select='element' ></ng-content> {{ x 'pipe' transformProp }}                           | Organizando os elementos de pai para filho com ng-content e transformando dados com pipe |
 
-## Arquitetura
+## Arquitetura e Services
 
 | Aula                            | Recurso(s)                                                                   | Assunto(s)                                                             |
 | ------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -27,6 +32,10 @@
 | [Aula17](Section%209/Aula17.md) | **ng g s (path)**, @Ingectable, subscribe(),                                 | Insight eventBinding, SERVICES, Comunicação e arquitetura com services |
 | [Aula18](Section%209/Aula18.md) | `http :HttpClient`; `http.get`; `http.post`; `:Observable<{variable :type}>` | Consumindo dados de um SERVICE e Observadores no Angular               |
 | [Aula19](Section%209/Aula19.md) | `http.put`; `http.delete`, headers(IResponses)                               | Deletando, atualizando dados de uma API e criando headers              |
-| [Aula20](Section%2010/Aula20.md) | | |
 
+## NgForm, ReactiveForms
 
+| Aula                             | Recurso(s)                                                       | Assunto(s) |
+| -------------------------------- | ---------------------------------------------------------------- | ---------- |
+| [Aula20](Section%2010/Aula20.md) | input ngModel, select ngModel, Erros com NgForms e Submit NgForm | NgForm          |
+| [Aula21](Section%2011/Aula21.md) | `formGroup :FormGroup`; `formBuilder : FormBuilder`; `[formGroup] = "cadastroFormGroup"` |  |

@@ -5,18 +5,18 @@ tags:
 ## - Mod 67 - : Introdução ao reactive forms
 
 
-Reactive forms é uma forma de trabalhar com formulários reativamente, estavamso usando até agora a forma mais simples, o **template-driven-forms**, contudo, o **reactive forms** é mais rápido, expansível e melhor de usar
+Reactive forms é uma forma de trabalhar com formulários reativamente, estavamos usando até agora a forma mais simples, o **template-driven-forms**, contudo, o **reactive forms** é mais rápido, expansível e melhor de usar
 
 
 ## - Mod 68 - : Utilizando o formulário - Form builder
 
-Bom, antes de tudo, obviamente precisamos importar o reactiveForms para o module.ts, como visto em várias ourtras aulas, só muda o nome... E nesse exemplo, **usaremos as Routes do Angular na **:
+Bom, antes de tudo, obviamente precisamos importar o reactiveForms para o module.ts, como visto em várias outras aulas, só muda o nome... E nesse exemplo, **usaremos as Routes do Angular, portanto adicionamos a segunda imagem no componente que vamos usar o ReactiveForms**:
 
 ![](../img/Pasted%20image%2020230205175454.png)
 
 ![](../img/Pasted%20image%2020230205145908.png)
 
-E dentro de um componente, criaremos o form builder, que é justamente quem vai criar os formulários dinamicos e incredibles（づ￣3￣）づ╭❤～. Da mesma forma, vamos criar os FromGroups
+E dentro de um componente, criaremos o form builder, que é justamente quem vai criar os formulários dinamicos e incredibles. Da mesma forma, vamos criar os FromGroups, grupos de itens do formulário.
 
 ~~~ts
 import { Component } from '@angular/core';
