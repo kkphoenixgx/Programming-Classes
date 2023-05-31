@@ -6,7 +6,7 @@ tags: [index Angular](../index%20Angular.md)
 
 * **beforeEach** = antes de todas specs, execute isso
 * **fixture.detectChanges** = detecta as mudanças da fixure
-* **x** = espera que x seja true
+* **x.toBeTruthy** = espera que x seja true
 
 vale salientar que o fixture.detectChanges pode dar problema quando iniciado dentro de um beforeEach, qualquer coisa só colocar em um it. Além disso, existe uma convenção para como as messages do it devem ser criadas, o U será como Under Test (em teste) e definirá a fn ou o callback que está sendo testado:
 

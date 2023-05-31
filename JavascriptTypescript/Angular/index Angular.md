@@ -20,6 +20,8 @@
 | [Aula10](Section%205/Aula10.md) | [ (ngModel) ] ="variable", '<'ng-template></ng-template>                                             | ngModel em two-way databinding e ng-template                                             |
 | [Aula11](Section%205/Aula11.md) | '<'ng-content select='element' ></ng-content> {{ x 'pipe' transformProp }}                           | Organizando os elementos de pai para filho com ng-content e transformando dados com pipe |
 
+Menção honrosa a aula 31 que dá uma dica incrível sobre selecionar dinamicamente uma div: [- Mod 106 - Criando componente para teste](section14/Aula31.md#-%20Mod%20106%20-%20Criando%20componente%20para%20teste)
+
 ## Arquitetura e Services
 
 | Aula                            | Recurso(s)                                                                   | Assunto(s)                                                             |
@@ -60,10 +62,12 @@
 ## Jasmine
 
 | Aula                                                   | Recurso(s)                                                                                                                                                          | Assunto(s)                      |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
 | [Aula29](../Javascript%20vanilla/Selection3/Aula29.md) | **npm install jasmine**; **npm install karma karma-jasmine jasmine-core karma-chrome-launcher**, karma.config, **ngTest** --- `describe()`; `it()`; TestBed; fixure | Introdução ao Jasmine           |
-| [Aula30](section14/Aula30.md)                          | `expect()`; `x.toEqual(y)`; `x.not.y`;                                                                                                                              | Manipulando testes fluentemente |
-| [Aula31](section14/Aula31.md) |  | |
+| [Aula30](section14/Aula30.md) | `expect()`; `x.toEqual(y)`; `x.not.y`;                                                                                                                              | Manipulando testes fluentemente |
+| [Aula31](section14/Aula31.md) | **ng test --code-coverage** | melhorando a cobertura de testes |
+| [Aula32](section14/Aula32.md) | `beforeEach`; `x.toBeTruthy()`; (U) | Under Test |
+| [Aula33](section14/Aula33.md) | `fixure.debugeElement.nativeElement`; `fixure.detectChanges`; (I) | Testando interfaces |
 
 ## Projetos
 

@@ -293,8 +293,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -311,10 +310,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "475fb206fc5efa49",
+  "active": "61b535711869a483",
   "lastOpenFiles": [
-    "JavascriptTypescript/Angular/section14/Aula30.md",
+    "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525095435.png",
+    "JavascriptTypescript/Pasted image 20230525095435.png",
+    "JavascriptTypescript/Angular/section14/Aula33.md",
     "JavascriptTypescript/Angular/index Angular.md",
+    "JavascriptTypescript/Angular/section14/Aula32.md",
+    "JavascriptTypescript/Angular/section14/Aula31.md",
+    "JavascriptTypescript/Angular/section14/Aula30.md",
     "JavascriptTypescript/Angular/section14/Aula29.md",
     "JavascriptTypescript/Angular/Section13/Aula26.md",
     "JavascriptTypescript/Angular/Section13/Aula27.md",
@@ -335,11 +339,7 @@
     "JavascriptTypescript/Angular/Section 5/Aula11.md",
     "JavascriptTypescript/Angular/Section 5/Aula7.md",
     "JavascriptTypescript/Angular/Section 8/Aula15.md",
-    "JavascriptTypescript/Angular/Section 8/Aula16.md",
-    "JavascriptTypescript/Angular/Section 7/Aula14.md",
     "JavascriptTypescript/Angular/NotesReview",
-    "CSharp/Bibliotecas Nativas.md",
-    "CSharp/Classes no CSharp.md",
     "Pasted image 20230525095435.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525094233.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525092217.png",
@@ -349,7 +349,6 @@
     "Java/JavaVanilla/img/Pasted image 20230520172135.png",
     "Java/JavaVanilla/img/Pasted image 20230520172107.png",
     "Java/JavaVanilla/img/mod73Exemple.jpg",
-    "Pasted image 20230519181056.png",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
     "Mongo.db/img",
     "CSharp/Unity/img",

@@ -53,7 +53,7 @@ You can change args to decide:
 
 will result in:
 
-![](../../../Pasted%20image%2020230525095435.png)
+![](img/Pasted%20image%2020230525095435.png)
 
 And grid is a Object3D of thee.js, so you can change positions and all those default atributes
 
