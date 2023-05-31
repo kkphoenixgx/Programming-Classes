@@ -41,3 +41,24 @@
 | [Aula21](Section%2011/Aula21.md) | `formGroup :FormGroup`; `formBuilder : FormBuilder`; `[formGroup] = "cadastroFormGroup"` | Criando um ReactiveFroms               |
 | [Aula22](Section%2011/Aula22.md) | Validators                                                                               | Validação de formulários reactiveForms |
 |                                  |                                                                                          |                                        |
+
+## Routes
+
+| Aula                             | Recurso(s)                                                                                | Assunto(s)                           |
+| -------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------ |
+| [Aula23](Section%2012/Aula23.md) | routerLink, redirectTo                                                                    | Navegação entre rotas, routes.module |
+| [Aula24](Section%2012/Aula24.md) | `[routerLinkActive] = "['class']"`; `[routerLinkActiveOptions]="{exact: true}"`; `:param` | Active Routes, parâmetro nas rotas   |
+| [Aula25](Section%2012/Aula25.md) | `router :Router`; `this.router.navigate`; `this.router.navigateByUrl`                     | Redirecionamento pelo código         |
+
+## Rxjs e httpClientModule
+
+| Aula                          | Recurso(s)           | Assunto(s)       |
+| ----------------------------- | -------------------- | ---------------- |
+| [Aula27](Section13/Aula27.md) | httpClientModule     | httpClientModule |
+| [Aula28](Section13/Aula28.md) | pipe(); tap(); map() | Rxjs             |
+
+
+
+
+
+

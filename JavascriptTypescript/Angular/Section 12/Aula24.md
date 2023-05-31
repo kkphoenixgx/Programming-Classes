@@ -13,7 +13,7 @@ Quando você usar isso, vai perceber que ele usa por padrão um padrão cascata,
 
 > **[routerLinkActiveOptions]="{exact: true}"**
 
-## - Mod 77 - : Parametros nas rotas
+## - Mod 77 - : Parâmetros nas rotas
 
 Para parametrizar as rotas, usamos :param, exemplo:
 
