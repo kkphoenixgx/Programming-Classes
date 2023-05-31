@@ -55,7 +55,7 @@ export class TestingServiceService{
     public http :HttpClient
   ) {}
 
-  
+  // -------- GET --------
   changePageObserver() :Observable< Array<IResponse> >{
     return this.http.get <Array <IResponse> >(`${this._url}serverResponse`).pipe(
       response => { console.log(response); return response },

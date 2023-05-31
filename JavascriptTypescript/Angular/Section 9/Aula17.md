@@ -12,7 +12,7 @@ UUUUUUUU, não fazia ideia que no angular existia algo assim, nossa, isso é mui
 > **ng g s (path)**
 > **ng generate service (path)**
 
-Sendo path o caminho e por padrão o path que você está, geralmente usado service/servicename. Ao criar o seu service, para importa-lo em qualquer outro lugar da sua aplicação, é só importat como se você um método de classe mesmo....
+Sendo path o caminho e por padrão o path que você está, geralmente usado service/servicename. Ao criar o seu service, para importa-lo em qualquer outro lugar da sua aplicação, é só importar como se fosse um método de classe mesmo....
 
 ~~~ts
 // Service file (arquivo service)
@@ -32,6 +32,8 @@ export class TestingServiceService {
 
 }
 ~~~
+
+O `@Injectable` diz para o Angular que essa classe é uma classe injetável como dependência em outras classes, e como colocamos `providedIn: 'root'`, está disponível na root do projeto, em sua pasta inicial...
 
 ~~~ts
 import { Component, OnInit } from '@angular/core';

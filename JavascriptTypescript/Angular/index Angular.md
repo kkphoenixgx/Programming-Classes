@@ -17,12 +17,16 @@
 
 ## Arquitetura
 
-| Aula                            | Recurso(s)                                                     | Assunto(s)                                                             |
-| ------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| [Aula12](Section%206/Aula12.md) | @NgModules, **ng g m [submodule]/directoreName**               | Modules and submodule                                                  |
-| [Aula13](Section%207/Aula13.md) | @Input, arquiteture problems                                   | Comunicação entre componentes                                          |
-| [Aula14](Section%207/Aula14.md) | @Output(), arquitetura                                         | Comunicação entre componentes baseada em eventos                       |
-| [Aula15](Section%208/Aula15.md) | Arquitetura e afins do projeto                                 | Projeto TaskBar                                                        |
-| [Aula16](Section%208/Aula16.md) | Organizando Componentes, identificando herança, scss selectors | Projeto taskBar                                                        |
-| [Aula17](Section%209/Aula17.md) | **ng g s (path)**, @Ingectable, subscribe(),                   | Insight eventBinding, SERVICES, Comunicação e arquitetura com services |
-| [Aula18](Section%209/Aula18.md) | `http :HttpClient`; | Consumindo dados de um SERVICE |
+| Aula                            | Recurso(s)                                                                   | Assunto(s)                                                             |
+| ------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [Aula12](Section%206/Aula12.md) | @NgModules, **ng g m [submodule]/directoreName**                             | Modules and submodule                                                  |
+| [Aula13](Section%207/Aula13.md) | @Input, arquiteture problems                                                 | Comunicação entre componentes                                          |
+| [Aula14](Section%207/Aula14.md) | @Output(), arquitetura                                                       | Comunicação entre componentes baseada em eventos                       |
+| [Aula15](Section%208/Aula15.md) | Arquitetura e afins do projeto                                               | Projeto TaskBar                                                        |
+| [Aula16](Section%208/Aula16.md) | Organizando Componentes, identificando herança, scss selectors               | Projeto taskBar                                                        |
+| [Aula17](Section%209/Aula17.md) | **ng g s (path)**, @Ingectable, subscribe(),                                 | Insight eventBinding, SERVICES, Comunicação e arquitetura com services |
+| [Aula18](Section%209/Aula18.md) | `http :HttpClient`; `http.get`; `http.post`; `:Observable<{variable :type}>` | Consumindo dados de um SERVICE e Observadores no Angular               |
+| [Aula19](Section%209/Aula19.md) | `http.put`; `http.delete`, headers(IResponses)                               | Deletando, atualizando dados de uma API e criando headers              |
+| [Aula20](Section%2010/Aula20.md) | | |
+
+
