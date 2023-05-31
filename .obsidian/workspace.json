@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b54d02dadd2a0e33",
+            "id": "475fb206fc5efa49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/Angular/Section 10/Aula20.md",
+                "file": "JavascriptTypescript/Angular/index Angular.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d40d9f0ca7d317b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/Angular/Section 9/Aula18.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "31bbf7ce70508d5b",
@@ -105,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/Section 10/Aula20.md",
+                "file": "JavascriptTypescript/Angular/Section 9/Aula18.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Angular/Section 10/Aula20.md"
+                "file": "JavascriptTypescript/Angular/Section 9/Aula18.md"
               }
             }
           },
@@ -258,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/Section 10/Aula20.md",
+                "file": "JavascriptTypescript/Angular/Section 9/Aula18.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/Section 10/Aula20.md",
+                "file": "JavascriptTypescript/Angular/Section 9/Aula18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +307,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,11 +325,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b54d02dadd2a0e33",
+  "active": "d40d9f0ca7d317b7",
   "lastOpenFiles": [
+    "JavascriptTypescript/Angular/index Angular.md",
+    "JavascriptTypescript/Angular/Section 9/Aula18.md",
+    "JavascriptTypescript/Angular/Section 6/Aula12.md",
+    "JavascriptTypescript/Angular/Section 5/Aula11.md",
+    "JavascriptTypescript/Angular/Section 10/Aula20.md",
+    "JavascriptTypescript/Angular/Section 5/Aula7.md",
     "JavascriptTypescript/Angular/Section 8/Aula15.md",
     "JavascriptTypescript/Angular/Section 8/Aula16.md",
-    "JavascriptTypescript/Angular/index Angular.md",
     "JavascriptTypescript/Angular/Section 7/Aula14.md",
     "JavascriptTypescript/Angular/NotesReview",
     "CSharp/Bibliotecas Nativas.md",
@@ -324,7 +344,6 @@
     "JavascriptTypescript/Angular/section14/Aula33.md",
     "JavascriptTypescript/Angular/section14/Aula32.md",
     "JavascriptTypescript/Angular/Section 3/Aula1.md",
-    "JavascriptTypescript/Angular/Section 9/Aula18.md",
     "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
     "Pasted image 20230525095435.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525094233.png",
@@ -339,10 +358,6 @@
     "JavascriptTypescript/Node/Modules.md",
     "JavascriptTypescript/Node/NPM.md",
     "JavascriptTypescript/Node/Selection 1 e 2/Aula5.md",
-    "JavascriptTypescript/Node/Selection 1 e 2/Aula4.md",
-    "JavascriptTypescript/Node/Selection 1 e 2/Aula2.md",
-    "JavascriptTypescript/Node/Selection 1 e 2/Aula1.md",
-    "JavascriptTypescript/Node/Selection 3/Aula17.md",
     "Docker/img/Pasted image 20230521100552.png",
     "Docker/img/Pasted image 20230521094806.png",
     "Java/JavaVanilla/img/Pasted image 20230520172135.png",

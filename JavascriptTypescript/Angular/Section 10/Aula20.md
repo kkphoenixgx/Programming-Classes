@@ -49,7 +49,7 @@ Basicamente a aula é sobre input type radio com o ngForms:
 </form>
 ~~~
 
-## - Mod 64 - : ngForm + Selected
+## - Mod 64 - : ngForm + Select
 
 Esse seria uma forma hard coded de usar o select
 ![](../img/Pasted%20image%2020230203224955.png)
@@ -117,6 +117,7 @@ Importante: o type do form é :NgForm, quando for usar ele no ts
 
 -----------------------------------------------
 * Nota: decidi não usar labels para ficar mais fácil de ver e enxuto os códigos :)
+
 ## Bibliografia
 
 https://www.udemy.com/course/curso-de-angular/learn/lecture/25570530#overview

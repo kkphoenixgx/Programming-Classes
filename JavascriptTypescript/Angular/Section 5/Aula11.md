@@ -53,7 +53,7 @@ O pipe basicamente ajuda a modificar valores do código, é um recurso dentro do
 <li *ngFor = "let item of list" >{{item | uppercase}}</li>
 ~~~
 
-isso transforma o valor em uppercase ( ﾉ ﾟｰﾟ)ﾉ ~~ simplsmente incrível... Quer ver algo mais incrível ainda?
+isso transforma o valor em uppercase, simplsmente incrível... Quer ver algo mais incrível ainda?
 
 ~~~ts
 public date :Date = new Date
@@ -62,7 +62,7 @@ public date :Date = new Date
 {{ date | date: 'dd/MM/yyyy' }}
 ~~~
 
-Isso retorna a data de hoje no formato certo... ( ﾉ ﾟｰﾟ)ﾉ ~~ simplsmente incredible...
+Isso retorna a data de hoje no formato certo... Simplesmente incredible...
 
 O que ele faz é basicamente chamar um método chamado transform() e usar como parâmetro o que vêm depois do pipe.
 
