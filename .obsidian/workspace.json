@@ -4,14 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9e2154fd5eac3413",
+        "id": "d5c976ae22430f55",
         "type": "tabs",
         "children": [
           {
-            "id": "01b7046e0cc530dc",
+            "id": "0ba4b47726883ad8",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "google-calendar-view-week",
+              "state": {}
+            }
+          },
+          {
+            "id": "36d19c6e9dccbeef",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-schedule",
               "state": {}
             }
           }
@@ -84,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 229.5
   },
   "right": {
     "id": "31bbf7ce70508d5b",
@@ -93,8 +101,16 @@
       {
         "id": "d4324376b19c690a",
         "type": "tabs",
-        "dimension": 49.504950495049506,
+        "dimension": 52.03804347826087,
         "children": [
+          {
+            "id": "f4edcc4708632d90",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-day",
+              "state": {}
+            }
+          },
           {
             "id": "878e5939c568b8f4",
             "type": "leaf",
@@ -215,7 +231,7 @@
                   "repelStrength": 11.2539057193316,
                   "linkStrength": 1,
                   "linkDistance": 294,
-                  "scale": 0.09019695223604675,
+                  "scale": 0.18462326225858214,
                   "close": true
                 }
               }
@@ -243,7 +259,7 @@
       {
         "id": "f7e80c1e5839227c",
         "type": "tabs",
-        "dimension": 50.495049504950494,
+        "dimension": 47.96195652173913,
         "children": [
           {
             "id": "a2b6f23c21b242a0",
@@ -251,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": true,
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -280,11 +296,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,11 +314,11 @@
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01b7046e0cc530dc",
+  "active": "9aa7f92b294cf9f2",
   "lastOpenFiles": [
     "JavascriptTypescript/Node/Index node.md",
     "JavascriptTypescript/Angular/index Angular.md",

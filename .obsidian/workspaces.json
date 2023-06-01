@@ -189,14 +189,22 @@
         "type": "split",
         "children": [
           {
-            "id": "dddacd539929801d",
+            "id": "d5c976ae22430f55",
             "type": "tabs",
             "children": [
               {
-                "id": "e301492b6f7e9246",
+                "id": "0ba4b47726883ad8",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
+                  "type": "google-calendar-view-week",
+                  "state": {}
+                }
+              },
+              {
+                "id": "36d19c6e9dccbeef",
+                "type": "leaf",
+                "state": {
+                  "type": "google-calendar-view-schedule",
                   "state": {}
                 }
               }
@@ -278,8 +286,16 @@
           {
             "id": "d4324376b19c690a",
             "type": "tabs",
-            "dimension": 49.504950495049506,
+            "dimension": 52.03804347826087,
             "children": [
+              {
+                "id": "f4edcc4708632d90",
+                "type": "leaf",
+                "state": {
+                  "type": "google-calendar-view-day",
+                  "state": {}
+                }
+              },
               {
                 "id": "878e5939c568b8f4",
                 "type": "leaf",
@@ -427,7 +443,7 @@
           {
             "id": "f7e80c1e5839227c",
             "type": "tabs",
-            "dimension": 50.495049504950494,
+            "dimension": 47.96195652173913,
             "children": [
               {
                 "id": "a2b6f23c21b242a0",
@@ -469,7 +485,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 307.5
+        "width": 329.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -486,7 +502,7 @@
           "obsidian-excalidraw-plugin:Create new drawing": false
         }
       },
-      "active": "e301492b6f7e9246"
+      "active": "f4edcc4708632d90"
     }
   },
   "active": "Programming"

@@ -5,7 +5,7 @@
   "useCustomClient": true,
   "googleOAuthServer": "https://obsidian-google-calendar.vercel.app",
   "refreshInterval": 10,
-  "useNotification": false,
+  "useNotification": true,
   "showNotice": true,
   "autoCreateEventNotes": true,
   "autoCreateEventNotesMarker": "obsidian",
@@ -14,8 +14,13 @@
   "importEndOffset": 1,
   "optionalNotePrefix": "",
   "eventNoteNameFormat": "{{prefix}}{{event-title}}",
-  "defaultCalendar": "",
-  "calendarBlackList": [],
+  "defaultCalendar": "kkphoenixvs@gmail.com",
+  "calendarBlackList": [
+    [
+      "yasmin.sampaio@estudante.ufla.br",
+      "yasmin.sampaio@estudante.ufla.br"
+    ]
+  ],
   "insertTemplates": [],
   "useDefaultTemplate": false,
   "defaultTemplate": "",
