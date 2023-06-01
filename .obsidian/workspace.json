@@ -4,23 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d5c976ae22430f55",
+        "id": "d12dce8bd083ba54",
         "type": "tabs",
         "children": [
           {
-            "id": "0ba4b47726883ad8",
+            "id": "f6f48ae1878b48b7",
             "type": "leaf",
             "state": {
-              "type": "google-calendar-view-week",
-              "state": {}
-            }
-          },
-          {
-            "id": "36d19c6e9dccbeef",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-schedule",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/Node/Selection 4/Aula24.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -117,6 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "JavascriptTypescript/Node/Selection 4/Aula24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,7 +228,7 @@
                   "repelStrength": 11.2539057193316,
                   "linkStrength": 1,
                   "linkDistance": 294,
-                  "scale": 0.18462326225858214,
+                  "scale": 0.0901969522360468,
                   "close": true
                 }
               }
@@ -242,7 +239,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JavascriptTypescript/Node/Selection 4/Aula24.md"
+              }
             }
           },
           {
@@ -254,7 +253,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "f7e80c1e5839227c",
@@ -267,6 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavascriptTypescript/Node/Selection 4/Aula24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -278,6 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavascriptTypescript/Node/Selection 4/Aula24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,10 +302,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -318,12 +320,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9aa7f92b294cf9f2",
+  "active": "f6f48ae1878b48b7",
   "lastOpenFiles": [
+    "JavascriptTypescript/Node/Selection 4/Aula24.md",
+    "JavascriptTypescript/Node/Selection 4/Aula23.md",
     "JavascriptTypescript/Node/Index node.md",
+    "JavascriptTypescript/Node/Servers.md",
     "JavascriptTypescript/Angular/index Angular.md",
     "JavascriptTypescript/Node/Selection 1 e 2/Aula3.md",
-    "JavascriptTypescript/Node/Servers.md",
     "JavascriptTypescript/Node/NPM.md",
     "JavascriptTypescript/Node/Modules.md",
     "JavascriptTypescript/Angular/section14/Aula33.md",
@@ -346,8 +350,6 @@
     "JavascriptTypescript/Angular/Section 10/Aula20.md",
     "JavascriptTypescript/Typescript/Typescript/Selection6/Aula20.md",
     "JavascriptTypescript/Angular/Section 9/Aula19.md",
-    "JavascriptTypescript/Angular/Section 9/Aula18.md",
-    "JavascriptTypescript/Angular/Section 9/Aula17.md",
     "JavascriptTypescript/Angular/NotesReview",
     "Pasted image 20230525095435.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525094233.png",

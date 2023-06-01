@@ -1,4 +1,4 @@
-# Node
+# Node.js
 
 O Node é uma plataforma de execução do javascript do lado do servidor. Ele é basicamente uma interpretação do motor V8 para interpretar javascript fora do ambiente do browser. Assim como o V8 do chrome, tem outros motores de interpretação, como o Spider Monkey do Firefox, o Chakracore do edge....
 
