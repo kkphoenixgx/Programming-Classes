@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "90819c3133a3ad62",
+        "id": "2ddc71f6f7ef85ce",
         "type": "tabs",
         "children": [
           {
-            "id": "475fb206fc5efa49",
+            "id": "671c83e6e34f2fb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,9 +226,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md"
-              }
+              "state": {}
             }
           },
           {
@@ -258,7 +251,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +262,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,12 +301,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "61b535711869a483",
+  "active": "671c83e6e34f2fb0",
   "lastOpenFiles": [
-    "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525095435.png",
-    "JavascriptTypescript/Pasted image 20230525095435.png",
     "JavascriptTypescript/Angular/section14/Aula33.md",
     "JavascriptTypescript/Angular/index Angular.md",
+    "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525095435.png",
+    "JavascriptTypescript/Pasted image 20230525095435.png",
     "JavascriptTypescript/Angular/section14/Aula32.md",
     "JavascriptTypescript/Angular/section14/Aula31.md",
     "JavascriptTypescript/Angular/section14/Aula30.md",
@@ -348,7 +339,6 @@
     "Docker/img/Pasted image 20230521094806.png",
     "Java/JavaVanilla/img/Pasted image 20230520172135.png",
     "Java/JavaVanilla/img/Pasted image 20230520172107.png",
-    "Java/JavaVanilla/img/mod73Exemple.jpg",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
     "Mongo.db/img",
     "CSharp/Unity/img",
