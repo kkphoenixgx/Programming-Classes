@@ -83,7 +83,15 @@ upServerEmiter();
 ~~~
 
 
-## - Mod  - : Criando processos em segundo plano
+## - Mod 32 - : Criando processos em segundo plano com o módulo child_process
+
+
+O node é single thread, contudo, podemos criar processos unicórnios, processos diferentes, assíncronos. Para isso, temos o child_process, um módulo só de processos unicórnios, a terra sem lei da demora e programação temporal.
+
+Dentro do child_process, temos três caras que vamos brincar nessa aula:
+
+* STDIN→ Para quando colocamos 
+*
 
 
 
@@ -91,3 +99,5 @@ upServerEmiter();
 ## Bibliografia
 
 https://www.udemy.com/course/nodejs-curso-completo/learn/lecture/16743064#overview
+
+https://www.udemy.com/course/nodejs-curso-completo/learn/lecture/16743058#overview
