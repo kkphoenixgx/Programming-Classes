@@ -28,4 +28,6 @@ function upServer(){
       }))
 			.catch( (err) => { console.error(err) } );
 }
+
+upServer();
 ~~~
