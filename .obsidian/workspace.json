@@ -11,8 +11,12 @@
             "id": "671c83e6e34f2fb0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/Node/Index node.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -84,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "31bbf7ce70508d5b",
@@ -101,6 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "JavascriptTypescript/Node/Index node.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +232,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JavascriptTypescript/Node/Index node.md"
+              }
             }
           },
           {
@@ -251,6 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavascriptTypescript/Node/Index node.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -262,6 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavascriptTypescript/Node/Index node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +294,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -303,6 +314,10 @@
   },
   "active": "671c83e6e34f2fb0",
   "lastOpenFiles": [
+    "JavascriptTypescript/Node/Servers.md",
+    "JavascriptTypescript/Node/Index node.md",
+    "JavascriptTypescript/Node/NPM.md",
+    "JavascriptTypescript/Node/Modules.md",
     "JavascriptTypescript/Angular/section14/Aula33.md",
     "JavascriptTypescript/Angular/index Angular.md",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525095435.png",
@@ -327,9 +342,6 @@
     "JavascriptTypescript/Angular/Section 9/Aula18.md",
     "JavascriptTypescript/Angular/Section 9/Aula17.md",
     "JavascriptTypescript/Angular/Section 6/Aula12.md",
-    "JavascriptTypescript/Angular/Section 5/Aula11.md",
-    "JavascriptTypescript/Angular/Section 5/Aula7.md",
-    "JavascriptTypescript/Angular/Section 8/Aula15.md",
     "JavascriptTypescript/Angular/NotesReview",
     "Pasted image 20230525095435.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525094233.png",

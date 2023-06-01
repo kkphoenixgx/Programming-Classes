@@ -46,5 +46,6 @@
   "chime-theme@@heading-colors": "colorful-headings-alt",
   "chime-theme@@code-background": "var(--background-secondary-alt)",
   "chime-theme@@hide-scrollbars": false,
-  "chime-theme@@code-normal": "var(--text-normal)"
+  "chime-theme@@code-normal": "var(--text-normal)",
+  "chime-theme@@link-style": "link-web"
 }
