@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2ddc71f6f7ef85ce",
+        "id": "9e2154fd5eac3413",
         "type": "tabs",
         "children": [
           {
-            "id": "671c83e6e34f2fb0",
+            "id": "01b7046e0cc530dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavascriptTypescript/Node/Index node.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "31bbf7ce70508d5b",
@@ -106,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Node/Index node.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,9 +226,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavascriptTypescript/Node/Index node.md"
-              }
+              "state": {}
             }
           },
           {
@@ -246,7 +238,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "f7e80c1e5839227c",
@@ -259,7 +251,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Node/Index node.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -271,7 +262,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Node/Index node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,8 +284,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,15 +301,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "671c83e6e34f2fb0",
+  "active": "01b7046e0cc530dc",
   "lastOpenFiles": [
-    "JavascriptTypescript/Node/Selection 1 e 2/Aula3.md",
     "JavascriptTypescript/Node/Index node.md",
+    "JavascriptTypescript/Angular/index Angular.md",
+    "JavascriptTypescript/Node/Selection 1 e 2/Aula3.md",
     "JavascriptTypescript/Node/Servers.md",
     "JavascriptTypescript/Node/NPM.md",
     "JavascriptTypescript/Node/Modules.md",
     "JavascriptTypescript/Angular/section14/Aula33.md",
-    "JavascriptTypescript/Angular/index Angular.md",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525095435.png",
     "JavascriptTypescript/Pasted image 20230525095435.png",
     "JavascriptTypescript/Angular/section14/Aula32.md",
