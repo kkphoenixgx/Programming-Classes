@@ -23,10 +23,9 @@ meuEvento.on('finished', (x,y)=>{
 // vamos supor que temos esse método para subir o servidor
 function upServer(){
     createServer().
-      .then((=>{
-          meuEvento.emit('finished', 'userAdmin', 'Alterou o salário');
+      .then( () => {
+				meuEvento.emit('finished');
       }))
-      .catch( (err)=> { console.error(err) } );
-}   
-
+			.catch( (err) => { console.error(err) } );
+}
 ~~~

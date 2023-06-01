@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6aa43b255d28edf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/Node/Selection 3/Aula16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -322,9 +334,13 @@
   },
   "active": "f6f48ae1878b48b7",
   "lastOpenFiles": [
+    "JavascriptTypescript/Node/Selection 3/Aula16.md",
     "JavascriptTypescript/Node/Selection 4/Aula24.md",
-    "JavascriptTypescript/Node/Selection 4/Aula23.md",
     "JavascriptTypescript/Node/Index node.md",
+    "JavascriptTypescript/Node/Selection 4/Aula20.md",
+    "JavascriptTypescript/Node/Selection 4/Aula21.md",
+    "JavascriptTypescript/Node/Selection 4/Aula22.md",
+    "JavascriptTypescript/Node/Selection 4/Aula23.md",
     "JavascriptTypescript/Node/Servers.md",
     "JavascriptTypescript/Angular/index Angular.md",
     "JavascriptTypescript/Node/Selection 1 e 2/Aula3.md",
@@ -346,10 +362,6 @@
     "JavascriptTypescript/Angular/Section 11/Aula22.md",
     "JavascriptTypescript/Angular/Section 11/Aula21.md",
     "-Regras de Convicência.md",
-    "Organização.md",
-    "JavascriptTypescript/Angular/Section 10/Aula20.md",
-    "JavascriptTypescript/Typescript/Typescript/Selection6/Aula20.md",
-    "JavascriptTypescript/Angular/Section 9/Aula19.md",
     "JavascriptTypescript/Angular/NotesReview",
     "Pasted image 20230525095435.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525094233.png",
