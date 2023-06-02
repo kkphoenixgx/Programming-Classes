@@ -137,6 +137,10 @@ ls.on("close", code => {
 })
 ~~~
 
+------ 
+
+* **Nota e insight**: É importante entender também a importância de lidar com eventos e não com promises no node, os processos podem dar errado, podem emitir diferentes erros e diferentes problemas, quando usamos eventos no lugar de promises, temos mais maneabilidade sobre coisas que podem acontecer no código
+
 -----------------------------------------------
 ## Bibliografia
 
