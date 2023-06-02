@@ -85,7 +85,6 @@ upServerEmiter();
 
 ## - Mod 32 - : Criando processos em segundo plano com o módulo child_process
 
-
 O node é single thread, contudo, podemos criar processos unicórnios, processos diferentes, assíncronos. Há quatro maneiras diferentes de se criar um processo filho no Node: `spawn()`, `fork()`, `exec()` e `execFile()`, vamos contemplar aqui o `spawn()`. Para isso, temos o child_process, um módulo só de processos unicórnios, a terra sem lei da demora e programação temporal.
 
 Dentro do child_process, temos três caras que vamos brincar nessa aula:
@@ -95,20 +94,47 @@ Dentro do child_process, temos três caras que vamos brincar nessa aula:
 * STDERR →Para quando tem algum erro
 
 Esse método, o `spawn()`, **executa comandos de terminal** (bash) pelo child_process, que sempre emite eventos que podem ser capturados e tratados.
-Os **eventos** que podemos usar para tratar os métodos do `ChildProcess` são: **"exit" "disconnect", "error", "close" e "message"** (*bem auto explicativos, qualquer dúvida, cheque o link 3 da bibliografia*), chamamos a execução dos processos do child_process de *steams* e cada stream tem seus processos, sendo **uma especificidade da stream do tipo STDIN, o parâmetro data que recebe o input dado pelo usuário**.  
+Os **eventos** que podemos usar para tratar os métodos do `ChildProcess` são: **"exit" "disconnect", "error", "close" e "message"** (*bem auto explicativos, qualquer dúvida, cheque o link 3 da bibliografia*), chamamos a execução dos processos do child_process de *steams* e cada stream tem seus processos, sendo **uma especificidade das stream que leem algo, o parâmetro data que recebe o input dado pelo usuário**. 
 
 ~~~js
 const { spawn } = require('child_process');
 
-const child = spawn('pwd');
+const child = spawn('pwd'); // Comando de leitura
 
+// Conterá um arquivo lido
 child.stdout.on('data', data => {
-  console.log(`stdout filho:\n${data}`);
+  console.log(`stdout: \n ${data}`);
 });
 
-child.stderr.on('data', (data) => {
-  console.error(`stderr filho:\n${data}`);
+// Conterá um erro
+child.stderr.on('data', data => {
+  console.error(`stderr: \n ${data}`);
 });
+~~~
+
+O comando spawn, têm como estrutura, a seguinte sintaxe:
+
+> spawn('command', [args])
+
+sendo args, argumentos que podem ser passados após o comando de terminal, exemplo: **ls -lh →`spawn( "ls", ["-lh"] )`**, qualquer outro argumento que viria após esse -lh seria colocado como outro item no vetor.
+
+Portanto, o **processo que está sendo executado no `spawn()` possuí propriedades stout, stderr e stdin caso receba algum valor**. Veja o exemplo e junte as peças.
+
+~~~js
+const { spawn } = require("child_process");
+
+const ls = spawn("ls", ["lh", "./Client"])
+
+ls.stdout.on("data", data => {
+	console.log(`stdout:\n${data}`)
+})
+ls.stderr.on("data", data => {
+	console.error(`stderr:\n${data}`)
+})
+
+ls.on("close", code => {
+	console.log(`processo realizado com sucesso em código ${code}`)
+})
 ~~~
 
 -----------------------------------------------

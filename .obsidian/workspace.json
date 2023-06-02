@@ -228,7 +228,7 @@
                   "repelStrength": 11.2539057193316,
                   "linkStrength": 1,
                   "linkDistance": 294,
-                  "scale": 0.0901969522360468,
+                  "scale": 0.15435218481432428,
                   "close": true
                 }
               }
@@ -320,7 +320,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6f48ae1878b48b7",
+  "active": "878e5939c568b8f4",
   "lastOpenFiles": [
     "JavascriptTypescript/Node/Selection 3/Aula16.md",
     "JavascriptTypescript/Node/Selection 4/Aula24.md",
