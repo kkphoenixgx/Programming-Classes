@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ca1a62905bf763e1",
+        "id": "ee3a4252369476d4",
         "type": "tabs",
         "children": [
           {
-            "id": "029e201b3403a077",
+            "id": "5d0f813d74034e74",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -253,7 +253,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "f7e80c1e5839227c",
@@ -320,11 +320,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "029e201b3403a077",
+  "active": "61b535711869a483",
   "lastOpenFiles": [
-    "JavascriptTypescript/Node/Selection 4/Aula24.md",
-    "JavascriptTypescript/Node/Selection 4/Aula25.md",
     "JavascriptTypescript/Node/Selection 4/Untitled.md",
+    "JavascriptTypescript/Node/Selection 4/Aula25.md",
+    "JavascriptTypescript/Node/Selection 4/Aula24.md",
     "JavascriptTypescript/Node/Selection 3/Aula16.md",
     "JavascriptTypescript/Node/Index node.md",
     "JavascriptTypescript/Node/Selection 4/Aula20.md",
