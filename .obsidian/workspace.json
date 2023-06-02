@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d12dce8bd083ba54",
+        "id": "ca1a62905bf763e1",
         "type": "tabs",
         "children": [
           {
-            "id": "f6f48ae1878b48b7",
+            "id": "029e201b3403a077",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula24.md",
+                "file": "JavascriptTypescript/Node/Selection 4/Aula25.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula24.md",
+                "file": "JavascriptTypescript/Node/Selection 4/Aula25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +228,7 @@
                   "repelStrength": 11.2539057193316,
                   "linkStrength": 1,
                   "linkDistance": 294,
-                  "scale": 0.15435218481432428,
+                  "scale": 0.18462326225858214,
                   "close": true
                 }
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula24.md"
+                "file": "JavascriptTypescript/Node/Selection 4/Aula25.md"
               }
             }
           },
@@ -266,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula24.md",
+                "file": "JavascriptTypescript/Node/Selection 4/Aula25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula24.md",
+                "file": "JavascriptTypescript/Node/Selection 4/Aula25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,10 +320,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "878e5939c568b8f4",
+  "active": "029e201b3403a077",
   "lastOpenFiles": [
-    "JavascriptTypescript/Node/Selection 3/Aula16.md",
     "JavascriptTypescript/Node/Selection 4/Aula24.md",
+    "JavascriptTypescript/Node/Selection 4/Aula25.md",
+    "JavascriptTypescript/Node/Selection 4/Untitled.md",
+    "JavascriptTypescript/Node/Selection 3/Aula16.md",
     "JavascriptTypescript/Node/Index node.md",
     "JavascriptTypescript/Node/Selection 4/Aula20.md",
     "JavascriptTypescript/Node/Selection 4/Aula21.md",
@@ -348,8 +350,6 @@
     "JavascriptTypescript/Angular/Section 12/Aula24.md",
     "JavascriptTypescript/Angular/Section 12/Aula23.md",
     "JavascriptTypescript/Angular/Section 11/Aula22.md",
-    "JavascriptTypescript/Angular/Section 11/Aula21.md",
-    "-Regras de Convicência.md",
     "JavascriptTypescript/Angular/NotesReview",
     "Pasted image 20230525095435.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525094233.png",

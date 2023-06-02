@@ -85,7 +85,7 @@ upServerEmiter();
 
 ## - Mod 32 - : Criando processos em segundo plano com o módulo child_process
 
-O node é single thread, contudo, podemos criar processos unicórnios, processos diferentes, assíncronos. Há quatro maneiras diferentes de se criar um processo filho no Node: `spawn()`, `fork()`, `exec()` e `execFile()`, vamos contemplar aqui o `spawn()`. Para isso, temos o child_process, um módulo só de processos unicórnios, a terra sem lei da demora e programação temporal.
+O node é single thread, contudo, podemos criar processos unicórnios, processos diferentes, assíncronos. Há quatro maneiras diferentes de se criar um processo filho no Node: `spawn()`, `fork()`, `exec()` e `execFile()`, vamos contemplar aqui o `spawn()`. Para isso, temos o child_process, um módulo ( API ) só de processos unicórnios, a terra sem lei da demora e programação temporal.
 
 Dentro do child_process, temos três caras que vamos brincar nessa aula:
 
