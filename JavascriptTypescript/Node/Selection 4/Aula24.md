@@ -94,8 +94,22 @@ Dentro do child_process, temos três caras que vamos brincar nessa aula:
 * STDOUT → Para quando sai dados
 * STDERR →Para quando tem algum erro
 
-Esse método, executa comandos de terminal (bash) pelo child_process, que emite sempre eventos que podem ser capturados e tratados:
+Esse método, o `spawn()`, **executa comandos de terminal** (bash) pelo child_process, que sempre emite eventos que podem ser capturados e tratados.
+Os **eventos** que podemos usar para tratar os métodos do `ChildProcess` são: **"exit" "disconnect", "error", "close" e "message"** (*bem auto explicativos, qualquer dúvida, cheque o link 3 da bibliografia*), chamamos a execução dos processos do child_process de *steams* e cada stream tem seus processos, sendo **uma especificidade da stream do tipo STDIN, o parâmetro data que recebe o input dado pelo usuário**.  
 
+~~~js
+const { spawn } = require('child_process');
+
+const child = spawn('pwd');
+
+child.stdout.on('data', data => {
+  console.log(`stdout filho:\n${data}`);
+});
+
+child.stderr.on('data', (data) => {
+  console.error(`stderr filho:\n${data}`);
+});
+~~~
 
 -----------------------------------------------
 ## Bibliografia
@@ -103,3 +117,5 @@ Esse método, executa comandos de terminal (bash) pelo child_process, que emite 
 https://www.udemy.com/course/nodejs-curso-completo/learn/lecture/16743064#overview
 
 https://www.udemy.com/course/nodejs-curso-completo/learn/lecture/16743058#overview
+
+https://www.freecodecamp.org/portuguese/news/processos-filhos-em-node-js-tudo-o-que-voce-precisa-saber/
