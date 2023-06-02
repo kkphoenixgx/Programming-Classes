@@ -13,34 +13,50 @@ const FILE_PATH = './Client/client.js'
 console.log( path.basename(FILE_PATH) ); // → client.js
 ~~~
 
+Podemos citar também outros métodos que são 
+
 1. `path.join([...paths])`: Concatena vários segmentos de caminho em um único caminho normalizado. Por exemplo:
 
-javascript
-`const path = require('path'); const fullPath = path.join('/path/to', 'file.txt'); console.log(fullPath); // /path/to/file.txt`
+~~~javascript
+const path = require('path'); 
+const fullPath = path.join('/path/to', 'file.txt');
+console.log(fullPath); // /path/to/file.txt
+~~~
 
 2. `path.resolve([...paths])`: Resolve um caminho absoluto a partir de segmentos de caminho dados. Por exemplo:
 
-javascript
-
-`const path = require('path'); const absolutePath = path.resolve('relative/path', 'file.txt'); console.log(absolutePath); // /current/working/directory/relative/path/file.txt`
+~~~javascript
+const path = require('path');
+const absolutePath = path.resolve('relative/path', 'file.txt');
+console.log(absolutePath); // /current/working/directory/relative/path/file.txt
+~~~
 
 3. `path.basename(path[, ext])`: Retorna o nome base de um caminho. O segundo argumento opcional `ext` pode ser usado para remover uma extensão específica do nome do arquivo. Por exemplo:
 
-javascript
+ ~~~javascript
+const path = require('path');
+const fileName = path.basename('/path/to/file.txt'); console.log(fileName); // file.txt 
 
-`const path = require('path'); const fileName = path.basename('/path/to/file.txt'); console.log(fileName); // file.txt  const fileNameWithoutExt = path.basename('/path/to/file.txt', '.txt'); console.log(fileNameWithoutExt); // file`
+const fileNameWithoutExt = path.basename('/path/to/file.txt', '.txt');
+console.log(fileNameWithoutExt); // file
+~~~
 
 4. `path.dirname(path)`: Retorna o nome do diretório de um caminho. Por exemplo:
 
-javascript
+~~~javascript
+const path = require('path');
+const directoryName = path.dirname('/path/to/file.txt');
 
-`const path = require('path'); const directoryName = path.dirname('/path/to/file.txt'); console.log(directoryName); // /path/to`
+console.log(directoryName); // /path/to
+~~~
 
 5. `path.extname(path)`: Retorna a extensão de um caminho. Por exemplo:
 
-javascript
-
-`const path = require('path'); const extension = path.extname('/path/to/file.txt'); console.log(extension); // .txt`
+ ~~~javascript
+const path = require('path');
+const extension = path.extname('/path/to/file.txt');
+console.log(extension); // .txt
+~~~
 
 ## - Mod  - :
 
