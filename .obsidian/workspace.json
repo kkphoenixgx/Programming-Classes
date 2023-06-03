@@ -113,7 +113,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 5/Aula27.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +227,7 @@
                   "repelStrength": 11.2539057193316,
                   "linkStrength": 1,
                   "linkDistance": 294,
-                  "scale": 0.18462326225858214,
+                  "scale": 0.12904439378601643,
                   "close": true
                 }
               }
@@ -239,9 +238,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavascriptTypescript/Node/Selection 5/Aula27.md"
-              }
+              "state": {}
             }
           },
           {
@@ -266,7 +263,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 5/Aula27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -278,7 +274,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 5/Aula27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,8 +315,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77d2e7d4ba5cc41c",
+  "active": "18e4291c106f4ae0",
   "lastOpenFiles": [
+    "JavascriptTypescript/Node/Selection 5/Aula27.md",
+    "Pasted image 20230603190639.png",
+    "Pasted image 20230603190612.png",
+    "Pasted image 20230603190541.png",
     "Pasted image 20230603185432.png",
     "Pasted image 20230603185342.png",
     "JavascriptTypescript/Node/img/Pasted image 20230603185133.png",
@@ -330,7 +329,6 @@
     "JavascriptTypescript/Node/Selection 4/Aula24.md",
     "JavascriptTypescript/Node/Selection 4/Aula25.md",
     "JavascriptTypescript/Node/Selection 4/Aula26.md",
-    "JavascriptTypescript/Node/Selection 5/Aula27.md",
     "JavascriptTypescript/Node/Selection 5",
     "JavascriptTypescript/Node/Selection 4/Untitled",
     "JavascriptTypescript/Node/img/Pasted image 20230603180626.png",
@@ -357,10 +355,6 @@
     "JavascriptTypescript/Angular/Section 12/Aula25.md",
     "JavascriptTypescript/Angular/Section 12/Aula24.md",
     "JavascriptTypescript/Angular/NotesReview",
-    "Pasted image 20230525095435.png",
-    "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525094233.png",
-    "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525092217.png",
-    "JavascriptTypescript/Angular/img/Pasted image 20230524164854.png",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
     "Mongo.db/img",
     "CSharp/Unity/img",
