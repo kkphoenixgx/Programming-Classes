@@ -6,7 +6,7 @@ tags: [Index node](../Index%20node.md)
 
 Com essa API nativa do node, podemos manipular binários, podemos colocar binários nesse buffer e manipular a informação de forma que fica fácil utilizar binário, podemos por exemplo, converter um texto para binário e traduzir do binário para outras línguas.
 E para o buffer, temos alguns métodos muito interessantes, podemos citar aqui o `Buffer.isBuffer(x)` para saber se x é um buffer ou não e têm vários outros métodos simples que ajudam nessa manipulação, o importante aqui é saber que existe esse módulo nativo para necessidades futuras.
-
+<p style="display:flex; justify-content: end" > <i>Exemplos e descrições do ~chatgpt </i></p>
 1. `Buffer.alloc(size[, fill[, encoding]])`: Cria um novo buffer de tamanho fixo, preenchido com zeros ou com o valor especificado em "fill".
 
 Exemplo:
@@ -59,10 +59,6 @@ const str = buf.toString('utf8'); // Converte o buffer em uma string usando a co
 
 console.log(str); // 'Hello'`
 ~~~
-
-## - Mod  - :
-
-
 
 -----------------------------------------------
 ## Bibliografia

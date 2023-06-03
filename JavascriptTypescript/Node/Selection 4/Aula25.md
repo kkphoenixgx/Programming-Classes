@@ -20,7 +20,7 @@ console.log()
 ~~~
 
 Podemos citar também outros métodos, esses são mais comuns e bem relevantes:
-
+<p style="display:flex; justify-content: end" > <i>Exemplos e descrições do ~chatgpt </i></p>
 1. `path.join([...paths])`: Concatena vários segmentos de caminho em um único caminho normalizado. Por exemplo:
 
 ~~~javascript
@@ -70,14 +70,16 @@ console.log(extension); // .txt
 
 É importante dizer que o `throw new Error('error')` já para a execução do código por default, um exemplo simples do que disse: 
 
-![](../../../Pasted%20image%2020230603180252.png)
+![](../img/Pasted%20image%2020230603180252.png)
 Nesse caso, usando try catch, o erro não para a execução pois foi devidamente encapsulado.
 
 Com os eventos, podemos fazer também algo parecido com o `event.addListener()` que faz a mesma coisa que um on()
 
-![](../../../Pasted%20image%2020230603180626.png)
+![](../img/Pasted%20image%2020230603180626.png)
 
 -----------------------------------------------
 ## Bibliografia
 
 https://www.udemy.com/course/nodejs-curso-completo/learn/lecture/16743060?start=0#questions
+
+https://www.udemy.com/course/nodejs-curso-completo/learn/lecture/16743066#questions
