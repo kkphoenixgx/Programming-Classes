@@ -4,19 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6d81a1b04658b047",
+        "id": "d5c976ae22430f55",
         "type": "tabs",
         "children": [
           {
-            "id": "2dcae42f191adec7",
+            "id": "0ba4b47726883ad8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula25.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "google-calendar-view-week",
+              "state": {}
+            }
+          },
+          {
+            "id": "36d19c6e9dccbeef",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-schedule",
+              "state": {}
             }
           }
         ]
@@ -113,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,9 +242,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula25.md"
-              }
+              "state": {}
             }
           },
           {
@@ -265,7 +266,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +277,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +318,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2dcae42f191adec7",
+  "active": "f4edcc4708632d90",
   "lastOpenFiles": [
     "JavascriptTypescript/Node/Selection 4/Untitled.md",
     "JavascriptTypescript/Node/Selection 4/Aula25.md",
