@@ -9,11 +9,17 @@ Com a API nativa (módulo) do node **path**, podemos configurar, extrair, manipu
 ~~~js
 const path = require(path);
 
-const FILE_PATH = './Client/client.js'
-console.log( path.basename(FILE_PATH) ); // → client.js
+let filePath = './Client/client.js'
+console.log( path.basename(filePath) ); // → client.js
+
+filepath = '.\Client//client.js'
+console.log( path.normalize( filepath ) ) // → ./Client/client.js
+
+
+console.log()
 ~~~
 
-Podemos citar também outros métodos que são 
+Podemos citar também outros métodos, esses são mais comuns e bem relevantes:
 
 1. `path.join([...paths])`: Concatena vários segmentos de caminho em um único caminho normalizado. Por exemplo:
 
@@ -30,6 +36,8 @@ const path = require('path');
 const absolutePath = path.resolve('relative/path', 'file.txt');
 console.log(absolutePath); // /current/working/directory/relative/path/file.txt
 ~~~
+
+Mesmo que você só coloque o nome do arquivo, ele vai retornar tudo
 
 3. `path.basename(path[, ext])`: Retorna o nome base de um caminho. O segundo argumento opcional `ext` pode ser usado para remover uma extensão específica do nome do arquivo. Por exemplo:
 
@@ -58,7 +66,7 @@ const extension = path.extname('/path/to/file.txt');
 console.log(extension); // .txt
 ~~~
 
-## - Mod  - :
+## - Mod 34 - : Manipulando erros
 
 
 
