@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8fbc0efb36023b38",
+        "id": "3032ab319d6e7c5e",
         "type": "tabs",
         "children": [
           {
-            "id": "2cf0b64314ac3639",
+            "id": "0378c453caaaa014",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula26.md",
+                "file": "JavascriptTypescript/Node/Selection 5/Aula27.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula26.md",
+                "file": "JavascriptTypescript/Node/Selection 5/Aula27.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula26.md"
+                "file": "JavascriptTypescript/Node/Selection 5/Aula27.md"
               }
             }
           },
@@ -266,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula26.md",
+                "file": "JavascriptTypescript/Node/Selection 5/Aula27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Node/Selection 4/Aula26.md",
+                "file": "JavascriptTypescript/Node/Selection 5/Aula27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,14 +320,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2cf0b64314ac3639",
+  "active": "61b535711869a483",
   "lastOpenFiles": [
+    "JavascriptTypescript/Node/Selection 5/Aula27.md",
+    "JavascriptTypescript/Node/Selection 5",
     "JavascriptTypescript/Node/Selection 4/Aula26.md",
-    "JavascriptTypescript/Node/Selection 4/Untitled",
     "JavascriptTypescript/Node/Selection 4/Aula25.md",
+    "JavascriptTypescript/Node/Selection 4/Aula24.md",
+    "JavascriptTypescript/Node/Selection 4/Untitled",
     "Pasted image 20230603180626.png",
     "Pasted image 20230603180252.png",
-    "JavascriptTypescript/Node/Selection 4/Aula24.md",
     "JavascriptTypescript/Node/Selection 3/Aula16.md",
     "JavascriptTypescript/Node/Index node.md",
     "JavascriptTypescript/Node/Selection 4/Aula20.md",
@@ -365,7 +367,6 @@
     "CSharp/Unity",
     "Mongo.db",
     "Docker/img",
-    "Docker",
-    "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula4cssyt.txt"
+    "Docker"
   ]
 }
