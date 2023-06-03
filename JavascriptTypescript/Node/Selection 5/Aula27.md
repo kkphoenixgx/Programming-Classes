@@ -32,7 +32,7 @@ Perceba que o node não reconhece a segunda exportação quando requirimos esse 
 
 ![](../../../Pasted%20image%2020230603190639.png)
 
-Nisso, é importante dizer o seguinte, se você importar somente pelo `require("module")`, tudo vai ser importado, independente se você exportou ou não, pois estamos importando o arquivo inteiro, não encapsulando ele, é como se realmente fosse uma extensão, uma herança da programação funcional, e isso é muito ruim porque você quer encapsular.
+Nisso, é importante dizer o seguinte, se você importar somente pelo `require("module")`, tudo vai ser importado, independente se você exportou ou não, pois estamos importando o arquivo inteiro, não encapsulando ele, é como se realmente fosse uma extensão, uma herança da programação funcional, e isso é muito ruim porque você quer encapsular só usando o necessário e só usando o que você exportou.
 
 -----------------------------------------------
 ## Bibliografia
