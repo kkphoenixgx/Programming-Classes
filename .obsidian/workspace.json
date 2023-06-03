@@ -4,23 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d5c976ae22430f55",
+        "id": "8fbc0efb36023b38",
         "type": "tabs",
         "children": [
           {
-            "id": "0ba4b47726883ad8",
+            "id": "2cf0b64314ac3639",
             "type": "leaf",
             "state": {
-              "type": "google-calendar-view-week",
-              "state": {}
-            }
-          },
-          {
-            "id": "36d19c6e9dccbeef",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-schedule",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/Node/Selection 4/Aula26.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -117,6 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "JavascriptTypescript/Node/Selection 4/Aula26.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,7 +239,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JavascriptTypescript/Node/Selection 4/Aula26.md"
+              }
             }
           },
           {
@@ -253,7 +252,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f7e80c1e5839227c",
@@ -266,6 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavascriptTypescript/Node/Selection 4/Aula26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,6 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavascriptTypescript/Node/Selection 4/Aula26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,10 +320,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4edcc4708632d90",
+  "active": "2cf0b64314ac3639",
   "lastOpenFiles": [
-    "JavascriptTypescript/Node/Selection 4/Untitled.md",
+    "JavascriptTypescript/Node/Selection 4/Aula26.md",
+    "JavascriptTypescript/Node/Selection 4/Untitled",
     "JavascriptTypescript/Node/Selection 4/Aula25.md",
+    "Pasted image 20230603180626.png",
+    "Pasted image 20230603180252.png",
     "JavascriptTypescript/Node/Selection 4/Aula24.md",
     "JavascriptTypescript/Node/Selection 3/Aula16.md",
     "JavascriptTypescript/Node/Index node.md",
@@ -347,7 +352,6 @@
     "JavascriptTypescript/Angular/Section 12/Aula25.md",
     "JavascriptTypescript/Angular/Section 12/Aula24.md",
     "JavascriptTypescript/Angular/Section 12/Aula23.md",
-    "JavascriptTypescript/Angular/Section 11/Aula22.md",
     "JavascriptTypescript/Angular/NotesReview",
     "Pasted image 20230525095435.png",
     "JavascriptTypescript/three.js/react-three-fiber/img/Pasted image 20230525094233.png",
@@ -355,8 +359,6 @@
     "JavascriptTypescript/Angular/img/Pasted image 20230524164854.png",
     "Docker/img/Pasted image 20230521100552.png",
     "Docker/img/Pasted image 20230521094806.png",
-    "Java/JavaVanilla/img/Pasted image 20230520172135.png",
-    "Java/JavaVanilla/img/Pasted image 20230520172107.png",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
     "Mongo.db/img",
     "CSharp/Unity/img",
@@ -364,7 +366,6 @@
     "Mongo.db",
     "Docker/img",
     "Docker",
-    "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula4cssyt.txt",
-    "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula3cssyt.txt"
+    "- Dev. web/Aulas/Fora de Aula/cssFA/CssHcodeYT/Aula4cssyt.txt"
   ]
 }

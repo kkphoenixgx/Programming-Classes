@@ -68,7 +68,14 @@ console.log(extension); // .txt
 
 ## - Mod 34 - : Manipulando erros
 
+É importante dizer que o `throw new Error('error')` já para a execução do código por default, um exemplo simples do que disse: 
 
+![](../../../Pasted%20image%2020230603180252.png)
+Nesse caso, usando try catch, o erro não para a execução pois foi devidamente encapsulado.
+
+Com os eventos, podemos fazer também algo parecido com o `event.addListener()` que faz a mesma coisa que um on()
+
+![](../../../Pasted%20image%2020230603180626.png)
 
 -----------------------------------------------
 ## Bibliografia
