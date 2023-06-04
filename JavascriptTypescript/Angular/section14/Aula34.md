@@ -17,8 +17,8 @@ Precisamos sempre fazer essa estrutura, claro, isso é um exemplo do curso mas p
 ## - Mod 112 - : Testando o component
 
 * **x.trim()** = Retira os espaços vazios da frente e de trás do conteúdo de uma string para testes de elementos html
-* **x.toContain(y)** =  verifica se existe em x o y. "SomeText" = x, "Text" 
-
+* **x.toContain(y)** =  Verifica se existe em x o y. Exemplo: "SomeText" = x, x.toContain("Text") // → true
+* **x.toEqual(y)*** = Verifica se x é y. Exemplo: "SomeText" = x, x.toEqual("Text") //→false; x.toEqual("Some Text") //→true
 
 
 -----------------------------------------------
