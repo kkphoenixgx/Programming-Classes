@@ -18,21 +18,22 @@ Podemos também digitar código e executar dinamicamente usando só **node** no 
 
 Bom, analisaremos esse exemplo com o seguinte exemplo:
 
-![](../../../Pasted%20image%2020230603185342.png)
+![](../img/Pasted%20image%2020230603185342.png)
 
-![](../../../Pasted%20image%2020230603185432.png)
+![](../img/Pasted%20image%2020230603185432.png)
 
 Perceba que o node não reconhece a segunda exportação quando requirimos esse módulo e que ele não exporta a execução das funções e sim um objeto com as funções encapsuladas, ou seja, exporta `function`, não `function()`. Além disso, perceba que o node trabalha com cache também, se eu já chamei esse módulo, não precisamos executar tudo de novo. Então só chama o módulo dele.
 
 ## - Mod 38 - : importando e exportando módulos
 
-![](../../../Pasted%20image%2020230603190541.png)
+![](../img/Pasted%20image%2020230603190541.png)
 
-![](../../../Pasted%20image%2020230603190612.png)
+![](../img/Pasted%20image%2020230603190612.png)
 
-![](../../../Pasted%20image%2020230603190639.png)
+![](../img/Pasted%20image%2020230603190639.png)
 
 Nisso, é importante dizer o seguinte, se você importar somente pelo `require("module")`, tudo vai ser importado, independente se você exportou ou não, pois estamos importando o arquivo inteiro, não encapsulando ele, é como se realmente fosse uma extensão, uma herança da programação funcional, e isso é muito ruim porque você quer encapsular só usando o necessário e só usando o que você exportou.
+Vale lembrar que se você não encapsula uma variável em seu escopo, ou seja, cria um `someVariableName = { x:"x", y:"y" }`, ou qualquer dado desse tipo, ele não vai ter escopo, e quando ele não tem escopo, ele é exportado junto com o módulo mesmo que você não tenha exportado ele
 
 -----------------------------------------------
 ## Bibliografia
