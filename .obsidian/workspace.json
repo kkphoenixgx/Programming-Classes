@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c84028a65ed1cbf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula34.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "34e7fb4743e46a0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula34.md",
                 "mode": "source",
                 "source": false
               }
@@ -331,13 +319,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c84028a65ed1cbf4",
+  "active": "34e7fb4743e46a0a",
   "lastOpenFiles": [
     "JavascriptTypescript/Angular/index Angular.md",
+    "JavascriptTypescript/Angular/Section 8/readMe.md.md",
+    "JavascriptTypescript/Angular/img/Pasted image 20230604130937.png",
+    "JavascriptTypescript/Angular/img/Pasted image 20230604131350.png",
     "JavascriptTypescript/Angular/section14/Aula34.md",
-    "Pasted image 20230604131350.png",
-    "Pasted image 20230604130937.png",
-    "Pasted image 20230604130822.png",
+    "JavascriptTypescript/Angular/img/Pasted image 20230604130822.png",
     "JavascriptTypescript/Angular/section14/Aula33.md",
     "JavascriptTypescript/Node/Selection 5/Aula27.md",
     "JavascriptTypescript/Node/img/Pasted image 20230603190639.png",
@@ -369,7 +358,6 @@
     "JavascriptTypescript/Angular/Section13/Aula26.md",
     "JavascriptTypescript/Angular/Section13/Aula27.md",
     "JavascriptTypescript/Angular/Section13/Aula28.md",
-    "JavascriptTypescript/Angular/Section 12/Aula25.md",
     "JavascriptTypescript/Angular/NotesReview",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
     "Mongo.db/img",
