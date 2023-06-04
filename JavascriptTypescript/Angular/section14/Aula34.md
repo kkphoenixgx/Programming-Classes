@@ -14,7 +14,10 @@ Precisamos sempre fazer essa estrutura, claro, isso é um exemplo do curso mas p
 
 ![](../../../Pasted%20image%2020230604131350.png)
 
-## - Mod  - :
+## - Mod 112 - : Testando o component
+
+* **x.trim()** = Retira os espaços vazios da frente e de trás do conteúdo de uma string para testes de elementos html
+* **x.toContain(y)** =  verifica se existe em x o y. "SomeText" = x, "Text" 
 
 
 
