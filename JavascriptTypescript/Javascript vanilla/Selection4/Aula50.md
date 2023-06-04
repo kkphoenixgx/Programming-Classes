@@ -2,7 +2,6 @@
 
 **mod 68** 
 <h2>Separando rotas do arquivo principal com Router()</h2>
-
 <br>Muito confuso para pouca coisa e pouca produtividade
 recomendo não usar isso em uma api, se possível, usa o 
 consign, é um módulo npm exportável, tá na <a href="https://github.com/kkphoenixgx/JavascriptCourse/blob/master/Aulas/Selection4/Aula51.md">Aula51</a> 👌.

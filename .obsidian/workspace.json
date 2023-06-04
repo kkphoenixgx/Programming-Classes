@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eee79d763cf4a247",
+        "id": "6583ed01dd38c337",
         "type": "tabs",
         "children": [
           {
-            "id": "34e7fb4743e46a0a",
+            "id": "2ad1853672008804",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula34.md",
+                "file": "JavascriptTypescript/Node/Selection 5/Aula27.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula34.md",
+                "file": "JavascriptTypescript/Node/Selection 5/Aula27.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula34.md"
+                "file": "JavascriptTypescript/Node/Selection 5/Aula27.md"
               }
             }
           },
@@ -265,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula34.md",
+                "file": "JavascriptTypescript/Node/Selection 5/Aula27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula34.md",
+                "file": "JavascriptTypescript/Node/Selection 5/Aula27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,16 +319,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34e7fb4743e46a0a",
+  "active": "2ad1853672008804",
   "lastOpenFiles": [
+    "JavascriptTypescript/Node/Selection 5/Aula27.md",
+    "JavascriptTypescript/Javascript vanilla/Selection4/Aula50.md",
+    "JavascriptTypescript/Javascript vanilla/Selection4/Aula49.md",
+    "JavascriptTypescript/Javascript vanilla/Selection4/Aula48.md",
+    "JavascriptTypescript/Javascript vanilla/Selection4/Aula46.md",
+    "JavascriptTypescript/Angular/section14/Aula34.md",
     "JavascriptTypescript/Angular/index Angular.md",
     "JavascriptTypescript/Angular/Section 8/readMe.md.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230604130937.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230604131350.png",
-    "JavascriptTypescript/Angular/section14/Aula34.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230604130822.png",
     "JavascriptTypescript/Angular/section14/Aula33.md",
-    "JavascriptTypescript/Node/Selection 5/Aula27.md",
     "JavascriptTypescript/Node/img/Pasted image 20230603190639.png",
     "JavascriptTypescript/Node/img/Pasted image 20230603190612.png",
     "JavascriptTypescript/Node/img/Pasted image 20230603190541.png",
@@ -355,9 +359,6 @@
     "JavascriptTypescript/Angular/section14/Aula31.md",
     "JavascriptTypescript/Angular/section14/Aula30.md",
     "JavascriptTypescript/Angular/section14/Aula29.md",
-    "JavascriptTypescript/Angular/Section13/Aula26.md",
-    "JavascriptTypescript/Angular/Section13/Aula27.md",
-    "JavascriptTypescript/Angular/Section13/Aula28.md",
     "JavascriptTypescript/Angular/NotesReview",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
     "Mongo.db/img",
