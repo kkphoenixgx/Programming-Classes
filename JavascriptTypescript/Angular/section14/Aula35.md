@@ -4,7 +4,7 @@ tags: [index Angular](../index%20Angular.md)
 
 ## - Mod 113 - : Criando um serviço investments
 
- 
+ Nada de novo, ele só fez um service simples usando um server que ele criou.
 
 ## - Mod  - :
 
