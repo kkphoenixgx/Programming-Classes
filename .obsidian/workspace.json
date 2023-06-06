@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
+                "file": "Dart/indexDart.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
+                "file": "Dart/indexDart.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula35.md"
+                "file": "Dart/indexDart.md"
               }
             }
           },
@@ -265,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
+                "file": "Dart/indexDart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
+                "file": "Dart/indexDart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,9 +321,13 @@
   },
   "active": "61b535711869a483",
   "lastOpenFiles": [
+    "Dart/Flutter/Flame",
+    "Dart/Flutter",
+    "JavascriptTypescript/Angular/section14/Aula35.md",
+    "Dart/indexDart.md",
+    "Dart",
     "JavascriptTypescript/Flutter",
     "JavascriptTypescript/Angular/section14/Aula34.md",
-    "JavascriptTypescript/Angular/section14/Aula35.md",
     "JavascriptTypescript/three.js/react-three-fiber/ReactThreeFiberDIvElements.md",
     "JavascriptTypescript/React/ReactDivs.md",
     "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
@@ -358,14 +362,10 @@
     "JavascriptTypescript/Node/Selection 4/Untitled",
     "JavascriptTypescript/Node/img/Pasted image 20230603180626.png",
     "JavascriptTypescript/Node/Selection 3/Aula16.md",
-    "JavascriptTypescript/Node/Index node.md",
     "JavascriptTypescript/Angular/NotesReview",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
     "Mongo.db/img",
     "CSharp/Unity/img",
-    "CSharp/Unity",
-    "Mongo.db",
-    "Docker/img",
-    "Docker"
+    "CSharp/Unity"
   ]
 }
