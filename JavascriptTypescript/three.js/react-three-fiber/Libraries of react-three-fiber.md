@@ -99,6 +99,7 @@ There is a lot of things that you can do, a lot of proprieties that you can dive
 
 
 ### leva
+[Leva](https://sbcode.net/react-three-fiber/leva/)
 
 Leva is basically a control panel that you can bind values into a panel that can be changed with the program running
 

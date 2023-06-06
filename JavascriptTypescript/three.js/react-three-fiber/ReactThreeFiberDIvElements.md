@@ -36,10 +36,10 @@ Para as divs que não possuem import, é simplesmente para usa-la como nativa.
 	Divs relacionadas:
 	* **edgesGeometry** =  Define que vai realmente ter bordas na mesh
 		propriedades:
-		* **attach**: Define quem vai receber essa borda. Dessa forma, ao definir atach = "geomety", por exemplo, ele vai por hierarquia procurar o geometry do objeto que o attach está sendo vinculado e vincular a borda a ele.
+		* **attach**: Define quem vai receber essa borda. Dessa forma, ao definir `atach = "geomety"`, por exemplo, ele vai por hierarquia procurar o geometry do objeto que o attach está sendo vinculado e vincular a borda a ele.
 	* **lineBasicMaterial** = define o material da borda.
-					*  **attach**: Define quem vai receber o material da borda. Dessa forma, ao definir atach = "material", por exemplo, ele vai por hierarquia procurar o mesh mais próximo, que que o attach está sendo vinculado, e vincular o material da borda a ele.
-					* **color**: Vai definir a cor da borda
-					* **linewidth** = Vai definir a grossura da linha
+		* **attach**: Define quem vai receber o material da borda. Dessa forma, ao definir `atach = "material"`, por exemplo, ele vai por hierarquia procurar o mesh mais próximo, que o attach está sendo vinculado, e vincular o material da borda a ele.
+		* **color**: Vai definir a cor da borda
+		* **linewidth** = Vai definir a grossura da linha
 
 
