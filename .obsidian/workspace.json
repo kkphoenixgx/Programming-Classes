@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d2c0d3552aec7f32",
+        "id": "5a4c3c473aaa3585",
         "type": "tabs",
         "children": [
           {
-            "id": "c468a0d7f72b5ae7",
+            "id": "e935f0e55eb51526",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/ReactThreeFiberDIvElements.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/ReactThreeFiberDIvElements.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/ReactThreeFiberDIvElements.md"
+                "file": "JavascriptTypescript/Angular/section14/Aula35.md"
               }
             }
           },
@@ -265,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/ReactThreeFiberDIvElements.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/ReactThreeFiberDIvElements.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,11 +319,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c468a0d7f72b5ae7",
+  "active": "e935f0e55eb51526",
   "lastOpenFiles": [
+    "JavascriptTypescript/Angular/section14/Aula34.md",
+    "JavascriptTypescript/Angular/section14/Aula35.md",
+    "JavascriptTypescript/three.js/react-three-fiber/ReactThreeFiberDIvElements.md",
     "JavascriptTypescript/React/ReactDivs.md",
     "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
-    "JavascriptTypescript/three.js/react-three-fiber/ReactThreeFiberDIvElements.md",
     "JavascriptTypescript/React/Mapas das aulas/React Mental map.md",
     "JavascriptTypescript/React/DicionárioJSX.md",
     "JavascriptTypescript/React/DicionarioReact_Next.md",
@@ -334,7 +336,6 @@
     "JavascriptTypescript/Javascript vanilla/Selection4/Aula49.md",
     "JavascriptTypescript/Javascript vanilla/Selection4/Aula48.md",
     "JavascriptTypescript/Javascript vanilla/Selection4/Aula46.md",
-    "JavascriptTypescript/Angular/section14/Aula34.md",
     "JavascriptTypescript/Angular/index Angular.md",
     "JavascriptTypescript/Angular/Section 8/readMe.md.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230604130937.png",
@@ -358,7 +359,6 @@
     "JavascriptTypescript/Node/Selection 3/Aula16.md",
     "JavascriptTypescript/Node/Index node.md",
     "JavascriptTypescript/Node/Selection 4/Aula20.md",
-    "JavascriptTypescript/Node/Selection 4/Aula21.md",
     "JavascriptTypescript/Angular/NotesReview",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
     "Mongo.db/img",
