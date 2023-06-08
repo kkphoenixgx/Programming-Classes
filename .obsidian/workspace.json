@@ -4,19 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5a4c3c473aaa3585",
+        "id": "d5c976ae22430f55",
         "type": "tabs",
         "children": [
           {
-            "id": "e935f0e55eb51526",
+            "id": "0ba4b47726883ad8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dart/indexDart.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "google-calendar-view-week",
+              "state": {}
+            }
+          },
+          {
+            "id": "36d19c6e9dccbeef",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-schedule",
+              "state": {}
             }
           }
         ]
@@ -113,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dart/indexDart.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,9 +242,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dart/indexDart.md"
-              }
+              "state": {}
             }
           },
           {
@@ -265,7 +266,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart/indexDart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +277,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart/indexDart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +318,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61b535711869a483",
+  "active": "f4edcc4708632d90",
   "lastOpenFiles": [
     "Dart/Flutter/Flame",
     "Dart/Flutter",
