@@ -4,23 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d5c976ae22430f55",
+        "id": "268b5a5609cf6cba",
         "type": "tabs",
         "children": [
           {
-            "id": "0ba4b47726883ad8",
+            "id": "0062b95919a2460e",
             "type": "leaf",
             "state": {
-              "type": "google-calendar-view-week",
-              "state": {}
-            }
-          },
-          {
-            "id": "36d19c6e9dccbeef",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-schedule",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dart/indexDart.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -117,6 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Dart/indexDart.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,7 +239,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dart/indexDart.md"
+              }
             }
           },
           {
@@ -253,7 +252,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f7e80c1e5839227c",
@@ -266,6 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dart/indexDart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,6 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dart/indexDart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,12 +320,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4edcc4708632d90",
+  "active": "0062b95919a2460e",
   "lastOpenFiles": [
+    "Dart/indexDart.md",
     "Dart/Flutter/Flame",
     "Dart/Flutter",
     "JavascriptTypescript/Angular/section14/Aula35.md",
-    "Dart/indexDart.md",
     "Dart",
     "JavascriptTypescript/Flutter",
     "JavascriptTypescript/Angular/section14/Aula34.md",
@@ -364,7 +366,6 @@
     "JavascriptTypescript/Angular/NotesReview",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
     "Mongo.db/img",
-    "CSharp/Unity/img",
-    "CSharp/Unity"
+    "CSharp/Unity/img"
   ]
 }
