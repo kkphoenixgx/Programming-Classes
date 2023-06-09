@@ -4,22 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d5c976ae22430f55",
+        "id": "c726e044e74d1ee3",
         "type": "tabs",
         "children": [
           {
-            "id": "0ba4b47726883ad8",
+            "id": "90bda82c3b2ab8f4",
             "type": "leaf",
             "state": {
-              "type": "google-calendar-view-week",
-              "state": {}
-            }
-          },
-          {
-            "id": "36d19c6e9dccbeef",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-schedule",
+              "type": "empty",
               "state": {}
             }
           }
@@ -88,7 +80,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -318,7 +311,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4edcc4708632d90",
+  "active": "04f8b46d3665510a",
   "lastOpenFiles": [
     "Dart/indexDart.md",
     "Dart/Flutter/Flame",
