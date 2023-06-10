@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "815c17aff7f1d196",
+        "id": "dbf2e0b637fdd79d",
         "type": "tabs",
         "children": [
           {
-            "id": "3b4eddaa4b09897c",
+            "id": "7c6b12dbca6bf6ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Flutter/Flame/GameProcess.md",
+                "file": "Dart/Dependencies.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dart/Flutter/Flame/GameProcess.md",
+                "file": "Dart/Dependencies.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart/Flutter/Flame/GameProcess.md"
+                "file": "Dart/Dependencies.md"
               }
             }
           },
@@ -266,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart/Flutter/Flame/GameProcess.md",
+                "file": "Dart/Dependencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart/Flutter/Flame/GameProcess.md",
+                "file": "Dart/Dependencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,11 +320,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b4eddaa4b09897c",
+  "active": "7c6b12dbca6bf6ba",
   "lastOpenFiles": [
     "Organização.md",
-    "-Regras de Convicência.md",
+    "JavascriptTypescript/Node/Selection 4/Aula25.md",
+    "Dart/Dependencies.md",
     "Dart/Flutter/Flame/GameProcess.md",
+    "-Regras de Convicência.md",
     "Dart/Flutter/Flame/-img/Pasted image 20230610154409.png",
     "Dart/Flutter/Flame/-img/Pasted image 20230610153633.png",
     "Dart/-img",
@@ -363,8 +365,6 @@
     "JavascriptTypescript/Node/img/Pasted image 20230603190612.png",
     "JavascriptTypescript/Node/img/Pasted image 20230603190541.png",
     "JavascriptTypescript/Node/img/Pasted image 20230603185432.png",
-    "JavascriptTypescript/Node/Selection 4/Aula22.md",
-    "JavascriptTypescript/Node/Selection 4/Aula23.md",
     "JavascriptTypescript/Node/Selection 5",
     "JavascriptTypescript/Node/Selection 4/Untitled",
     "JavascriptTypescript/Angular/NotesReview"
