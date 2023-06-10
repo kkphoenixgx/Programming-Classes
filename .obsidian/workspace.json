@@ -4,23 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d5c976ae22430f55",
+        "id": "815c17aff7f1d196",
         "type": "tabs",
         "children": [
           {
-            "id": "0ba4b47726883ad8",
+            "id": "3b4eddaa4b09897c",
             "type": "leaf",
             "state": {
-              "type": "google-calendar-view-week",
-              "state": {}
-            }
-          },
-          {
-            "id": "36d19c6e9dccbeef",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-schedule",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dart/Flutter/Flame/GameLoop.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -117,6 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Dart/Flutter/Flame/GameLoop.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,7 +239,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dart/Flutter/Flame/GameLoop.md"
+              }
             }
           },
           {
@@ -266,6 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dart/Flutter/Flame/GameLoop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,6 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dart/Flutter/Flame/GameLoop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,8 +319,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4edcc4708632d90",
+  "active": "3b4eddaa4b09897c",
   "lastOpenFiles": [
+    "Dart/Flutter/Flame/indexFlame.md",
+    "Dart/Flutter/indexFlutter.md",
+    "Dart/Flutter/Flame/GameLoop.md",
     "Dart/indexDart.md",
     "Dart/Flutter/Flame",
     "Dart/Flutter",
@@ -356,11 +360,9 @@
     "JavascriptTypescript/Node/Selection 4/Aula23.md",
     "JavascriptTypescript/Node/Selection 4/Aula24.md",
     "JavascriptTypescript/Node/Selection 4/Aula25.md",
-    "JavascriptTypescript/Node/Selection 4/Aula26.md",
     "JavascriptTypescript/Node/Selection 5",
     "JavascriptTypescript/Node/Selection 4/Untitled",
     "JavascriptTypescript/Node/img/Pasted image 20230603180626.png",
-    "JavascriptTypescript/Node/Selection 3/Aula16.md",
     "JavascriptTypescript/Angular/NotesReview",
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
     "Mongo.db/img",
