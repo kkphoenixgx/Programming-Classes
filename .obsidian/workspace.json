@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Dependencies.md",
+                "file": "Dart/Flutter/Flame/indexFlame.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dart/Dependencies.md",
+                "file": "Dart/Flutter/Flame/indexFlame.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart/Dependencies.md"
+                "file": "Dart/Flutter/Flame/indexFlame.md"
               }
             }
           },
@@ -266,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart/Dependencies.md",
+                "file": "Dart/Flutter/Flame/indexFlame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart/Dependencies.md",
+                "file": "Dart/Flutter/Flame/indexFlame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -322,9 +322,9 @@
   },
   "active": "7c6b12dbca6bf6ba",
   "lastOpenFiles": [
+    "Dart/Dependencies.md",
     "Organização.md",
     "JavascriptTypescript/Node/Selection 4/Aula25.md",
-    "Dart/Dependencies.md",
     "Dart/Flutter/Flame/GameProcess.md",
     "-Regras de Convicência.md",
     "Dart/Flutter/Flame/-img/Pasted image 20230610154409.png",
