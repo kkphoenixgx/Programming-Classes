@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Flutter/Flame/GameLoop.md",
+                "file": "-Regras de Convicência.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dart/Flutter/Flame/GameLoop.md",
+                "file": "-Regras de Convicência.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +228,7 @@
                   "repelStrength": 11.2539057193316,
                   "linkStrength": 1,
                   "linkDistance": 294,
-                  "scale": 0.18462326225858214,
+                  "scale": 0.12904439378601648,
                   "close": true
                 }
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart/Flutter/Flame/GameLoop.md"
+                "file": "-Regras de Convicência.md"
               }
             }
           },
@@ -252,7 +252,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f7e80c1e5839227c",
@@ -265,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart/Flutter/Flame/GameLoop.md",
+                "file": "-Regras de Convicência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart/Flutter/Flame/GameLoop.md",
+                "file": "-Regras de Convicência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,9 +322,16 @@
   },
   "active": "3b4eddaa4b09897c",
   "lastOpenFiles": [
+    "Organização.md",
+    "Dart/Flutter/Flame/GameProcess.md",
+    "Dart/Flutter/Flame/-img/Pasted image 20230610154409.png",
+    "Dart/Flutter/Flame/-img/Pasted image 20230610153633.png",
+    "Dart/-img",
+    "Dart/Flutter/-img",
+    "Dart/Flutter/Flame/-img",
+    "Dart/Flutter/Flame/-img/Pasted image 20230610153156.png",
     "Dart/Flutter/Flame/indexFlame.md",
     "Dart/Flutter/indexFlutter.md",
-    "Dart/Flutter/Flame/GameLoop.md",
     "Dart/indexDart.md",
     "Dart/Flutter/Flame",
     "Dart/Flutter",
@@ -354,18 +362,11 @@
     "JavascriptTypescript/Node/img/Pasted image 20230603190612.png",
     "JavascriptTypescript/Node/img/Pasted image 20230603190541.png",
     "JavascriptTypescript/Node/img/Pasted image 20230603185432.png",
-    "JavascriptTypescript/Node/img/Pasted image 20230603185342.png",
-    "JavascriptTypescript/Node/img/Pasted image 20230603185133.png",
     "JavascriptTypescript/Node/Selection 4/Aula22.md",
     "JavascriptTypescript/Node/Selection 4/Aula23.md",
     "JavascriptTypescript/Node/Selection 4/Aula24.md",
-    "JavascriptTypescript/Node/Selection 4/Aula25.md",
     "JavascriptTypescript/Node/Selection 5",
     "JavascriptTypescript/Node/Selection 4/Untitled",
-    "JavascriptTypescript/Node/img/Pasted image 20230603180626.png",
-    "JavascriptTypescript/Angular/NotesReview",
-    "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber",
-    "Mongo.db/img",
-    "CSharp/Unity/img"
+    "JavascriptTypescript/Angular/NotesReview"
   ]
 }
