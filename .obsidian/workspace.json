@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Regras de Convicência.md",
+                "file": "Dart/Flutter/Flame/GameProcess.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "-Regras de Convicência.md",
+                "file": "Dart/Flutter/Flame/GameProcess.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Regras de Convicência.md"
+                "file": "Dart/Flutter/Flame/GameProcess.md"
               }
             }
           },
@@ -266,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Regras de Convicência.md",
+                "file": "Dart/Flutter/Flame/GameProcess.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Regras de Convicência.md",
+                "file": "Dart/Flutter/Flame/GameProcess.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,6 +323,7 @@
   "active": "3b4eddaa4b09897c",
   "lastOpenFiles": [
     "Organização.md",
+    "-Regras de Convicência.md",
     "Dart/Flutter/Flame/GameProcess.md",
     "Dart/Flutter/Flame/-img/Pasted image 20230610154409.png",
     "Dart/Flutter/Flame/-img/Pasted image 20230610153633.png",
@@ -364,7 +365,6 @@
     "JavascriptTypescript/Node/img/Pasted image 20230603185432.png",
     "JavascriptTypescript/Node/Selection 4/Aula22.md",
     "JavascriptTypescript/Node/Selection 4/Aula23.md",
-    "JavascriptTypescript/Node/Selection 4/Aula24.md",
     "JavascriptTypescript/Node/Selection 5",
     "JavascriptTypescript/Node/Selection 4/Untitled",
     "JavascriptTypescript/Angular/NotesReview"

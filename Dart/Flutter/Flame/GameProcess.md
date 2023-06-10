@@ -17,7 +17,7 @@ That is the path to run your code:
 
 ## Game execution
 
-The game Loop will re-render every 𝚫
+The game Loop will re-render every 𝚫t, so if you have a 𝚫t = 6, the game will re-render every 6s with a precisely of microseconds.
 
 ![](-img/Pasted%20image%2020230610154409.png)
 
