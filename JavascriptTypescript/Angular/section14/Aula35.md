@@ -71,6 +71,40 @@ beforeEach( ()=>{
 	})
 ~~~
 
+## Dos services
+
+Vamos fazer as seguintes modificações nos lugares específicos, dessa vez seguindo somente [-- Sobre a estrutura base --](Aula29#Aula%2029#--%20Sobre%20a%20estrutura%20base%20--)
+
+~~~ts
+import { TestBed } from '@angular/core/testing';
+import { HttpClientTestingModule, HttpTestingController } from "@angular/common/http/testing"
+import { HttpClientModule } from '@angular/common/http';
+
+// ----- Components -----
+
+import { ServiceComponent } from './path/to/shared/servicecomponent.ts'
+
+// ----- Variables -----
+
+let service :ServiceComponent;	
+let fixure :ComponentFixture<ServiceComponent>;
+
+let httpClient :HttpClient;
+let httpTestingController :HttpTestingController; 
+
+// ----- Block -----
+
+beforeEach( ()=>{
+	TestBed.configureTestingModule({
+		imports:[HttpClientTestingModule]
+	})
+	
+	httpClient = TestBed.inject(HttpClient);
+	httpTestingController = TestBed.inject(HttpTestingController);
+
+	service = TestBed.inject(ServiceComponent);
+})
+~~~
 
 -----------------------------------------------
 ## Bibliografia
