@@ -53,5 +53,14 @@
       ],
       "key": "F"
     }
-  ]
+  ],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:save-file": []
 }
