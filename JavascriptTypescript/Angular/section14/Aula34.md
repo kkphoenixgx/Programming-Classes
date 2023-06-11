@@ -10,10 +10,39 @@ Lembra sempre de lidar com os testes unitários depois ou antes de criar um comp
 
 ![](../img/Pasted%20image%2020230604130937.png)
 
-Precisamos sempre fazer essa estrutura, claro, isso é um exemplo do curso mas perceba a estrutura do `describe`, depois os dois `beforEach` e só depois os ifs
+Precisamos sempre fazer essa estrutura, claro, isso é um exemplo do curso mas perceba a estrutura do `describe`, depois os dois `beforEach` e só depois os its
 
 ![](../img/Pasted%20image%2020230604131350.png)
 
+### Estrut
+
+~~~ts
+	import { TestBed } from '@angular/core/testing';
+	import { AppComponent } from './app.component';
+	import { HttpTestingController, HttpClientTestingModule } from "@angular/common/http/testing"
+	
+	describe('AppComponent', () => { 
+		// ----- Variável -----
+		let httpTestingController :HttpTestingController; 
+
+		// ----- Importação do HttpClientTestingModule -----
+		beforeEach( ()=>{
+			TestBed.configureTestingModule({
+				imports:[HttpClientTestingModule]
+			})
+			// ----- Injection -----
+			httpTestingController = TestBed.inject(HttpTestingController);
+		})
+
+		it('should create the app', () => { 
+	    const fixture = TestBed.createComponent(AppComponent);
+			const app = fixture.componentInstance;
+	
+			expect(app).toBeTruthy();   
+		}); 
+		
+	});
+	~~~
 ## - Mod 112 - : Testando o component
 
 * **x.trim()** = Retira os espaços vazios da frente e de trás do conteúdo de uma string para testes de elementos html

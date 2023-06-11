@@ -9,15 +9,47 @@ tags: [index Angular](../index%20Angular.md)
 
 ## - Mod 114 - : Testando services
 
-Bom, logo antes de começar a falar dos services, existe o conceito de mokar algo, que é basicamente fazer o teste sobre um objeto, componente... Veja uma descrição do chatGPT:
+Bom, logo antes de começar a falar dos services, existe o conceito de mokar algo, que é basicamente fazer o teste sobre um objeto, componente... Veja uma descrição do ChatGPT:
 <p style="display:flex; justify-content: end" > <i> No contexto do Jasmine, uma estrutura de teste para JavaScript, "mockar" algo significa substituir ou simular um objeto real ou uma função durante os testes. O objetivo é isolar a unidade de código sendo testada e garantir que o teste seja executado de forma independente, sem depender de outros componentes externos. ~ChatGPT </i></p>
 Bom, nesses mocks, existem dois atores principais que vão nos ajudar, o `HttpClientTestingModule` e o `HttpTestingController`, ambos estarão no `@angular/common/http/testing`
+
+~~~ts
+import { HttpClientTestingModule, HttpTestingController } from "@angular/common/http/testing"
+~~~
 
 Uma especificação importante de notar ao usar o `HttpClientTestingModule`, é que ele deve ser importado no `configureTestingModule`:
 
 ![](../img/Pasted%20image%2020230611102821.png)
 
-Somente assim poderemos utiliza-lo. Diferentemente, o `HttpTestingController` pode ser utilizado ao ser tipado em uma variável.
+Somente assim poderemos utiliza-lo. Diferentemente, o `HttpTestingController` pode ser utilizado ao ser tipado em uma variável e injetado dentro dessa variável.
+
+~~~ts
+	import { TestBed } from '@angular/core/testing';
+	import { AppComponent } from './app.component';
+	import { HttpTestingController, HttpClientTestingModule } from "@angular/common/http/testing"
+	
+	describe('AppComponent', () => { 
+		// ----- Variável -----
+		let httpTestingController :HttpTestingController; 
+
+		// ----- Importação do HttpClientTestingModule -----
+		beforeEach( ()=>{
+			TestBed.configureTestingModule({
+				imports:[HttpClientTestingModule]
+			})
+			// ----- Injection -----
+			httpTestingController = TestBed.inject(HttpTestingController);
+		})
+
+		it('should create the app', () => { 
+	    const fixture = TestBed.createComponent(AppComponent);
+			const app = fixture.componentInstance;
+	
+			expect(app).toBeTruthy();   
+		}); 
+		
+	});
+	~~~
 
 
 -----------------------------------------------
