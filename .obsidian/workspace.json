@@ -11,8 +11,12 @@
             "id": "2845475934ce4da3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dart/Operadores.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -109,6 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Dart/Operadores.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,7 +239,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dart/Operadores.md"
+              }
             }
           },
           {
@@ -258,6 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dart/Operadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,6 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dart/Operadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,6 +321,8 @@
   },
   "active": "2845475934ce4da3",
   "lastOpenFiles": [
+    "Dart/Flutter/Classes Nativas.md",
+    "Dart/Operadores.md",
     "JavascriptTypescript/Angular/section14/Aula35.md",
     "JavascriptTypescript/Angular/Section13/Aula27.md",
     "JavascriptTypescript/Angular/section14/Aula29.md",
@@ -347,8 +358,6 @@
     "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
     "JavascriptTypescript/React/Mapas das aulas/React Mental map.md",
     "JavascriptTypescript/React/DicionárioJSX.md",
-    "JavascriptTypescript/React/DicionarioReact_Next.md",
-    "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230604130937.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230604131350.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230604130822.png",
