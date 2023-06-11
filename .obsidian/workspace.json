@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6005ba9b8877ae8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -336,10 +324,11 @@
   "lastOpenFiles": [
     "JavascriptTypescript/Angular/section14/Aula29.md",
     "JavascriptTypescript/Angular/section14/Aula35.md",
+    "JavascriptTypescript/Angular/Section13/Aula27.md",
+    "JavascriptTypescript/Angular/index Angular.md",
     "JavascriptTypescript/Angular/section14/Aula34.md",
     "JavascriptTypescript/Angular/section14/Aula33.md",
     "JavascriptTypescript/Angular/section14/Aula32.md",
-    "JavascriptTypescript/Angular/index Angular.md",
     "JavascriptTypescript/Angular/section14/Aula31.md",
     "JavascriptTypescript/Angular/section14/Aula30.md",
     "Organização.md",
@@ -370,7 +359,6 @@
     "JavascriptTypescript/React/DicionárioJSX.md",
     "JavascriptTypescript/React/DicionarioReact_Next.md",
     "JavascriptTypescript/three.js/react-three-fiber/-index React-three-fiber.md",
-    "JavascriptTypescript/three.js/react-three-fiber/Boilerplate.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230604130937.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230604131350.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230604130822.png",

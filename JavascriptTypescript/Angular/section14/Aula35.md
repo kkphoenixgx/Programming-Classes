@@ -29,9 +29,12 @@ import { AppComponent } from './app.component';
 import { HttpTestingController, HttpClientTestingModule } from "@angular/common/http/testing"
 
 describe('AppComponent', () => { 
-	// ----- Variável -----
+	// ----- Variáveis -----
+	let fixure :ComponentFixture<ComponentName>;
+	let component :ComponentName;	
+	
 	let httpTestingController :HttpTestingController; 
-
+	
 	// ----- Importação do HttpClientTestingModule -----
 	beforeEach( ()=>{
 		TestBed.configureTestingModule({
@@ -43,20 +46,18 @@ describe('AppComponent', () => {
 
 	beforeEach( ()=>{
 		fixure = TestBed.createComponent(ComponentName);
-		component = fixure.componentInstance;
+		app = fixure.componentInstance;
 	
 		fixure.detectChanges();
+		expect(app).toBeTruthy();   
 	})
 
-	it('should create the app', () => { 
-		const fixture = TestBed.createComponent(AppComponent);
-		const app = fixture.componentInstance;
+	// ----- its -----
 
-		expect(app).toBeTruthy();   
-	}); 
-	
 });
 ~~~
+
+Como o usual, não tem como lidar com services sem utilizar o módulo de http do angular, se não tem uma boa base, dá uma checada na [Aula 27](../Section13/Aula27.md), dessa forma, faz o procedimento padrão 
 
 
 -----------------------------------------------
