@@ -1,4 +1,4 @@
-# JasmineDicionary
+# Dicionário Jasmine
 2023-04-27
 tags:  [index Angular](index%20Angular.md)
 

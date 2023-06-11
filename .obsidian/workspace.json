@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "dbf2e0b637fdd79d",
+        "id": "c30c379bace4ab42",
         "type": "tabs",
         "children": [
           {
-            "id": "7c6b12dbca6bf6ba",
+            "id": "ff53e33ff08e68aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Flutter/Flame/GameProcess.md",
+                "file": "JavascriptTypescript/Angular/index Angular.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6942120ce05d29ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/Angular/section14/Aula34.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40da883bdcbd8119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dart/Flutter/Flame/GameProcess.md",
+                "file": "JavascriptTypescript/Angular/index Angular.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +252,7 @@
                   "repelStrength": 11.2539057193316,
                   "linkStrength": 1,
                   "linkDistance": 294,
-                  "scale": 0.12904439378601648,
+                  "scale": 0.18462326225858214,
                   "close": true
                 }
               }
@@ -240,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart/Flutter/Flame/GameProcess.md"
+                "file": "JavascriptTypescript/Angular/index Angular.md"
               }
             }
           },
@@ -253,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "f7e80c1e5839227c",
@@ -266,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart/Flutter/Flame/GameProcess.md",
+                "file": "JavascriptTypescript/Angular/index Angular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -278,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart/Flutter/Flame/GameProcess.md",
+                "file": "JavascriptTypescript/Angular/index Angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,8 +344,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c6b12dbca6bf6ba",
+  "active": "ff53e33ff08e68aa",
   "lastOpenFiles": [
+    "JavascriptTypescript/Angular/section14/Aula35.md",
+    "JavascriptTypescript/Angular/Dicionário Jasmine.md",
+    "JavascriptTypescript/Angular/section14/Aula34.md",
+    "JavascriptTypescript/Angular/index Angular.md",
     "Dart/Flutter/Flame/indexFlame.md",
     "Dart/Dependencies.md",
     "Organização.md",
@@ -338,10 +366,8 @@
     "Dart/indexDart.md",
     "Dart/Flutter/Flame",
     "Dart/Flutter",
-    "JavascriptTypescript/Angular/section14/Aula35.md",
     "Dart",
     "JavascriptTypescript/Flutter",
-    "JavascriptTypescript/Angular/section14/Aula34.md",
     "JavascriptTypescript/three.js/react-three-fiber/ReactThreeFiberDIvElements.md",
     "JavascriptTypescript/React/ReactDivs.md",
     "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
@@ -355,12 +381,10 @@
     "JavascriptTypescript/Javascript vanilla/Selection4/Aula49.md",
     "JavascriptTypescript/Javascript vanilla/Selection4/Aula48.md",
     "JavascriptTypescript/Javascript vanilla/Selection4/Aula46.md",
-    "JavascriptTypescript/Angular/index Angular.md",
     "JavascriptTypescript/Angular/Section 8/readMe.md.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230604130937.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230604131350.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230604130822.png",
-    "JavascriptTypescript/Angular/section14/Aula33.md",
     "JavascriptTypescript/Node/img/Pasted image 20230603190639.png",
     "JavascriptTypescript/Node/img/Pasted image 20230603190612.png",
     "JavascriptTypescript/Node/img/Pasted image 20230603190541.png",
