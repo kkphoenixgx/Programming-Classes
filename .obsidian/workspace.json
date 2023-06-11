@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7db6ef78cd2af9cc",
+        "id": "68b3351319ec48a2",
         "type": "tabs",
         "children": [
           {
-            "id": "2845475934ce4da3",
+            "id": "449df29b3d27cb40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Operadores.md",
+                "file": "Dart/Flutter/Classes Do Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dart/Operadores.md",
+                "file": "Dart/Flutter/Classes Do Framework.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart/Operadores.md"
+                "file": "Dart/Flutter/Classes Do Framework.md"
               }
             }
           },
@@ -266,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart/Operadores.md",
+                "file": "Dart/Flutter/Classes Do Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart/Operadores.md",
+                "file": "Dart/Flutter/Classes Do Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,11 +320,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2845475934ce4da3",
+  "active": "449df29b3d27cb40",
   "lastOpenFiles": [
-    "Dart/indexDart.md",
     "Dart/Operadores.md",
-    "Dart/Flutter/Classes Nativas.md",
+    "Dart/indexDart.md",
+    "Dart/Flutter/Classes Do Framework.md",
     "JavascriptTypescript/Angular/section14/Aula35.md",
     "JavascriptTypescript/Angular/Section13/Aula27.md",
     "JavascriptTypescript/Angular/section14/Aula29.md",
