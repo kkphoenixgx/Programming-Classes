@@ -9,8 +9,8 @@ tags: [index Angular](../index%20Angular.md)
 
 ## - Mod 114 - : Testando services
 
-Bom, logo antes de começar a falar dos services, existe o conceito de mokar algo, que é basicamente fazer o teste sobre um objeto, componente... Veja uma descrição do ChatGPT:
-<p style="display:flex; justify-content: end" > <i> No contexto do Jasmine, uma estrutura de teste para JavaScript, "mockar" algo significa substituir ou simular um objeto real ou uma função durante os testes. O objetivo é isolar a unidade de código sendo testada e garantir que o teste seja executado de forma independente, sem depender de outros componentes externos. ~ChatGPT </i></p>
+Bom, logo antes de começar a falar dos services, existe o conceito de mockar algo, que é basicamente fazer o teste sobre um objeto, componente... Veja uma descrição do ChatGPT:
+<p style="display:flex; justify-content: end; text-align: right" > <i> No contexto do Jasmine, uma estrutura de teste para JavaScript, "mockar" algo significa substituir ou simular um objeto real ou uma função durante os testes. O objetivo é isolar a unidade de código sendo testada e garantir que o teste seja executado de forma independente, sem depender de outros componentes externos. ~ChatGPT </i></p>
 Bom, nesses mocks, existem dois atores principais que vão nos ajudar, o `HttpClientTestingModule` e o `HttpTestingController`, ambos estarão no `@angular/common/http/testing`
 
 ~~~ts

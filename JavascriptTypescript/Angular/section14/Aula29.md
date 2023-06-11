@@ -109,7 +109,44 @@ Agora vamos falar sobre a sintaxe que ocorre no *callback do it*.
 
 * **fixure**: O fixure é usado para interagir com o componente criado e com seu template, para testar se o comportamento do componente está correto. Criamos um template, uma interface, do Componente para podermos fazer testes, ***Não é uma instância, é a interface do componente***, o app é a instância.
 
+
 -----------------------------------------------
+
+## Sobre a estrutura base
+
+
+### Estrutura básica do Jasmine
+
+~~~ts
+	import { TestBed } from '@angular/core/testing';
+	import { ComponentName } from './ComponentName';
+
+	describe('ComponentName', () => { 
+
+		let component :ComponentName;
+		let fixure :ComponentFixture<ComponentName>
+
+		// ----- Estrutura do tipo de teste -----
+				
+				// Block
+		
+		// ----- Teste primário -----
+		beforeEach( ()=>{
+			fixure = TestBed.createComponent(ComponentName);
+			component = fixure.componentInstance;
+
+			fixure.detectChanges();
+		})
+
+		// ----- its -------
+		
+	});
+	~~~
+
+Claro que quando colocamos `ComponentName`, estamos nos referindo a um teste unitário, um teste de componente. Contudo, em um teste de serviço, de interface... Você terá estruturas adicionais que vão ser modificadas, entretanto, ainda seguirão essa estrutura, mudando apenas `ComponentName` para o nome do que está sendo testado... De toda forma, vamos sempre fazer, na maioria das vezes, testes de componentes, que são mais comuns... Via de regra, se segue essa estrutura adicionando partes de acordo com o que você precisa testar e dando retoques.
+
+Nas sessões: Dos Testes x, poderemos ver essas estruturas.
+
 ## Bibliografia
 
 _Alguns dos textos desse arquivo foram ajustados com conversas com o ChatGPT sobre o Angular._

@@ -63,7 +63,7 @@ Menção honrosa a aula 31 que dá uma dica incrível sobre selecionar dinamicam
 
 | Aula                                                   | Recurso(s)                                                                                                                                                          | Assunto(s)                      |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| [Aula29](section14/Aula29.md) | **npm install jasmine**; **npm install karma karma-jasmine jasmine-core karma-chrome-launcher**, karma.config, **ngTest** --- `describe()`; `it()`; TestBed; fixure | Introdução ao Jasmine           |
+| [Aula29](section14/Aula29.md) | **npm install jasmine**; **npm install karma karma-jasmine jasmine-core karma-chrome-launcher**, karma.config, **ngTest** --- `describe()`; `it()`; TestBed; fixure | Introdução ao Jasmine, Estrutura base |
 | [Aula30](section14/Aula30.md) | `expect()`; `x.toEqual(y)`; `x.not.y`;                                                                                                                              | Manipulando testes fluentemente |
 | [Aula31](section14/Aula31.md) | **ng test --code-coverage** | melhorando a cobertura de testes |
 | [Aula32](section14/Aula32.md) | `beforeEach`; `x.toBeTruthy()`; (U) | Under Test |
