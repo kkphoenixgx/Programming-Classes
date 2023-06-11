@@ -57,7 +57,19 @@ describe('AppComponent', () => {
 });
 ~~~
 
-Como o usual, não tem como lidar com services sem utilizar o módulo de http do angular, se não tem uma boa base, dá uma checada na [Aula 27](../Section13/Aula27.md), dessa forma, faz o procedimento padrão 
+Como o usual, não tem como lidar com services sem utilizar o módulo de http do angular, se não tem uma boa base, dá uma checada na [Aula 27](../Section13/Aula27.md), dessa forma, faz o procedimento padrão e faz um inject...
+
+~~~ts
+let httpClient :HttpClient;
+
+beforeEach( ()=>{
+		TestBed.configureTestingModule({
+			imports:[HttpClientTestingModule]
+		})
+		// ----- Injection -----
+		httpClient = TestBed.inject(HttpClient);
+	})
+~~~
 
 
 -----------------------------------------------
