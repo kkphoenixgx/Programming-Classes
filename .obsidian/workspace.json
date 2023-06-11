@@ -252,7 +252,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "f7e80c1e5839227c",
@@ -319,7 +320,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2845475934ce4da3",
+  "active": "9aa7f92b294cf9f2",
   "lastOpenFiles": [
     "Dart/Flutter/Classes Nativas.md",
     "Dart/Operadores.md",

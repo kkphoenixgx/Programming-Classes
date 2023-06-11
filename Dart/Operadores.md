@@ -2,6 +2,8 @@
 2023-06-11
 tags: [indexDart](indexDart.md)
 
+Note:   **pipe = |**
+
 * **Operadores Aritméticos**
 
 | Operador | Significado      |
@@ -26,50 +28,50 @@ tags: [indexDart](indexDart.md)
 
 * **Operadores de Comparação**
 
-== (igual a)
-`!=` (diferente de)
-`>` (maior que)
-`<` (menor que)
-`>=` (maior ou igual a)
-`<=` (menor ou igual a)
+| Operadores | Significados          |
+| ---------- | --------------------- |
+| ==         | igual a algo          |
+| !=         | diferente de algo     |
+| >          | maior que algo        |
+| <          | menor que algo        |
+| >=         | maior ou igual a algo |
+| <=         | menor ou igual a algo |
 
-| Operadores | Significados      |
-| ---------- | ----------------- |
-| ==         | igual a algo      |
-| !=         | diferente de algo |
-| >          | maior que algo    |
-| <          | menor que         |
-| >=         | maior ou igual a  |
-|            |                   |
+* **Operadores Lógicos**
 
-Operadores Lógicos
+| Operadores | Significados   |
+| ---------- | -------------- |
+| &&         | E lógico       |
+| pipe pipe  | Ou lógico      |
+| !          | negação lógica |
 
-`&&` (e lógico)
-`||` (ou lógico)
-`!` (negação lógica)
+* **Operadores Bit a Bit**
 
-5. Operadores Bit a Bit:
+| Operadores | Significados                 |
+| ---------- | ---------------------------- |
+| &          | && do bit a bit              |
+| pipe       | pipe pipe do bit a bit       |
+| ^          | XOR do bit a bit             |
+| ~          | Not do bit a bit             |
+| <<         | Deslocamento para a esquerda |
+| >>         | Deslocamento para a direita  |
 
-`&` (AND bit a bit)
-`|` (OR bit a bit)
-`^` (XOR bit a bit)
-`~` (NOT bit a bit)
-`<<` (deslocamento para a esquerda)
-`>>` (deslocamento para a direita)
+* **Operadores de Nulabilidade:**
 
-6. Operadores de Nulabilidade:
+| Operadores | Significados                                                                                       |
+| ---------- | -------------------------------------------------------------------------------------------------- |
+| ?          | nulo seguro, permite que um valor seja nulo                                                        |
+| ??         | operador de coalescência nula, retorna um valor padrão se o valor for nulo                         |
+| ?.         | operador de acesso condicional, acessa uma propriedade ou chama um método se o objeto não for nulo |
 
-`?` (nulo seguro, permite que um valor seja nulo)
-`??` (operador de coalescência nula, retorna um valor padrão se o valor for nulo)
-`?.` (operador de acesso condicional, acessa uma propriedade ou chama um método se o objeto não for nulo)
+* **Outros Operadores**
 
-8. Outros Operadores:
+| Operadores | Significados                              |
+| ---------- | ----------------------------------------- |
+| []         | acesso a um elemento de uma lista ou mapa |
+| ()         | chamada de função                         |
+| ?:         | Operador ternário                         |
 
-- `[]` (acesso a um elemento de uma lista ou mapa)
-- `()` (chamada de função)
-- `?:` (operador ternário, retorna um valor com base em uma condição)
-
-Esses são os operadores mais comumente utilizados em Dart. Eles permitem realizar operações aritméticas, atribuições, comparações, operações lógicas, operações bit a bit e muito mais.
 
 ## O Operador cascata
 
