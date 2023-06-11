@@ -1,8 +1,9 @@
 # Operadores
-2023-06-11
 tags: [indexDart](indexDart.md)
 
 Note:   **pipe = |**
+
+## Operadores 
 
 * **Operadores Aritméticos**
 
@@ -75,19 +76,40 @@ Note:   **pipe = |**
 
 ## O Operador cascata
 
-7. Operadores de Cascata:
-
-`..` (operador de cascata, permite encadear chamadas de métodos em um objeto)
-
+> Operador de cascata, permite encadear chamadas de métodos em um objeto
 
 Em Dart, o operador `..` é conhecido como o operador de cascata (cascade operator). Ele permite que você encadeie várias chamadas de métodos ou acessos a propriedades em um objeto sem repetir o nome do objeto a cada vez.
 
-Usando o operador de cascata, você pode chamar métodos e acessar propriedades em um objeto sequencialmente, separando cada chamada por `..`. Veja um exemplo:
+Usando o operador de cascata, você pode chamar métodos e acessar propriedades em um objeto sequencialmente, separando cada chamada por `..`. 
 
-dart
+~~~dart
+class Person {
 
-`class Person {   String name;   int age;    void printInfo() {     print('Name: $name');     print('Age: $age');   } }  void main() {   var person = Person()     ..name = 'John'     ..age = 30;    person.printInfo(); }`
+	String name;
+  int age;
+
+  void printInfo() {
+    print('Name: $name');
+    print('Age: $age');
+  }
+
+}
+
+void main() {
+  var person = Person()
+	  ..name = 'John'
+    ..age = 30;
+
+  person.printInfo();
+}
+~~~
 
 No exemplo acima, o operador `..` permite que você defina o nome e a idade da pessoa sem repetir o nome do objeto `person`. Em vez disso, você encadeia as chamadas de método `..name = 'John'` e `..age = 30`. Isso torna o código mais conciso e legível.
 
 O operador de cascata é frequentemente usado em construções de objetos para definir várias propriedades em um único bloco, mas também pode ser usado em qualquer lugar onde você queira encadear chamadas de métodos ou acessos a propriedades em um objeto.
+
+-----------------
+
+## Bibliografia
+
+Boa parte das informações desse material foram baseadas em respostas do ChatGPT
