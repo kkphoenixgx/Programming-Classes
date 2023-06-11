@@ -1,4 +1,4 @@
-# Aula29
+# Aula 29
 2023-04-26
 tags: [index Angular](../index%20Angular.md)
 
@@ -7,6 +7,39 @@ tags: [index Angular](../index%20Angular.md)
 Um teste unitário é diferente de um teste de fluxo, um teste de fluxo verifica as saídas, os envios de página e vê se tá retornando o esperado, verificando o fluxo do código. Em contrapartida, os testes unitários, verifica uma unidade da aplicação como um todo.
 
 Para realizar os testes unitários, utilizamos o Karma para node e o Jasmine para o angular. O karma dá o suporte necessário para o Jasmine atuar
+
+
+## -- Sobre a estrutura base --
+
+~~~ts
+import { TestBed } from '@angular/core/testing';
+import { ComponentName } from './ComponentName';
+
+describe('ComponentName', () => { 
+
+let component :ComponentName;
+let fixure :ComponentFixture<ComponentName>
+
+// ----- Estrutura do tipo de teste -----
+		
+		// Block
+
+// ----- Teste primário -----
+beforeEach( ()=>{
+	fixure = TestBed.createComponent(ComponentName);
+	component = fixure.componentInstance;
+
+	fixure.detectChanges();
+})
+
+// ----- its -------
+
+});
+~~~
+
+Claro que quando colocamos `ComponentName`, estamos nos referindo a um teste unitário, um teste de componente. Contudo, em um teste de serviço, de interface... Você terá estruturas adicionais que vão ser modificadas, entretanto, ainda seguirão essa estrutura, mudando apenas `ComponentName` para o nome do que está sendo testado... De toda forma, vamos sempre fazer, na maioria das vezes, testes de componentes, que são mais comuns... Via de regra, se segue essa estrutura adicionando partes de acordo com o que você precisa testar e dando retoques.
+
+Nas sessões: Dos Testes x, poderemos ver essas estruturas.
 
 ## - Mod 103 - : Jasmine
 
@@ -110,42 +143,8 @@ Agora vamos falar sobre a sintaxe que ocorre no *callback do it*.
 * **fixure**: O fixure é usado para interagir com o componente criado e com seu template, para testar se o comportamento do componente está correto. Criamos um template, uma interface, do Componente para podermos fazer testes, ***Não é uma instância, é a interface do componente***, o app é a instância.
 
 
+
 -----------------------------------------------
-
-## Sobre a estrutura base
-
-
-### Estrutura básica do Jasmine
-
-~~~ts
-import { TestBed } from '@angular/core/testing';
-import { ComponentName } from './ComponentName';
-
-describe('ComponentName', () => { 
-
-let component :ComponentName;
-let fixure :ComponentFixture<ComponentName>
-
-// ----- Estrutura do tipo de teste -----
-		
-		// Block
-
-// ----- Teste primário -----
-beforeEach( ()=>{
-	fixure = TestBed.createComponent(ComponentName);
-	component = fixure.componentInstance;
-
-	fixure.detectChanges();
-})
-
-// ----- its -------
-
-});
-~~~
-
-Claro que quando colocamos `ComponentName`, estamos nos referindo a um teste unitário, um teste de componente. Contudo, em um teste de serviço, de interface... Você terá estruturas adicionais que vão ser modificadas, entretanto, ainda seguirão essa estrutura, mudando apenas `ComponentName` para o nome do que está sendo testado... De toda forma, vamos sempre fazer, na maioria das vezes, testes de componentes, que são mais comuns... Via de regra, se segue essa estrutura adicionando partes de acordo com o que você precisa testar e dando retoques.
-
-Nas sessões: Dos Testes x, poderemos ver essas estruturas.
 
 ## Bibliografia
 

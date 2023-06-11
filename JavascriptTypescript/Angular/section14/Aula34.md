@@ -20,7 +20,6 @@ Precisamos sempre fazer essa estrutura, claro, isso é um exemplo do curso mas p
 * **x.toContain(y)** =  Verifica se existe em x o y. Exemplo: "SomeText" = x, x.toContain("Text") // → true
 * **x.toEqual(y)*** = Verifica se x é y. Exemplo: "SomeText" = x, x.toEqual("Text") //→false; x.toEqual("Some Text") //→true
 
-
 -----------------------------------------------
 ## Bibliografia
 

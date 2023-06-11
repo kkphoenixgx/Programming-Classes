@@ -21,8 +21,7 @@ Isso permite você ter um elemento. Contudo, quando você definir elementos, exe
 
 ## Dos testes de interface
 
-
-Continua sendo 
+Continua sendo a mesma estrutura dos testes de Componente, só se modifica os its, dá uma olhada  [-- Sobre a estrutura base --](Aula29.md#Aula%2029#--%20Sobre%20a%20estrutura%20base%20--) com a estrutura [Dos Testes Unitários](Aula32.md#Aula32#Dos%20Testes%20Unitários)
 
 -----------------------------------------------
 ## Bibliografia
