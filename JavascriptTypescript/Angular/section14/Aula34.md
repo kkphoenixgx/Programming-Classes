@@ -14,35 +14,36 @@ Precisamos sempre fazer essa estrutura, claro, isso é um exemplo do curso mas p
 
 ![](../img/Pasted%20image%2020230604131350.png)
 
-### Estrut
+### Estrutura básica do Jasmine
 
 ~~~ts
 	import { TestBed } from '@angular/core/testing';
-	import { AppComponent } from './app.component';
-	import { HttpTestingController, HttpClientTestingModule } from "@angular/common/http/testing"
-	
-	describe('AppComponent', () => { 
-		// ----- Variável -----
-		let httpTestingController :HttpTestingController; 
+	import { ComponentName } from './ComponentName';
 
-		// ----- Importação do HttpClientTestingModule -----
+	describe('ComponentName', () => { 
+
+		let component :ComponentName;
+		let fixure :ComponentFixture<ComponentName>
+
+		// ----- Estrutura do tipo de teste -----
+				
+				// Block
+		
+		// ----- Teste primário -----
 		beforeEach( ()=>{
-			TestBed.configureTestingModule({
-				imports:[HttpClientTestingModule]
-			})
-			// ----- Injection -----
-			httpTestingController = TestBed.inject(HttpTestingController);
+			fixure = TestBed.createComponent(ComponentName);
+			component = fixure.componentInstance;
+
+			fixure.detectChanges();
 		})
 
-		it('should create the app', () => { 
-	    const fixture = TestBed.createComponent(AppComponent);
-			const app = fixture.componentInstance;
-	
-			expect(app).toBeTruthy();   
-		}); 
+		// ----- its -------
 		
 	});
 	~~~
+
+Claro que quando colocamos `ComponentName`, estamos nos referindo a um teste unitário. Contudo, um teste de serviço, de interface... Você terá estruturas adicionais e que vão ser modificadas mas ainda seguirão essa estrutura, mudando apenas `ComponentName` para o nome do que está sendo testado... De toda forma, vamos sempre fazer, na maioria das vezes, testes de componentes, que são mais comuns e via de regra se segue essa estrutura.
+
 ## - Mod 112 - : Testando o component
 
 * **x.trim()** = Retira os espaços vazios da frente e de trás do conteúdo de uma string para testes de elementos html

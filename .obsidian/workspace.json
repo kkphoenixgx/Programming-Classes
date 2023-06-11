@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "25f04bfdb8ea09ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/Angular/index Angular.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "956cb7836559e623",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7fd5b8b1bf06b100",
             "type": "leaf",
             "state": {
@@ -32,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula34.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -253,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula34.md"
+                "file": "JavascriptTypescript/Angular/section14/Aula32.md"
               }
             }
           },
@@ -279,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula34.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -291,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula34.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,19 +357,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7fd5b8b1bf06b100",
+  "active": "956cb7836559e623",
   "lastOpenFiles": [
-    "JavascriptTypescript/Angular/section14/Aula35.md",
-    "JavascriptTypescript/Angular/section14/Aula34.md",
-    "JavascriptTypescript/Angular/section14/Aula33.md",
+    "Organização.md",
     "JavascriptTypescript/Angular/section14/Aula32.md",
+    "JavascriptTypescript/Angular/section14/Aula34.md",
+    "JavascriptTypescript/Angular/index Angular.md",
+    "JavascriptTypescript/Angular/section14/Aula35.md",
+    "JavascriptTypescript/Angular/section14/Aula33.md",
     "JavascriptTypescript/Angular/section14/Aula31.md",
     "JavascriptTypescript/Angular/section14/Aula30.md",
     "JavascriptTypescript/Angular/section14/Aula29.md",
-    "JavascriptTypescript/Angular/index Angular.md",
     "JavascriptTypescript/Javascript vanilla/Selection3/Aula29.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230611102821.png",
-    "Organização.md",
     "JavascriptTypescript/Angular/Dicionário Jasmine.md",
     "Dart/Flutter/Flame/indexFlame.md",
     "Dart/Dependencies.md",
