@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md"
+                "file": "JavascriptTypescript/Angular/section14/Aula35.md"
               }
             }
           },
@@ -290,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -302,7 +303,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,15 +345,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff53e33ff08e68aa",
+  "active": "40da883bdcbd8119",
   "lastOpenFiles": [
+    "Organização.md",
     "JavascriptTypescript/Angular/section14/Aula35.md",
-    "JavascriptTypescript/Angular/Dicionário Jasmine.md",
     "JavascriptTypescript/Angular/section14/Aula34.md",
     "JavascriptTypescript/Angular/index Angular.md",
+    "JavascriptTypescript/Angular/Dicionário Jasmine.md",
     "Dart/Flutter/Flame/indexFlame.md",
     "Dart/Dependencies.md",
-    "Organização.md",
     "JavascriptTypescript/Node/Selection 4/Aula25.md",
     "Dart/Flutter/Flame/GameProcess.md",
     "-Regras de Convicência.md",
