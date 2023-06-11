@@ -48,4 +48,4 @@ class someClass extends FlameGame{
 }
 ~~~
 
-
+This will call those prints ever those methods are called. When we have such a thing, we can see this game-process in action → `onLoad()` is called just one time, `updade()` is called every `dt` seconds and the render only after the update
