@@ -24,32 +24,32 @@ Uma especificação importante de notar ao usar o `HttpClientTestingModule`, é 
 Somente assim poderemos utiliza-lo. Diferentemente, o `HttpTestingController` pode ser utilizado ao ser tipado em uma variável e injetado dentro dessa variável.
 
 ~~~ts
-	import { TestBed } from '@angular/core/testing';
-	import { AppComponent } from './app.component';
-	import { HttpTestingController, HttpClientTestingModule } from "@angular/common/http/testing"
-	
-	describe('AppComponent', () => { 
-		// ----- Variável -----
-		let httpTestingController :HttpTestingController; 
+import { TestBed } from '@angular/core/testing';
+import { AppComponent } from './app.component';
+import { HttpTestingController, HttpClientTestingModule } from "@angular/common/http/testing"
 
-		// ----- Importação do HttpClientTestingModule -----
-		beforeEach( ()=>{
-			TestBed.configureTestingModule({
-				imports:[HttpClientTestingModule]
-			})
-			// ----- Injection -----
-			httpTestingController = TestBed.inject(HttpTestingController);
+describe('AppComponent', () => { 
+	// ----- Variável -----
+	let httpTestingController :HttpTestingController; 
+
+	// ----- Importação do HttpClientTestingModule -----
+	beforeEach( ()=>{
+		TestBed.configureTestingModule({
+			imports:[HttpClientTestingModule]
 		})
+		// ----- Injection -----
+		httpTestingController = TestBed.inject(HttpTestingController);
+	})
 
-		it('should create the app', () => { 
-	    const fixture = TestBed.createComponent(AppComponent);
-			const app = fixture.componentInstance;
+	it('should create the app', () => { 
+		const fixture = TestBed.createComponent(AppComponent);
+		const app = fixture.componentInstance;
+
+		expect(app).toBeTruthy();   
+	}); 
 	
-			expect(app).toBeTruthy();   
-		}); 
-		
-	});
-	~~~
+});
+~~~
 
 
 -----------------------------------------------

@@ -118,30 +118,30 @@ Agora vamos falar sobre a sintaxe que ocorre no *callback do it*.
 ### Estrutura básica do Jasmine
 
 ~~~ts
-	import { TestBed } from '@angular/core/testing';
-	import { ComponentName } from './ComponentName';
+import { TestBed } from '@angular/core/testing';
+import { ComponentName } from './ComponentName';
 
-	describe('ComponentName', () => { 
+describe('ComponentName', () => { 
 
-		let component :ComponentName;
-		let fixure :ComponentFixture<ComponentName>
+let component :ComponentName;
+let fixure :ComponentFixture<ComponentName>
 
-		// ----- Estrutura do tipo de teste -----
-				
-				// Block
+// ----- Estrutura do tipo de teste -----
 		
-		// ----- Teste primário -----
-		beforeEach( ()=>{
-			fixure = TestBed.createComponent(ComponentName);
-			component = fixure.componentInstance;
+		// Block
 
-			fixure.detectChanges();
-		})
+// ----- Teste primário -----
+beforeEach( ()=>{
+	fixure = TestBed.createComponent(ComponentName);
+	component = fixure.componentInstance;
 
-		// ----- its -------
-		
-	});
-	~~~
+	fixure.detectChanges();
+})
+
+// ----- its -------
+
+});
+~~~
 
 Claro que quando colocamos `ComponentName`, estamos nos referindo a um teste unitário, um teste de componente. Contudo, em um teste de serviço, de interface... Você terá estruturas adicionais que vão ser modificadas, entretanto, ainda seguirão essa estrutura, mudando apenas `ComponentName` para o nome do que está sendo testado... De toda forma, vamos sempre fazer, na maioria das vezes, testes de componentes, que são mais comuns... Via de regra, se segue essa estrutura adicionando partes de acordo com o que você precisa testar e dando retoques.
 

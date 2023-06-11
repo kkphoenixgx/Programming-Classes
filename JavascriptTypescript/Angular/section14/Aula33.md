@@ -19,7 +19,14 @@ Isso permite você ter um elemento. Contudo, quando você definir elementos, exe
 
 ![](../img/Pasted%20image%2020230524164854.png)
 
+## Dos testes de interface
+
+
+Continua sendo 
+
 -----------------------------------------------
 ## Bibliografia
 
 https://www.udemy.com/course/curso-de-angular/learn/lecture/28241290?start=75#overview
+
+https://www.udemy.com/course/curso-de-angular/learn/lecture/28241296#overview

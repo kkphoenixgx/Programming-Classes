@@ -18,12 +18,17 @@ Exemplo:
 
 ### Dos Testes Unitários
 
-Estrutura: 
+Na estrutura dos testes unitários , adicione em `// block`, a estrutura para definir os componentes
 
 ~~~ts
-
+beforeEach(async () => {
+	await TestBed.configureTestingModule({
+		declaratiosn: [Component1, Component2]
+	}).compileComponents();
+})
 ~~~ 
 
+Sendo `Component1`  e `Component2` componentes que devem ser importados e inicializados de forma separada. Depois disso, vai colocando os its do jeito que você melhor se propuser, seguindo a ordem descrita no mod 108.
 
 -----------------------------------------------
 ## Bibliografia
