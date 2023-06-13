@@ -6,9 +6,27 @@ tags: [index Angular](../index%20Angular.md)
 
 Você não pode testar diretamente o que vêm, testa somente o seu componente de serviço, muitas vezes o que vêm não é completamente previsível.
 
-No Jasmine, temos um "método de estrutura" (eu mesmo que coloquei esse nome para ficar mais simples de entender), métodos como `beforeEach()`, `describe()`, que definem a estrutura antes de fazer de fato os testes, 
+No Jasmine, temos os blocos de preparação, métodos como `beforeEach()`, `describe()`, que definem a estrutura antes de fazer de fato os testes, preparam o ambiente. Um importante incremento ao grupo é o `afterEach()` que será executado ao final de cada `it()`.
 
-Falando agora de uma ferramenta imprescindível para lidar com testes 
+Falando agora de uma ferramenta imprescindível para lidar com testes, o `verify()`, que verifica se tá tudo certo com os request a um endereço que você tá pedindo.
+
+Portanto, devemos adicionar o seguinte bloco ao nosso teste de serviço:
+
+~~~ts
+// tenha certeza de ter essa importação
+import { HttpTestingController } from "@angular/common/http/testing"
+
+// tenha certeza de ter essa variável
+let httpTestingController :HttpTestingController;
+
+afterEach(){
+	httpTestingController.verify();
+}
+~~~
+
+Dessa forma, teremos certeza que não haverá problemas com os nossos requests.
+
+Não somente isso, mas o seu serviço também deve suportar quando o service cair. Então, faça um valor padrão.
 
 ## - Mod  - :
 

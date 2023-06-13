@@ -52,6 +52,10 @@ describe('AppComponent', () => {
 		expect(app).toBeTruthy();   
 	})
 
+	afterEach(){
+		httpTestingController.verify();
+	}
+
 	// ----- its -----
 
 });
