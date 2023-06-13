@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "1ff06118f08bcdca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png"
+              }
+            }
+          },
+          {
             "id": "b6da87ba06636816",
             "type": "leaf",
             "state": {
@@ -136,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.md",
+                "file": "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.md"
+                "file": "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png"
               }
             }
           },
@@ -288,7 +298,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.md",
+                "file": "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -300,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.md",
+                "file": "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -342,10 +352,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6da87ba06636816",
+  "active": "1ff06118f08bcdca",
   "lastOpenFiles": [
-    "JavascriptTypescript/Angular/section14/Aula36.md",
     "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.md",
+    "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png",
+    "JavascriptTypescript/Angular/section14/Aula36.md",
     "JavascriptTypescript/Angular/section14/Aula35.md",
     "JavascriptTypescript/Angular/section14/Aula29.md",
     "Dart/Flutter/Classes Do Framework.md",
@@ -380,13 +391,11 @@
     "JavascriptTypescript/Flutter",
     "JavascriptTypescript/three.js/react-three-fiber/ReactThreeFiberDIvElements.md",
     "JavascriptTypescript/React/ReactDivs.md",
-    "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230604130937.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230604131350.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230604130822.png",
     "JavascriptTypescript/Node/img/Pasted image 20230603190639.png",
     "JavascriptTypescript/Node/img/Pasted image 20230603190612.png",
-    "JavascriptTypescript/Node/img/Pasted image 20230603190541.png",
     "JavascriptTypescript/Node/Selection 5",
     "JavascriptTypescript/Node/Selection 4/Untitled",
     "JavascriptTypescript/Angular/NotesReview"

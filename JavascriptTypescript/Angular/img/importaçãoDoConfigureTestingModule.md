@@ -16,7 +16,7 @@ http ^Bc1pQ3M6
 
 Dependente do componente pai ^xhuN9fqX
 
-Ele depende indiretamente do http para o fluxo de dados ^JyVQFHW1
+Ele depende indiretamente do http para a realização de testes ^JyVQFHW1
 
 (U) componente
 dependente ^Qvl9qyZC
@@ -132,8 +132,8 @@ Portanto deve ter também a importação ^AA82IquA
 				"type": 3
 			},
 			"seed": 692520575,
-			"version": 79,
-			"versionNonce": 473356817,
+			"version": 80,
+			"versionNonce": 1630996369,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -147,9 +147,13 @@ Portanto deve ter também a importação ^AA82IquA
 				{
 					"id": "_-kQ6OHLPGK2xYCl0CXk6",
 					"type": "arrow"
+				},
+				{
+					"id": "dR_dA260RGXQ2IEh0rCUG",
+					"type": "arrow"
 				}
 			],
-			"updated": 1686671850182,
+			"updated": 1686671854100,
 			"link": null,
 			"locked": false
 		},
@@ -260,8 +264,8 @@ Portanto deve ter também a importação ^AA82IquA
 				"type": 3
 			},
 			"seed": 2071637553,
-			"version": 179,
-			"versionNonce": 918691665,
+			"version": 180,
+			"versionNonce": 1973216689,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -271,9 +275,13 @@ Portanto deve ter também a importação ^AA82IquA
 				{
 					"id": "j2Bm2P9tNYErr92-CWJUd",
 					"type": "arrow"
+				},
+				{
+					"id": "dR_dA260RGXQ2IEh0rCUG",
+					"type": "arrow"
 				}
 			],
-			"updated": 1686671848138,
+			"updated": 1686671854100,
 			"link": null,
 			"locked": false
 		},
@@ -546,11 +554,11 @@ Portanto deve ter também a importação ^AA82IquA
 		{
 			"id": "JyVQFHW1",
 			"type": "text",
-			"x": -392.13698569134334,
-			"y": -1.5136287097406722,
-			"width": 345.34625244140625,
+			"x": -405.34110082829926,
+			"y": -30.55282229838472,
+			"width": 383.6070251464844,
 			"height": 15.065023483295716,
-			"angle": 1.0123379793435179,
+			"angle": 1.0993983246460797,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
@@ -561,22 +569,22 @@ Portanto deve ter também a importação ^AA82IquA
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1707964209,
-			"version": 549,
-			"versionNonce": 913649439,
+			"version": 643,
+			"versionNonce": 1227203807,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1686671789405,
+			"updated": 1686672447340,
 			"link": null,
 			"locked": false,
-			"text": "Ele depende indiretamente do http para o fluxo de dados",
-			"rawText": "Ele depende indiretamente do http para o fluxo de dados",
+			"text": "Ele depende indiretamente do http para a realização de testes",
+			"rawText": "Ele depende indiretamente do http para a realização de testes",
 			"fontSize": 12.052018786636573,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 10,
 			"containerId": null,
-			"originalText": "Ele depende indiretamente do http para o fluxo de dados",
+			"originalText": "Ele depende indiretamente do http para a realização de testes",
 			"lineHeight": 1.25
 		},
 		{
@@ -710,11 +718,11 @@ Portanto deve ter também a importação ^AA82IquA
 		{
 			"id": "AA82IquA",
 			"type": "text",
-			"x": -396.1032373703888,
-			"y": 0.7710998511704688,
-			"width": 283.9690140934943,
-			"height": 17.516860916657173,
-			"angle": 1.0440486793473722,
+			"x": -376.1490297504367,
+			"y": -18.323082908046658,
+			"width": 269.94899975300854,
+			"height": 16.652024863907528,
+			"angle": 1.0929486481085116,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
@@ -725,23 +733,74 @@ Portanto deve ter também a importação ^AA82IquA
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1117598559,
-			"version": 244,
-			"versionNonce": 1183188561,
+			"version": 324,
+			"versionNonce": 938011167,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1686671831824,
+			"updated": 1686672453019,
 			"link": null,
 			"locked": false,
 			"text": "Portanto deve ter também a importação",
 			"rawText": "Portanto deve ter também a importação",
-			"fontSize": 14.01348873332575,
+			"fontSize": 13.32161989112603,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 11.999999999999986,
+			"baseline": 10.99999999999999,
 			"containerId": null,
 			"originalText": "Portanto deve ter também a importação",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "dR_dA260RGXQ2IEh0rCUG",
+			"type": "arrow",
+			"x": -84.5,
+			"y": -239.65625,
+			"width": 53,
+			"height": 40,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1670211551,
+			"version": 32,
+			"versionNonce": 1800554975,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1686671854100,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-53,
+					-40
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "OeHmALOxaAD4xWs2-sJHd",
+				"focus": -0.2924021488871834,
+				"gap": 8
+			},
+			"endBinding": {
+				"elementId": "RN-EIp9skCLBDFXSTX_r6",
+				"focus": -0.655911526621822,
+				"gap": 6
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -759,10 +818,10 @@ Portanto deve ter também a importação ^AA82IquA
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 392,
-		"scrollY": 381.34375,
+		"scrollX": 430.44736842105283,
+		"scrollY": 383.7483552631579,
 		"zoom": {
-			"value": 1
+			"value": 0.95
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
