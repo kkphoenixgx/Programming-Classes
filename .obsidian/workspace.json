@@ -20,26 +20,6 @@
             }
           },
           {
-            "id": "1ff06118f08bcdca",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png"
-              }
-            }
-          },
-          {
-            "id": "b6da87ba06636816",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.md"
-              }
-            }
-          },
-          {
             "id": "a0df752d31759d24",
             "type": "leaf",
             "state": {
@@ -146,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png",
+                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png"
+                "file": "JavascriptTypescript/Angular/section14/Aula35.md"
               }
             }
           },
@@ -298,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png",
+                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -310,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png",
+                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,11 +332,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ff06118f08bcdca",
+  "active": "a0df752d31759d24",
   "lastOpenFiles": [
-    "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.md",
-    "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png",
     "JavascriptTypescript/Angular/section14/Aula36.md",
+    "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png",
+    "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.md",
     "JavascriptTypescript/Angular/section14/Aula35.md",
     "JavascriptTypescript/Angular/section14/Aula29.md",
     "Dart/Flutter/Classes Do Framework.md",
