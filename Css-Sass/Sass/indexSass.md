@@ -3,6 +3,4 @@
 tags: [Index Css-Sass](../Index%20Css-Sass.md)
 
 
-Sass is a extension of CSS that makes CSS more powerful.
-
-Sass will compile Sass into CSS.
+Sass is a extension of CSS that makes CSS more powerful, Sass compiles Sass files to CSS.
