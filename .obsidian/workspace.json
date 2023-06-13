@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3695090f4b17db5c",
+        "id": "b4ecfcad72e8c86f",
         "type": "tabs",
         "children": [
           {
-            "id": "bba13a918679c5bc",
+            "id": "1b957816a95304e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula36.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0df752d31759d24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
+                "file": "JavascriptTypescript/three.js/react-three-fiber/Boilerplate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
+                "file": "JavascriptTypescript/three.js/react-three-fiber/Boilerplate.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -253,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula35.md"
+                "file": "JavascriptTypescript/three.js/react-three-fiber/Boilerplate.md"
               }
             }
           },
@@ -278,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
+                "file": "JavascriptTypescript/three.js/react-three-fiber/Boilerplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -290,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
+                "file": "JavascriptTypescript/three.js/react-three-fiber/Boilerplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,12 +319,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a0df752d31759d24",
+  "active": "1b957816a95304e3",
   "lastOpenFiles": [
     "JavascriptTypescript/Angular/section14/Aula36.md",
+    "JavascriptTypescript/Angular/section14/Aula35.md",
     "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png",
     "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.md",
-    "JavascriptTypescript/Angular/section14/Aula35.md",
     "JavascriptTypescript/Angular/section14/Aula29.md",
     "Dart/Flutter/Classes Do Framework.md",
     "Dart/Operadores.md",
