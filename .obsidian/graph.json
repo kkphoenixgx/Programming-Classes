@@ -155,6 +155,20 @@
       }
     },
     {
+      "query": "path:Dart/Flutter/Flame",
+      "color": {
+        "a": 1,
+        "rgb": 14223368
+      }
+    },
+    {
+      "query": "path:Dart/Flutter",
+      "color": {
+        "a": 1,
+        "rgb": 42931
+      }
+    },
+    {
       "query": "path:Dart",
       "color": {
         "a": 1,
@@ -172,6 +186,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.06699983039941454,
+  "scale": 0.05601444843854233,
   "close": true
 }
