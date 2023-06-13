@@ -28,10 +28,6 @@ Dessa forma, teremos certeza que não haverá problemas com os nossos requests.
 
 Não somente isso, mas o seu serviço também deve suportar quando o service cair. Então, faça um valor padrão.
 
-## - Mod  - :
-
-
-
 -----------------------------------------------
 ## Bibliografia
 
