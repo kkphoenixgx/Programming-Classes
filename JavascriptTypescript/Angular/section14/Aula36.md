@@ -30,8 +30,9 @@ Não somente isso, mas o seu serviço também deve suportar quando o service cai
 
 ## - Mod 116 - : Corrigindo erros
 
-Toda criação ao software, terá precedência de erros que terão que ser resolvidos. É lógico que ao adicionar novas coisas, terão testes que não serão feitos. Portanto, programe pensando nas coisas que vão ser testadas e como você vai testar essas coisas, mesmo que não faça o trabalho de QI completo, é interessante pensar um pouco nisso para criar um programa completo.
+Toda criação ao software, terá precedência de erros que terão que ser resolvidos. É lógico que ao adicionar novas coisas, terão testes que não serão feitos. Portanto, programe pensando nas coisas que vão ser testadas e como você vai testar essas coisas, mesmo que não faça o trabalho de QI completo, é interessante pensar um pouco nisso para criar um programa full stack.
 
+As importações nos imports do `configureTestingModule` **não passam as dependências automaticamente, os testes dos dependentes do componente que possuí a importação devem ter a importação também.**
 
 
 
