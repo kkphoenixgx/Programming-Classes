@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f15dc55b78557bae",
+        "id": "6b35e5f4deaacd04",
         "type": "tabs",
         "children": [
           {
-            "id": "002b3e0e2d254e1b",
+            "id": "154f01806144d085",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/three.js/react-three-fiber/Events.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -109,6 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "JavascriptTypescript/three.js/react-three-fiber/Events.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,7 +239,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JavascriptTypescript/three.js/react-three-fiber/Events.md"
+              }
             }
           },
           {
@@ -258,6 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavascriptTypescript/three.js/react-three-fiber/Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,6 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavascriptTypescript/three.js/react-three-fiber/Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,11 +319,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "002b3e0e2d254e1b",
+  "active": "154f01806144d085",
   "lastOpenFiles": [
+    "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/ReactHooks.md",
     "JavascriptTypescript/three.js/react-three-fiber/Boilerplate.md",
     "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
-    "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/ReactHooks.md",
     "JavascriptTypescript/Angular/Section 3/Aula1.md",
     "JavascriptTypescript/Angular/Section 3/Aula3.md",
     "JavascriptTypescript/Angular/Section 3/Aula2.md",
