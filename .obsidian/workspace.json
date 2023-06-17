@@ -4,22 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d5c976ae22430f55",
+        "id": "f15dc55b78557bae",
         "type": "tabs",
         "children": [
           {
-            "id": "0ba4b47726883ad8",
+            "id": "002b3e0e2d254e1b",
             "type": "leaf",
             "state": {
-              "type": "google-calendar-view-week",
-              "state": {}
-            }
-          },
-          {
-            "id": "36d19c6e9dccbeef",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-schedule",
+              "type": "empty",
               "state": {}
             }
           }
@@ -318,7 +310,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4edcc4708632d90",
+  "active": "002b3e0e2d254e1b",
   "lastOpenFiles": [
     "JavascriptTypescript/three.js/react-three-fiber/Boilerplate.md",
     "JavascriptTypescript/three.js/react-three-fiber/Libraries of react-three-fiber.md",
