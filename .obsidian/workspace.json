@@ -4,19 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6b35e5f4deaacd04",
+        "id": "d5c976ae22430f55",
         "type": "tabs",
         "children": [
           {
-            "id": "154f01806144d085",
+            "id": "0ba4b47726883ad8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/Events.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "google-calendar-view-week",
+              "state": {}
+            }
+          },
+          {
+            "id": "36d19c6e9dccbeef",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-schedule",
+              "state": {}
             }
           }
         ]
@@ -113,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/Events.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,9 +242,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/Events.md"
-              }
+              "state": {}
             }
           },
           {
@@ -265,7 +266,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +277,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/three.js/react-three-fiber/Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +318,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "154f01806144d085",
+  "active": "f4edcc4708632d90",
   "lastOpenFiles": [
     "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/ReactHooks.md",
     "JavascriptTypescript/three.js/react-three-fiber/Boilerplate.md",
