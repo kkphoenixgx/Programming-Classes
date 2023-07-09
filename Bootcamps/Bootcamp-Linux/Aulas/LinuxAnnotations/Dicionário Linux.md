@@ -14,7 +14,7 @@
 **duf** → mostra os discos (alternativa ao df)  
 **ncdu** → mostra os arquivos de forma mais organizada (alternativa ao du)  
 **fd find x**  → sendo x o que quer procurar  
-	instalação: *(gerenciador de pacotes) isntall fd-find*
+	instalação: *(gerenciador de pacotes) insntall fd-find*
 **bashtop** →
 **batcat** → mostra o arquivo no terminal de uma forma melhor
 **touch** x.extension → cria o arquivo
