@@ -70,7 +70,7 @@ Menção honrosa a aula 31 que dá uma dica incrível sobre selecionar dinamicam
 | [Aula33](section14/Aula33.md) | `fixure.debugeElement.nativeElement`; `fixure.detectChanges`; (I) | Testando interfaces; **Estrutura de teste para I** |
 | [Aula34](section14/Aula34.md) | describe; `x.trim()`; `x.toContain(y)`; `x.toEqual(y)`  | Estrutura describe para U; Manipulação de testes|
 | [Aula35](section14/Aula35.md) | HttpClientTestingModule; HttpTestingController; | Mock; **Estrutura de teste de um service** |
-| [Aula36](section14/Aula36.md) |  |  |
+| [Aula36](section14/Aula36.md) | `HttpTestingController.verify()` | **Testando o serviço - Incremento na estrutura dos testes de service**; Arquitetura dos Testes - O problema da dependência em corrente  |
 
 ## Projetos
 

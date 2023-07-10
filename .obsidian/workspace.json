@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula37.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula37.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md"
+                "file": "JavascriptTypescript/Angular/section14/Aula37.md"
               }
             }
           },
@@ -266,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula37.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md",
+                "file": "JavascriptTypescript/Angular/section14/Aula37.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,10 +320,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "878e5939c568b8f4",
+  "active": "3eaea0e0013b4de7",
   "lastOpenFiles": [
-    "JavascriptTypescript/Angular/section14/Aula 37.md",
     "JavascriptTypescript/Angular/section14/Aula36.md",
+    "JavascriptTypescript/Angular/index Angular.md",
+    "JavascriptTypescript/Angular/section14/Aula37.md",
     "Project notes/Arquitetura Snake Game.sync-conflict-20230416-102639-675ZGCU.md",
     "Project notes/Arquitetura Snake Game.md",
     "Project notes/randomStuff.md",
@@ -352,7 +353,6 @@
     "Bootcamps/Bootcamp-Linux/Aulas/LinuxAnnotations/Aula1.md",
     "Bootcamps/Bootcamp-Linux/Aulas/Introdução-a-desenvolvimentoModerno-de-Software/IDMS-Aula1.md",
     "Bootcamps/Bootcamp-Linux/Aulas/Docker/Annotations.md",
-    "Bootcamps/Bootcamp-Linux/Index Linux-Bootcamp.md",
     "Css-Sass/Sass",
     "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230611102821.png",
