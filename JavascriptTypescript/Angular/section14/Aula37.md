@@ -50,7 +50,7 @@ req.flush(defaultValue);
 expect(req.request.method).toEqual('GET');
 ~~~
 
-## - Mod  - :
+## - Mod  - : Teste de unidade com mock no component
 
 
 
@@ -58,3 +58,5 @@ expect(req.request.method).toEqual('GET');
 ## Bibliografia
 
 https://www.udemy.com/course/curso-de-angular/learn/lecture/28847540?start=0#overview
+
+https://www.udemy.com/course/curso-de-angular/learn/lecture/28847806#overview
