@@ -4,18 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "1b9a8fb56c4ade77",
+        "id": "d5c976ae22430f55",
         "type": "tabs",
         "children": [
           {
-            "id": "2751f47e01a238ab",
+            "id": "0ba4b47726883ad8",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "google-calendar-view-week",
               "state": {}
             }
+          },
+          {
+            "id": "fa0d87276d2d3326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organização.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbd0d7c544b7efc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organização.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,6 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Organização.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,7 +260,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Organização.md"
+              }
             }
           },
           {
@@ -258,6 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Organização.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,6 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Organização.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +340,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4edcc4708632d90",
+  "active": "61b535711869a483",
   "lastOpenFiles": [
     "Project notes/Arquitetura Snake Game.sync-conflict-20230416-102639-675ZGCU.md",
     "Project notes/Arquitetura Snake Game.md",
