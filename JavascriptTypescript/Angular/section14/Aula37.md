@@ -4,6 +4,12 @@ tags: [index Angular](../index%20Angular.md)
 
 ## - Mod 117 - : Teste com mock no serviço
 
+🏴‍☠→rxjs {
+
+ * of()
+
+}
+
 ### done do it
 
 Agora entenderemos a fundo um pouco do `done`, que é um parâmetro do *callback* do it → `it( description, callback(done) )`. Desse modo, ele, basicamente, encerra abruptamente um it. No exemplo a seguir, estamos requirindo dados de um servidor e testando seus resultados:
@@ -50,9 +56,12 @@ req.flush(defaultValue);
 expect(req.request.method).toEqual('GET');
 ~~~
 
-## - Mod  - : Teste de unidade com mock no component
+## - Mod 118 - : Teste de unidade com mock no component
 
+### `spyOn()`
 
+O 007 do angular, não tem como, esqueça tudo papai, você coloca um serviço para ele espionar e o método do serviço que você vai espionar e com isso tem uns métodos bem legais para usar, você cria uma corrente de métodos pelo and: `spyon(service, 'serviceMethodName').and.returnValue()`.
+Um dos métodos mais usados é o `returnValue()` que retorna os valores do service, como fizemos no último módulo, é interessante não depender do service para usar o seu teste do service, pois tudo pode estar dando erro, é um service, então o que geralmente fazem é usar 
 
 -----------------------------------------------
 ## Bibliografia
