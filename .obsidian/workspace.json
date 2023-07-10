@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d5c976ae22430f55",
+        "id": "6e20373491155b8f",
         "type": "tabs",
         "children": [
           {
-            "id": "0ba4b47726883ad8",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-week",
-              "state": {}
-            }
-          },
-          {
-            "id": "fa0d87276d2d3326",
+            "id": "3eaea0e0013b4de7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organização.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbd0d7c544b7efc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organização.md",
+                "file": "JavascriptTypescript/Angular/index Angular.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Organização.md",
+                "file": "JavascriptTypescript/Angular/index Angular.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,7 +228,7 @@
                   "repelStrength": 11.2539057193316,
                   "linkStrength": 1,
                   "linkDistance": 294,
-                  "scale": 0.18462326225858214,
+                  "scale": 0.08205478322603649,
                   "close": true
                 }
               }
@@ -261,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organização.md"
+                "file": "JavascriptTypescript/Angular/index Angular.md"
               }
             }
           },
@@ -273,7 +252,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f7e80c1e5839227c",
@@ -286,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organização.md",
+                "file": "JavascriptTypescript/Angular/index Angular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -298,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organização.md",
+                "file": "JavascriptTypescript/Angular/index Angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,8 +320,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61b535711869a483",
+  "active": "878e5939c568b8f4",
   "lastOpenFiles": [
+    "JavascriptTypescript/Angular/section14/Aula 37.md",
+    "JavascriptTypescript/Angular/section14/Aula36.md",
     "Project notes/Arquitetura Snake Game.sync-conflict-20230416-102639-675ZGCU.md",
     "Project notes/Arquitetura Snake Game.md",
     "Project notes/randomStuff.md",
@@ -371,8 +353,6 @@
     "Bootcamps/Bootcamp-Linux/Aulas/Introdução-a-desenvolvimentoModerno-de-Software/IDMS-Aula1.md",
     "Bootcamps/Bootcamp-Linux/Aulas/Docker/Annotations.md",
     "Bootcamps/Bootcamp-Linux/Index Linux-Bootcamp.md",
-    "Bootcamps/Bootcamp-Linux/Aulas/Pensamento computacional/Aula1.md",
-    "JavascriptTypescript/three.js/react-three-fiber/React Bases with three-fiber/ReactHooks.md",
     "Css-Sass/Sass",
     "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230611102821.png",
