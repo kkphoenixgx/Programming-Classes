@@ -10,7 +10,7 @@ Agora entenderemos a fundo um pouco do `done`, que é um parâmetro do *callback
 
 ~~~ts
 it('(U) Should request corectly the server', (done) => {
-	service.list().subscribe( (res :Array<AnswareInterface>) =>{
+	service.list().subscribe( (res :Array<AnswerInterface>) =>{
 		expect(res[0].name).toEqual('Response1');
 		done();
 	});
@@ -26,14 +26,14 @@ Algo interessante do `subscribe()` é que ele escuta, e não para de escutar. Po
 Outro recurso muito interessante de se usar, principalmente falando de mock de serviços, é usar o `expectOne()` do `httpTestingController` → `httpTestingController.expectOne(URL)`. Ele vai receber, da URL que você proporcionar, a response e pode ser usada para armazenar dados, testar esse controller, mas um jeito muito interessante de usa-lo é fazer um teste na response, mudar a response:
 
 ~~~ts
-const UTL :string = 'http://algumaurl.com/request'
+const URL :string = 'http://algumaurl.com/request'
 
 let defaultValue : Array<{ name :string, id :number, email :string }> = [ 
 	{ 
 		name: 'juaozinho', 
 		id:23456, 
 		email: 'juaozinhodograudolindo@gmail.com' 
-	} 
+	},
 	{ 
 		name: 'mariazinha', 
 		id:23457, 
@@ -44,7 +44,10 @@ let defaultValue : Array<{ name :string, id :number, email :string }> = [
 const res= httpTestingController.expectOne(URL);
 
 // Mudando a response
-req.flush(defaultValue)
+req.flush(defaultValue);
+
+// Verificando se o método tá certinho
+expect(req.request.method).toEqual('GET');
 ~~~
 
 ## - Mod  - :
