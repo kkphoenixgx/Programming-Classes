@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1a345a22d5c3d8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/Angular/section14/Aula35.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -253,7 +265,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "f7e80c1e5839227c",
@@ -322,9 +334,10 @@
   },
   "active": "3eaea0e0013b4de7",
   "lastOpenFiles": [
+    "JavascriptTypescript/Angular/section14/Aula35.md",
     "JavascriptTypescript/Angular/section14/Aula36.md",
-    "JavascriptTypescript/Angular/index Angular.md",
     "JavascriptTypescript/Angular/section14/Aula37.md",
+    "JavascriptTypescript/Angular/index Angular.md",
     "Project notes/Arquitetura Snake Game.sync-conflict-20230416-102639-675ZGCU.md",
     "Project notes/Arquitetura Snake Game.md",
     "Project notes/randomStuff.md",
@@ -352,7 +365,6 @@
     "Bootcamps/Bootcamp-Linux/Aulas/LinuxAnnotations/Dicionário Linux.md",
     "Bootcamps/Bootcamp-Linux/Aulas/LinuxAnnotations/Aula1.md",
     "Bootcamps/Bootcamp-Linux/Aulas/Introdução-a-desenvolvimentoModerno-de-Software/IDMS-Aula1.md",
-    "Bootcamps/Bootcamp-Linux/Aulas/Docker/Annotations.md",
     "Css-Sass/Sass",
     "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230611102821.png",
