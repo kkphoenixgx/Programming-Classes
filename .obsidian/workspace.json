@@ -113,7 +113,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula37.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,9 +238,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula37.md"
-              }
+              "state": {}
             }
           },
           {
@@ -266,7 +263,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula37.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -278,7 +274,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula37.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,10 +315,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3eaea0e0013b4de7",
+  "active": "18e4291c106f4ae0",
   "lastOpenFiles": [
-    "JavascriptTypescript/Angular/section14/Aula35.md",
     "JavascriptTypescript/Angular/section14/Aula37.md",
+    "JavascriptTypescript/Angular/section14/Aula35.md",
     "JavascriptTypescript/Angular/index Angular.md",
     "JavascriptTypescript/Angular/Section13/Aula28.md",
     "JavascriptTypescript/Angular/Section13/Aula27.md",

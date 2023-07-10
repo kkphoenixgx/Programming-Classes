@@ -6,7 +6,7 @@ tags: [index Angular](../index%20Angular.md)
 
 🏴‍☠→rxjs {
 
- * of()
+ * **of(x)** →retorna o valor de x, como se fosse um await `<method>`;
 
 }
 
@@ -61,7 +61,17 @@ expect(req.request.method).toEqual('GET');
 ### `spyOn()`
 
 O 007 do angular, não tem como, esqueça tudo papai, você coloca um serviço para ele espionar e o método do serviço que você vai espionar e com isso tem uns métodos bem legais para usar, você cria uma corrente de métodos pelo and: `spyon(service, 'serviceMethodName').and.returnValue()`.
-Um dos métodos mais usados é o `returnValue()` que retorna os valores do service, como fizemos no último módulo, é interessante não depender do service para usar o seu teste do service, pois tudo pode estar dando erro, é um service, então o que geralmente fazem é usar 
+Um dos métodos mais usados é o `returnValue()` que retorna os valores do service, como fizemos no último módulo, é interessante não depender do service para usar o seu teste do service, pois tudo pode estar dando erro, é um service, então o que geralmente fazem é usar mudar o valor usando o `of()` do rxjs pois precisa ser algo assíncrono já que o método é assíncrono:
+
+~~~ts
+// sendo defaultValue o mesmo do exemplo anterior e service o service em questão
+spyon(service, 'serviceMethodName').and.returnValue(of(defaultValue))
+
+component.ngOnInit();
+fixture.detectChanges();
+~~~ 
+
+Perceba que podemos usar esse método `ngOnInit()` para iniciar o nosso componente e usar o spy para espionar 
 
 -----------------------------------------------
 ## Bibliografia
