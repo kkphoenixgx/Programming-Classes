@@ -23,10 +23,44 @@ Uma guard `canActivate` é basicamente uma guard que implementa `CanActivate` e 
 Olhe esse trecho "melhor" identado:
 ![](../../../Pasted%20image%2020230711112902.png)
 
-Temos o `canActivate` que possuí dois parâmetros principais, a route e o state do próprio guard e dentro do método temos as regras de negócio.  
-Já no arquivo de rotas, para a implementação da guard na route, vamos adicionar a propriedade referente a interface implementada pela guard definindo a própria guard
+Temos o `canActivate` que possuí dois parâmetros principais, a route e o state do próprio guard, e dentro do método temos as regras de negócio.  
+Já no arquivo de rotas, para a implementação da guard na route, vamos adicionar a propriedade referente a interface implementada pela guard definindo a própria guard:
 
 ![](../../../Pasted%20image%2020230711113405.png)
+
+Desse modo, temos que, se não conseguirmos voltar para a rota account (com o guard barrando), iremos de volta para o `HomeComponent`. Na mesma linha, podemos retornar no nosso `canActivate` um redirecionamento para outro component, vamos ver isso em outros módulos
+
+### Por referência, dos códigos
+
+No arquivo das rotas:
+~~~ts
+const routes :Routes = [
+	{
+		path: 'pathName',
+		component: ComponentName,
+		canActivate: [GuardClassName]
+	},
+]
+~~~
+
+No arquivo da guard:
+~~~ts
+export class GuardClassName implements CanActivate{
+	canActivate(
+		route: ActivatedRouteSnapshot,
+		state: RouteStateSnapshot
+	):
+		| Observable< boolean|UrlTree > 
+		| Promise< boolean|UrlTree >
+		| boolean
+		| UrlTree
+	{
+		// Business Rules
+		return true;
+	}
+}
+~~~
+
 
 -----------------------------------------------
 ## Bibliografia
