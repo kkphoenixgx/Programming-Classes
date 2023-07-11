@@ -1,11 +1,11 @@
 {
-  "googleClientId": "305754557499-fva2tove5j7u9jvibgppvi2css9qqcqq.apps.googleusercontent.com",
-  "googleClientSecret": "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",
+  "googleClientId": "",
+  "googleClientSecret": "",
   "googleRefreshToken": "",
   "useCustomClient": true,
   "googleOAuthServer": "https://obsidian-google-calendar.vercel.app",
   "refreshInterval": 10,
-  "useNotification": true,
+  "useNotification": false,
   "showNotice": true,
   "autoCreateEventNotes": true,
   "autoCreateEventNotesMarker": "obsidian",
@@ -14,17 +14,8 @@
   "importEndOffset": 1,
   "optionalNotePrefix": "",
   "eventNoteNameFormat": "{{prefix}}{{event-title}}",
-  "defaultCalendar": "kkphoenixvs@gmail.com",
-  "calendarBlackList": [
-    [
-      "yasmin.sampaio@estudante.ufla.br",
-      "yasmin.sampaio@estudante.ufla.br"
-    ],
-    [
-      "classroom100507431589979751355@group.calendar.google.com",
-      "358- deveres"
-    ]
-  ],
+  "defaultCalendar": "",
+  "calendarBlackList": [],
   "insertTemplates": [],
   "useDefaultTemplate": false,
   "defaultTemplate": "",
@@ -92,9 +83,7 @@
       "type": "web",
       "theme": "auto",
       "view": "day",
-      "offset": 0,
-      "width": -1,
-      "height": 500
+      "offset": 0
     }
   }
 }

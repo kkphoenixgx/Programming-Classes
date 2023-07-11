@@ -71,7 +71,10 @@ component.ngOnInit();
 fixture.detectChanges();
 ~~~ 
 
-Perceba que podemos usar esse método `ngOnInit()` para iniciar o nosso componente e usar o spy para espionar 
+Perceba que podemos usar esse método `ngOnInit()` para iniciar o nosso componente e usar o spy para espionar. Concomitante a isso, usar o `detectChanges()` para constantemente verificar... 
+Uma boa prática nessa estrutura é usar o `expect(service.serviceMethod).toHaveBeCalledWith()` para ter certeza que o `spyon`, o `ngOnInit` e o `detectChanges` estão funcionando junto com o componente.
+
+
 
 -----------------------------------------------
 ## Bibliografia
