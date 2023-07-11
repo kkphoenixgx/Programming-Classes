@@ -20,7 +20,13 @@ Uma guard `canActivate` é basicamente uma guard que implementa `CanActivate` e 
 
 ![](../../../Pasted%20image%2020230711092849.png)
 
- 
+Olhe esse trecho "melhor" identado:
+![](../../../Pasted%20image%2020230711112902.png)
+
+Temos o `canActivate` que possuí dois parâmetros principais, a route e o state do próprio guard e dentro do método temos as regras de negócio.  
+Já no arquivo de rotas, para a implementação da guard na route, vamos adicionar a propriedade referente a interface implementada pela guard definindo a própria guard
+
+![](../../../Pasted%20image%2020230711113405.png)
 
 -----------------------------------------------
 ## Bibliografia
