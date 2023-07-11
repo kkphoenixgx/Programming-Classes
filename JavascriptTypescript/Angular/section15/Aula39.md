@@ -20,7 +20,7 @@ Uma guard `canActivate` é basicamente uma guard que implementa `CanActivate` e 
 
 ![](../../../Pasted%20image%2020230711092849.png)
 
-
+ 
 
 -----------------------------------------------
 ## Bibliografia
