@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula38.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "490b0b5bbbd24d0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula37.md",
+                "file": "JavascriptTypescript/Angular/section15/Aula39.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula38.md",
+                "file": "JavascriptTypescript/Angular/section15/Aula39.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +228,7 @@
                   "repelStrength": 11.2539057193316,
                   "linkStrength": 1,
                   "linkDistance": 294,
-                  "scale": 0.18462326225858214,
+                  "scale": 0.18462326225858205,
                   "close": true
                 }
               }
@@ -252,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula38.md"
+                "file": "JavascriptTypescript/Angular/section15/Aula39.md"
               }
             }
           },
@@ -278,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula38.md",
+                "file": "JavascriptTypescript/Angular/section15/Aula39.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -290,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/section14/Aula38.md",
+                "file": "JavascriptTypescript/Angular/section15/Aula39.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,8 +322,11 @@
   },
   "active": "e782222d6cce1065",
   "lastOpenFiles": [
+    "Pasted image 20230711091325.png",
     "JavascriptTypescript/Angular/section14/Aula37.md",
+    "JavascriptTypescript/Angular/section15/Aula39.md",
     "JavascriptTypescript/Angular/section14/Aula38.md",
+    "JavascriptTypescript/Angular/section15",
     "JavascriptTypescript/Angular/section14/Aula35.md",
     "JavascriptTypescript/Angular/index Angular.md",
     "JavascriptTypescript/Angular/Section13/Aula28.md",
@@ -362,8 +353,6 @@
     "JavascriptTypescript/Node/Index node.md",
     "ReadMe.md",
     "Organização.md",
-    "JavascriptTypescript/React/Index react.md",
-    "JavascriptTypescript/Electron/Index of electron.md",
     "JavascriptTypescript/Nest.js",
     "Css-Sass/Sass",
     "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png",
@@ -374,7 +363,6 @@
     "Dart/Flutter/-img",
     "Dart/Flutter/Flame/-img",
     "Dart/Flutter/Flame/-img/Pasted image 20230610153156.png",
-    "Dart/Flutter/Flame",
     "JavascriptTypescript/Angular/img/Pasted image 20230604130937.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230604131350.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230604130822.png",
