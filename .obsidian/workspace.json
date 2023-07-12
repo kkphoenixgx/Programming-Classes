@@ -14,6 +14,14 @@
               "type": "google-calendar-view-week",
               "state": {}
             }
+          },
+          {
+            "id": "36d19c6e9dccbeef",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-schedule",
+              "state": {}
+            }
           }
         ]
       }
@@ -312,11 +320,11 @@
   },
   "active": "f4edcc4708632d90",
   "lastOpenFiles": [
-    "Pasted image 20230711113755.png",
-    "Pasted image 20230711113405.png",
-    "Pasted image 20230711112902.png",
-    "Pasted image 20230711092849.png",
-    "Pasted image 20230711091325.png",
+    "JavascriptTypescript/Angular/img/Pasted image 20230711091325.png",
+    "JavascriptTypescript/Angular/img/Pasted image 20230711113755.png",
+    "JavascriptTypescript/Angular/img/Pasted image 20230711113405.png",
+    "JavascriptTypescript/Angular/img/Pasted image 20230711112902.png",
+    "JavascriptTypescript/Angular/img/Pasted image 20230711092849.png",
     "JavascriptTypescript/Angular/section14/Aula37.md",
     "JavascriptTypescript/Angular/section15/Aula39.md",
     "JavascriptTypescript/Angular/section14/Aula38.md",

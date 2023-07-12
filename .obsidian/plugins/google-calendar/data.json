@@ -1,6 +1,6 @@
 {
-  "googleClientId": "",
-  "googleClientSecret": "",
+  "googleClientId": "305754557499-fva2tove5j7u9jvibgppvi2css9qqcqq.apps.googleusercontent.com",
+  "googleClientSecret": "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",
   "googleRefreshToken": "",
   "useCustomClient": true,
   "googleOAuthServer": "https://obsidian-google-calendar.vercel.app",
@@ -15,7 +15,20 @@
   "optionalNotePrefix": "",
   "eventNoteNameFormat": "{{prefix}}{{event-title}}",
   "defaultCalendar": "",
-  "calendarBlackList": [],
+  "calendarBlackList": [
+    [
+      "yasmin.sampaio@estudante.ufla.br",
+      "yasmin.sampaio@estudante.ufla.br"
+    ],
+    [
+      "missaoprojetopassarnoenem@gmail.com",
+      "missaoprojetopassarnoenem@gmail.com"
+    ],
+    [
+      "classroom100507431589979751355@group.calendar.google.com",
+      "358- deveres"
+    ]
+  ],
   "insertTemplates": [],
   "useDefaultTemplate": false,
   "defaultTemplate": "",

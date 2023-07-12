@@ -7,7 +7,7 @@ tags: [index Angular](../index%20Angular.md)
 Um guard de rota no Angular serve para só deixar acessar um caminho caso o usuário tenha completado algum passo prévio... Um bom exemplo é as caixas de diálogo antes de ir para outra rota se precisar salvar alguma coisa.  
 Destarte, temos alguns tipos de guards:
 
-![](../../../Pasted%20image%2020230711091325.png)
+![](../img/Pasted%20image%2020230711091325.png)
 
 Para criar u guard usamos:
 > **ng g guard path**
@@ -18,15 +18,15 @@ As guards geralmente são localizadas em uma **pasta chamada core** que organiza
 
 Uma guard `canActivate` é basicamente uma guard que implementa `CanActivate` e possuí o método `canActivate`, esse método permite a mudança para a rota que vai usar o `canActivate` caso a mesma retorne true, ao retornar false, o guarda impede a passagem do usuário. Dê uma olhada na estrutura:
 
-![](../../../Pasted%20image%2020230711092849.png)
+![](../img/Pasted%20image%2020230711092849.png)
 
 Olhe esse trecho "melhor" identado:
-![](../../../Pasted%20image%2020230711112902.png)
+![](../img/Pasted%20image%2020230711112902.png)
 
 Temos o `canActivate` que possuí dois parâmetros principais, a route e o state do próprio guard, e dentro do método temos as regras de negócio.  
 Já no arquivo de rotas, para a implementação da guard na route, vamos adicionar a propriedade referente a interface implementada pela guard definindo a própria guard:
 
-![](../../../Pasted%20image%2020230711113405.png)
+![](../img/Pasted%20image%2020230711113405.png)
 
 Desse modo, temos que, se não conseguirmos voltar para a rota account (com o guard barrando), iremos de volta para o `HomeComponent`. Na mesma linha, podemos retornar no nosso `canActivate` um redirecionamento para outro component, vamos ver isso em outros módulos
 
