@@ -4,23 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d5c976ae22430f55",
+        "id": "d81f1d871d8d0039",
         "type": "tabs",
         "children": [
           {
-            "id": "0ba4b47726883ad8",
+            "id": "f776bb6c3788cbfd",
             "type": "leaf",
             "state": {
-              "type": "google-calendar-view-week",
-              "state": {}
-            }
-          },
-          {
-            "id": "36d19c6e9dccbeef",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-schedule",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Project notes/MySite.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -117,6 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Project notes/MySite.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,7 +239,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project notes/MySite.md"
+              }
             }
           },
           {
@@ -266,6 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project notes/MySite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,6 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project notes/MySite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,8 +319,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4edcc4708632d90",
+  "active": "f776bb6c3788cbfd",
   "lastOpenFiles": [
+    "Project notes/MySite.md",
+    "Project notes/Arquitetura Snake Game.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230711091325.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230711113755.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230711113405.png",
@@ -335,7 +338,6 @@
     "JavascriptTypescript/Angular/Section13/Aula27.md",
     "JavascriptTypescript/Angular/section14/Aula36.md",
     "Project notes/Arquitetura Snake Game.sync-conflict-20230416-102639-675ZGCU.md",
-    "Project notes/Arquitetura Snake Game.md",
     "Project notes/randomStuff.md",
     "Docker/readMe.md",
     "Docker/Images.md",
@@ -364,7 +366,6 @@
     "Dart/-img",
     "Dart/Flutter/-img",
     "Dart/Flutter/Flame/-img",
-    "Dart/Flutter/Flame/-img/Pasted image 20230610153156.png",
-    "JavascriptTypescript/Angular/img/Pasted image 20230604130937.png"
+    "Dart/Flutter/Flame/-img/Pasted image 20230610153156.png"
   ]
 }
