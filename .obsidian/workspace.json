@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "555376ce4388dcb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavascriptTypescript/Angular/index Angular.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f0ebac872cf0c8c1",
             "type": "leaf",
             "state": {
@@ -30,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9e8e02f62a5b81d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/Angular/section15/Aula39.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -334,9 +333,10 @@
   },
   "active": "f0ebac872cf0c8c1",
   "lastOpenFiles": [
-    "JavascriptTypescript/Angular/index Angular.md",
     "JavascriptTypescript/Angular/section15/Aula39.md",
     "JavascriptTypescript/Angular/section15/Aula40.md",
+    "JavascriptTypescript/Angular/index Angular.md",
+    "Pasted image 20230714110954.png",
     "Project notes/MySite.md",
     "Project notes/Arquitetura Snake Game.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230711091325.png",
@@ -369,7 +369,6 @@
     "SQL",
     "JavascriptTypescript/Nest.js/TypeORM",
     "JavascriptTypescript/Node/Index node.md",
-    "ReadMe.md",
     "JavascriptTypescript/Nest.js",
     "Css-Sass/Sass",
     "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png",
@@ -378,7 +377,6 @@
     "Dart/Flutter/Flame/-img/Pasted image 20230610153633.png",
     "Dart/-img",
     "Dart/Flutter/-img",
-    "Dart/Flutter/Flame/-img",
-    "Dart/Flutter/Flame/-img/Pasted image 20230610153156.png"
+    "Dart/Flutter/Flame/-img"
   ]
 }
