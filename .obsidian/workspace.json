@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d81f1d871d8d0039",
+        "id": "227746b948b4e159",
         "type": "tabs",
         "children": [
           {
-            "id": "f776bb6c3788cbfd",
+            "id": "555376ce4388dcb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project notes/MySite.md",
+                "file": "JavascriptTypescript/Angular/section15/Aula39.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Project notes/MySite.md",
+                "file": "JavascriptTypescript/Angular/section15/Aula39.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project notes/MySite.md"
+                "file": "JavascriptTypescript/Angular/section15/Aula39.md"
               }
             }
           },
@@ -265,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project notes/MySite.md",
+                "file": "JavascriptTypescript/Angular/section15/Aula39.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project notes/MySite.md",
+                "file": "JavascriptTypescript/Angular/section15/Aula39.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +319,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f776bb6c3788cbfd",
+  "active": "555376ce4388dcb7",
   "lastOpenFiles": [
     "Project notes/MySite.md",
     "Project notes/Arquitetura Snake Game.md",
