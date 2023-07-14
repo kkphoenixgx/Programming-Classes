@@ -125,7 +125,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/section15/Aula40.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +239,7 @@
                   "repelStrength": 11.2539057193316,
                   "linkStrength": 1,
                   "linkDistance": 294,
-                  "scale": 0.18462326225858214,
+                  "scale": 0.054703188817357626,
                   "close": true
                 }
               }
@@ -251,9 +250,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavascriptTypescript/Angular/section15/Aula40.md"
-              }
+              "state": {}
             }
           },
           {
@@ -264,7 +261,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f7e80c1e5839227c",
@@ -277,7 +275,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/section15/Aula40.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -289,7 +286,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/section15/Aula40.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,11 +327,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f0ebac872cf0c8c1",
+  "active": "18e4291c106f4ae0",
   "lastOpenFiles": [
-    "JavascriptTypescript/Angular/section15/Aula39.md",
     "JavascriptTypescript/Angular/section15/Aula40.md",
     "JavascriptTypescript/Angular/index Angular.md",
+    "Pasted image 20230714112833.png",
+    "Pasted image 20230714112810.png",
+    "JavascriptTypescript/Angular/section15/Aula39.md",
     "Pasted image 20230714110954.png",
     "Project notes/MySite.md",
     "Project notes/Arquitetura Snake Game.md",
@@ -373,8 +371,6 @@
     "Css-Sass/Sass",
     "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230611102821.png",
-    "Dart/Flutter/Flame/-img/Pasted image 20230610154409.png",
-    "Dart/Flutter/Flame/-img/Pasted image 20230610153633.png",
     "Dart/-img",
     "Dart/Flutter/-img",
     "Dart/Flutter/Flame/-img"
