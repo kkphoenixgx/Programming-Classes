@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/Angular/section15/Aula39.md",
+                "file": "JavascriptTypescript/Angular/index Angular.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0ebac872cf0c8c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavascriptTypescript/Angular/section15/Aula40.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavascriptTypescript/Angular/section15/Aula39.md",
+                "file": "JavascriptTypescript/Angular/section15/Aula40.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavascriptTypescript/Angular/section15/Aula39.md"
+                "file": "JavascriptTypescript/Angular/section15/Aula40.md"
               }
             }
           },
@@ -265,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavascriptTypescript/Angular/section15/Aula39.md",
+                "file": "JavascriptTypescript/Angular/section15/Aula40.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavascriptTypescript/Angular/section15/Aula39.md",
+                "file": "JavascriptTypescript/Angular/section15/Aula40.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,8 +332,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "555376ce4388dcb7",
+  "active": "f0ebac872cf0c8c1",
   "lastOpenFiles": [
+    "JavascriptTypescript/Angular/index Angular.md",
+    "JavascriptTypescript/Angular/section15/Aula39.md",
+    "JavascriptTypescript/Angular/section15/Aula40.md",
     "Project notes/MySite.md",
     "Project notes/Arquitetura Snake Game.md",
     "JavascriptTypescript/Angular/img/Pasted image 20230711091325.png",
@@ -329,11 +345,9 @@
     "JavascriptTypescript/Angular/img/Pasted image 20230711112902.png",
     "JavascriptTypescript/Angular/img/Pasted image 20230711092849.png",
     "JavascriptTypescript/Angular/section14/Aula37.md",
-    "JavascriptTypescript/Angular/section15/Aula39.md",
     "JavascriptTypescript/Angular/section14/Aula38.md",
     "JavascriptTypescript/Angular/section15",
     "JavascriptTypescript/Angular/section14/Aula35.md",
-    "JavascriptTypescript/Angular/index Angular.md",
     "JavascriptTypescript/Angular/Section13/Aula28.md",
     "JavascriptTypescript/Angular/Section13/Aula27.md",
     "JavascriptTypescript/Angular/section14/Aula36.md",
@@ -356,7 +370,6 @@
     "JavascriptTypescript/Nest.js/TypeORM",
     "JavascriptTypescript/Node/Index node.md",
     "ReadMe.md",
-    "Organização.md",
     "JavascriptTypescript/Nest.js",
     "Css-Sass/Sass",
     "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png",
