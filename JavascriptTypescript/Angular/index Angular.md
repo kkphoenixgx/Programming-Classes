@@ -50,7 +50,7 @@ Menção honrosa a aula 31 que dá uma dica incrível sobre selecionar dinamicam
 | -------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------ |
 | [Aula23](Section%2012/Aula23.md) | routerLink, redirectTo                                                                    | Navegação entre rotas, routes.module |
 | [Aula24](Section%2012/Aula24.md) | `[routerLinkActive] = "['class']"`; `[routerLinkActiveOptions]="{exact: true}"`; `:param` | Active Routes, parâmetro nas rotas   |
-| [Aula25](Section%2012/Aula25.md) | `router :Router`; `this.router.navigate`; `this.router.navigateByUrl`                     | Redirecionamento pelo código         |
+| [Aula25](Section%2012/Aula25.md) | `router :Router`; `this.router.navigate`; `this.router.navigateByUrl`, `forChildren()`                    | Redirecionamento, Rotas filhas, Lazy Load, `useHash` nas rotas          |
 
 ## Rxjs e APIs externas
 

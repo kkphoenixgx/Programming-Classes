@@ -78,7 +78,7 @@ Interessante dizer que se você coloca a linha de export de componente, ele vai 
 E vamos aos conceitos, na rota root, usamos o forRoot para carregar as rotas:
 ![](../img/Pasted%20image%2020230302111725.png)
 
-No caso de uma rota filha, você usa forChild(routes) no componente filho. Além disso, no componente pai, devemos importar, literalmente, o módulo:
+No caso de uma rota filha, **você usa `forChild(routes)` no lugar do `forRoot(routes)` no componente filho**. Além disso, no componente pai, devemos importar, literalmente, o módulo:
 
 ~~~ts
 import { NgModule } from '@angular/core';

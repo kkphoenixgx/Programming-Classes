@@ -1,5 +1,5 @@
 # Dicionário React.js e Next.js para marceneiros intelectuais
-tags: [[Index react]]
+tags: [[-Index react]]
 
 
 ## Comandos de terminal

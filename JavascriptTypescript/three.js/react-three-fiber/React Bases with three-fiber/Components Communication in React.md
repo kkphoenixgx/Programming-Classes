@@ -1,6 +1,6 @@
 # Components Communication in React
 2023-05-19
-tags: [-index React-three-fiber](../-index%20React-three-fiber.md) [Index react](../../../React/Index%20react.md)
+tags: [-index React-three-fiber](../-index%20React-three-fiber.md) [-Index react](../../../React/-Index%20react.md)
 
 When you want to communicate between components **from dad to children**, you have to pass, as an element, what you want to pass.
 

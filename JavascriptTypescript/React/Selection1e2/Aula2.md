@@ -1,11 +1,6 @@
 # Aula2
 1/01/22
 
-## Mod 6 --
-
-* **npx create-react-app (projectName)** = cria um projeto react numa pasta com o nome do seu projeto
-  * caso você coloque sem nome, vai gerar na pasta que você está no terminal
-
 ## Mod 7 --
 
 Ele deu umas simples dicas de npm, como que existem alguns script dp package.json que podem ser feitos só com npm e o nome do script mas nno geral vamos usar **npm run nomeDoScript** para rodar aqueles scripts já prontos

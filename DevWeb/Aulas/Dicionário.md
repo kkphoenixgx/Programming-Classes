@@ -185,3 +185,15 @@ nomes dos espaçamentos dos box-model em ordem(Margin, border, padding, content)
 * **Identificadores**: # Id (Sem espaço)
 
 se quiser ver mais que isso, vai [nesse site](https://tableless.com.br/referencia-seletores-css/)
+
+
+### Responsivo
+
+~~~css
+/* Smartphones (portrait) */
+@media only screen and (max-width: 320px) and (max-device-width: 767px) { /* Styles */ } 
+/* iPads (portrait and landscape) */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) { /* Styles */ }
+/* Desktops and laptops */
+@media only screen and (min-width: 1224px) { /* Styles */ }
+~~~

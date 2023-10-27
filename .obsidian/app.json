@@ -1,22 +1,6 @@
 {
-  "readableLineLength": false,
-  "strictLineBreaks": true,
-  "defaultViewMode": "source",
-  "lineWrap": true,
-  "showLineNumber": false,
-  "tabSize": 2,
-  "legacyEditor": false,
-  "promptDelete": false,
+  "foldHeading": true,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative",
-  "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "showIndentGuide": false,
-  "showInlineTitle": false,
-  "useMarkdownLinks": true,
-  "spellcheckLanguages": [
-    "pt-BR",
-    "en-CA"
-  ],
-  "spellcheck": true
+  "showInlineTitle": false
 }

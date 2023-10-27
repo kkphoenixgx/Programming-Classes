@@ -1,5 +1,5 @@
 # Dicionário de jsx, para quem só manja de html
-[Index react](Index%20react.md)
+[-Index react](-Index%20react.md)
 
 Temos que trocar todas as palavras reservadas do javascript para outras, então tudo que é palavra reservada, vai ser trocado.
 

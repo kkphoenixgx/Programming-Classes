@@ -1,29 +1,4 @@
 {
-  "editor:swap-line-up": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
-  "editor:swap-line-down": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
-  "command-palette:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "O"
-    }
-  ],
   "insert-template": [
     {
       "modifiers": [
@@ -33,34 +8,5 @@
       ],
       "key": "T"
     }
-  ],
-  "switcher:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "Tab"
-    }
-  ],
-  "workspace:previous-tab": [],
-  "table-editor-obsidian:format-all-tables": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod",
-        "Shift"
-      ],
-      "key": "F"
-    }
-  ],
-  "app:open-settings": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
-  "editor:save-file": []
+  ]
 }

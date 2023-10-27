@@ -1,31 +1,19 @@
 {
   "main": {
-    "id": "07485dbd37efd4be",
+    "id": "362856523237e38d",
     "type": "split",
     "children": [
       {
-        "id": "227746b948b4e159",
+        "id": "eeca50fd0b0b72a8",
         "type": "tabs",
         "children": [
           {
-            "id": "f0ebac872cf0c8c1",
+            "id": "66874bb02dbd3095",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavascriptTypescript/Angular/section15/Aula40.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9e8e02f62a5b81d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavascriptTypescript/Angular/section15/Aula39.md",
+                "file": "JavascriptTypescript/Angular/section18/Aula43.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "28561762e89f40f4",
+    "id": "b6ce88f6e0bd4d78",
     "type": "split",
     "children": [
       {
-        "id": "89efc12d950fe4f0",
+        "id": "4fc6f9cabee21e83",
         "type": "tabs",
         "children": [
           {
-            "id": "61b535711869a483",
+            "id": "187a0d4fa31bbe70",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,34 +43,7 @@
             }
           },
           {
-            "id": "04f8b46d3665510a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "bc83363142bd004b",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "8533d484f33c85b8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "8daf106071126953",
+            "id": "68d5a80e1d69b2a0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,284 +56,118 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "ce8345d1bf5f6957",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "79136a8f1aea59af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 256.5110321044922
   },
   "right": {
-    "id": "31bbf7ce70508d5b",
+    "id": "462ac8bc6231e0b1",
     "type": "split",
     "children": [
       {
-        "id": "d4324376b19c690a",
+        "id": "bde4818e7f420985",
         "type": "tabs",
-        "dimension": 52.03804347826087,
         "children": [
           {
-            "id": "f4edcc4708632d90",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-day",
-              "state": {}
-            }
-          },
-          {
-            "id": "878e5939c568b8f4",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:JavascriptTypescript/React",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5431473
-                      }
-                    },
-                    {
-                      "query": "path:JavascriptTypescript/Angular",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16752286
-                      }
-                    },
-                    {
-                      "query": "path:JavascriptTypescript/Typescript/DesignPatternsTypescript",
-                      "color": {
-                        "a": 1,
-                        "rgb": 2443441
-                      }
-                    },
-                    {
-                      "query": "path:JavascriptTypescript/Typescript",
-                      "color": {
-                        "a": 1,
-                        "rgb": 255
-                      }
-                    },
-                    {
-                      "query": "path:JavascriptTypescript/Node",
-                      "color": {
-                        "a": 1,
-                        "rgb": 165120
-                      }
-                    },
-                    {
-                      "query": "path:JavascriptTypescript/Electron",
-                      "color": {
-                        "a": 1,
-                        "rgb": 10990336
-                      }
-                    },
-                    {
-                      "query": "path:JavascriptTypescript/three.js",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16753152
-                      }
-                    },
-                    {
-                      "query": "path:\"JavascriptTypescript/Javascript vanilla\"",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711680
-                      }
-                    },
-                    {
-                      "query": "path:CSharp",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14899199
-                      }
-                    },
-                    {
-                      "query": "path:DevWeb",
-                      "color": {
-                        "a": 1,
-                        "rgb": 15662848
-                      }
-                    },
-                    {
-                      "query": "path:Bootcamps",
-                      "color": {
-                        "a": 1,
-                        "rgb": 0
-                      }
-                    },
-                    {
-                      "query": "path:Css-Sass",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5419488
-                      }
-                    },
-                    {
-                      "query": "path:Java/JavaVanilla",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11737369
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.275777747588643,
-                  "repelStrength": 11.2539057193316,
-                  "linkStrength": 1,
-                  "linkDistance": 294,
-                  "scale": 0.054703188817357626,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "9aa7f92b294cf9f2",
+            "id": "ca505d178bf98b90",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "40d2d66dfd876825",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f7e80c1e5839227c",
-        "type": "tabs",
-        "dimension": 47.96195652173913,
-        "children": [
-          {
-            "id": "a2b6f23c21b242a0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "file": "JavascriptTypescript/Angular/section18/Aula43.md"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "43fedd3221795cca",
+        "type": "tabs",
+        "children": [
           {
-            "id": "9c6a888ccf3e6667",
+            "id": "6b9d3a6ce31603fd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavascriptTypescript/Angular/section18/Aula43.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "18e4291c106f4ae0",
+            "id": "c6cc622a9de07300",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "JavascriptTypescript/Angular/section18/Aula43.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 295.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
-      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "18e4291c106f4ae0",
+  "active": "66874bb02dbd3095",
   "lastOpenFiles": [
-    "JavascriptTypescript/Angular/section15/Aula40.md",
+    "JavascriptTypescript/Angular/section17/Aula42.md",
+    "JavascriptTypescript/Angular/section18/Aula43.md",
+    "JavascriptTypescript/Angular/section18",
+    "JavascriptTypescript/Angular/section16/readMe.md",
+    "JavascriptTypescript/Angular/Dicionário Jasmine.md",
+    "JavascriptTypescript/Angular/section17",
+    "JavascriptTypescript/Angular/section16/AuthLogIn-Architeture.md",
+    "Bootcamps/Bootcamp- Impulso/Aulas/-Git-github/Aula2.md",
     "JavascriptTypescript/Angular/index Angular.md",
-    "Pasted image 20230714112833.png",
-    "Pasted image 20230714112810.png",
-    "JavascriptTypescript/Angular/section15/Aula39.md",
-    "Pasted image 20230714110954.png",
-    "Project notes/MySite.md",
-    "Project notes/Arquitetura Snake Game.md",
-    "JavascriptTypescript/Angular/img/Pasted image 20230711091325.png",
-    "JavascriptTypescript/Angular/img/Pasted image 20230711113755.png",
-    "JavascriptTypescript/Angular/img/Pasted image 20230711113405.png",
-    "JavascriptTypescript/Angular/img/Pasted image 20230711112902.png",
-    "JavascriptTypescript/Angular/img/Pasted image 20230711092849.png",
-    "JavascriptTypescript/Angular/section14/Aula37.md",
-    "JavascriptTypescript/Angular/section14/Aula38.md",
-    "JavascriptTypescript/Angular/section15",
-    "JavascriptTypescript/Angular/section14/Aula35.md",
-    "JavascriptTypescript/Angular/Section13/Aula28.md",
-    "JavascriptTypescript/Angular/Section13/Aula27.md",
-    "JavascriptTypescript/Angular/section14/Aula36.md",
-    "Project notes/Arquitetura Snake Game.sync-conflict-20230416-102639-675ZGCU.md",
-    "Project notes/randomStuff.md",
-    "Docker/readMe.md",
-    "Docker/Images.md",
-    "Docker/Containers.md",
-    "Docker/🛳 index Docker.md",
-    "Docker/dockerDiccionary.md",
-    "JavascriptTypescript/Nest.js/Instalação.md",
-    "JavascriptTypescript/Nest.js/🐯 IndexNest.md",
-    "JavascriptTypescript/Typescript/Typescript/Index of typescript.md",
-    "Prisma/𝜟 index Prisma.md",
-    "JavascriptTypescript/Nest.js/TypeORM/indexTypeORM.md",
-    "Prisma",
-    "SQL/💾 indexSQL.md",
-    "SQL/PostgreSQL",
-    "SQL",
-    "JavascriptTypescript/Nest.js/TypeORM",
-    "JavascriptTypescript/Node/Index node.md",
-    "JavascriptTypescript/Nest.js",
-    "Css-Sass/Sass",
-    "JavascriptTypescript/Angular/img/importaçãoDoConfigureTestingModule.png",
-    "JavascriptTypescript/Angular/img/Pasted image 20230611102821.png",
-    "Dart/-img",
-    "Dart/Flutter/-img",
-    "Dart/Flutter/Flame/-img"
+    "JavascriptTypescript/Angular/Section 3/Aula1.md",
+    "JavascriptTypescript/Angular/section15/Aula41.md"
   ]
 }

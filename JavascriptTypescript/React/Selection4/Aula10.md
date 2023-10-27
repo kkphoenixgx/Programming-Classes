@@ -1,6 +1,6 @@
 # Aula10
 2022-11-01
-tags: [[../Index react]]
+tags: [[../-Index react]]
 
 ## - Mod  - 44:
 

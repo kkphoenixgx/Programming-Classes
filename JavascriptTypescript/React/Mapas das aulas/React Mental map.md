@@ -4,7 +4,7 @@ excalidraw-plugin: parsed
 
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
-[Index react](../Index%20react.md)
+[-Index react](../-Index%20react.md)
 
 # Text Elements
 Components ^y52tWA2h

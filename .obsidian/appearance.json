@@ -1,7 +1,5 @@
 {
-  "cssTheme": "🔔 Chime",
-  "baseFontSize": 19,
-  "translucency": false,
-  "accentColor": "#4d0297",
-  "showViewHeader": true
+  "accentColor": "",
+  "cssTheme": "LYT Mode",
+  "baseFontSize": 23
 }

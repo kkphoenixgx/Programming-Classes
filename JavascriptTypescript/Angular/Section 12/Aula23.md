@@ -28,9 +28,11 @@ const routes :Routes = [
 
 O router full é para ele seguir com o processamento padrão de routes em rotas raiz, dessa forma, o roteamento via front-end fica bem enxuto em casos de realizar todo o back no front-end.
 
-## - Mod 74 -:  Rota Coringa e redirectTo
+Esse arquivo de rotas é criado usando o `ng new`
 
-podemos definir o path como " ** " (sem os espaços) e usar, ao invés do component, o redirectTo: 'path' para redirecionar para o path, entendendo que o path vai ser igual aos outros paths nos objetos, sem o / no começo
+## - Mod 74 -:  Rota Coringa e `redirectTo`
+
+podemos definir o path como " ** " (sem os espaços) e usar, ao invés do component, o `redirectTo: 'path'` para redirecionar para o path, entendendo que o path vai ser igual aos outros paths nos objetos, sem o / no começo
 
 ## - Mod 75 -: Navegação entre páginas  
 

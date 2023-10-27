@@ -6,3 +6,4 @@ tags:  #manage [[-Templates/Template]]
 
 <p style="display:flex; justify-content: end; text-align: right" > <i> phrase ~autor</i></p>
 
+
