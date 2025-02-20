@@ -1,0 +1,59 @@
+# Objetos Globais
+2023-05-20
+tags: [☕ Index Java](☕%20Index%20Java.md)
+
+## System
+
+### System.out
+
+Basicamente o que vai sair do sistema, e podemos usar os métodos:
+
+* **print(x)** = Imprime na tela x, sendo x um valor;
+	~~~java
+	public class exercicio1 {
+	
+		public static void main(String[] args) {
+				 System.out.println(x)
+		}
+	
+	}
+	~~~
+* **println(x)** = Imprime na tela x e depois disso pula uma linha;
+* **printf("staticY",x)** = Uma forma de impressão na tela que pode receber concatenações;
+	* Podemos usar alguns argumentos por string no método printf para definirmos como x vai ser apresentado. No exemplo abaixo, a saída é 10.12   pois é 10.123, menos que 5, e pedimos duas casas decimais em "%.2f%n", então, arredondamos para 10.12
+		Desse modo, existe uma lógica por trás desse *staticY*:
+		* **%n** ou **/n** = usado junto para pular linha 
+		* **%f** = marcador de variavel para *ponto flutuante* dentro de sting
+		* **%d** = marcador de variavel para *inteiro* dentro de string
+		* **%s**  = marcador de variavel para *string* dentro de sting
+	 ~~~java
+		public class exercicio1 {
+
+			public static void main(String[] args) {
+			 double x = 10.123456;
+			 System.out.printf("%.2f%n" , x );
+			}
+			
+		}
+	  ~~~
+
+![](img/Pasted%20image%2020230520172135.png)
+
+## Locale
+
+**Locale.setDefault(Locale.ourLocale)** = Para adicionar formatação por localidade.
+
+
+
+
+
+
+## Math
+
+| **Uso**                   | **descrição**                                  |
+| ------------------------- | ---------------------------------------------- |
+| `int a = Math.sqrt(x)`    | Variável a recebe a raiz quadrada de x         |
+| `int a = Math.pow (x, y)` | Variável A recebe o resultado de x elevado a y |
+| `int a = Math.abs(x)`     | Variável A recebe o valor absoluto de x        |
+
+

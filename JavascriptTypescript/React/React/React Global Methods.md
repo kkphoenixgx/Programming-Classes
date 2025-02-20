@@ -1,0 +1,2 @@
+# React Global Methods
+

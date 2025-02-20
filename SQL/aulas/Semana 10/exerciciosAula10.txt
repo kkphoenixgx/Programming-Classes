@@ -1,0 +1,42 @@
+use baseagregacao;
+
+/*Lista de Exercícios n° 5*/
+use basevendasv2; 
+-- 1)Listar o nome do cliente e a data da venda de todas as vendas com valor acima da média
+-- cliente, venda 
+
+select cliente.nome, venda.data_venda from cliente join venda on(cliente.id = venda.cliente_id) where valor_total > (select avg(valor_total) from venda );
+
+
+-- 2) Listar o nome do(s) produto(s) mais caro(s)
+
+select * from produto where preco_custo > (select avg(preco_custo) from produto );
+
+-- 3) Listar o nome dos fornecedores ( apenas 1 de cada ) que tiverem produtos com estoque acima da média 
+-- vendidos no ano de 2006.
+-- produto, fornecedor, produto_vendido, venda
+
+
+select DISTINCT nome from fornecedor join produto on(fornecedor.id = produto.fornecedor_id) join produto_vendido on(produto.id = produto_vendido.produto_id) join venda on(venda.id = produto_vendido.venda_id) where produto.estoque > (select avg(estoque) from produto) and venda.data_venda >= "2006/01/01";
+
+ 
+-- 4) Construa uma consulta que retorne os anos(somente um de cada) em que houve cadastro de clientes. 
+
+select distinct substring(data_cadastro, 1, 4) as data_cadastro from cliente;
+
+
+-- 5) Escreva os comandos para:
+-- a.	Mostrar a estrutura da tabela produto:
+describe produto;
+show columns from produtos;
+
+-- b.	Excluir a tabela produto:
+delete from produto;
+
+-- 6) Construa uma consulta que:
+-- c.	 retorne todos os clientes cujo nome termine com 'SILVA':
+select * from cliente where cliente.nome like '% Silva';
+
+-- d.	todos os clientes cujo nome começa com 'MARIA'
+select nome from cliente where cliente.nome like 'Maria%';
+

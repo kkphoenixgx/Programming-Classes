@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731373806 source:c:\users\aluno\downloads\exerciciosdoisdois\main.c
+	<stdio.h>
+	<stdlib.h>
+

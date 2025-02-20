@@ -1,0 +1,43 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
+typedef struct IPilha{
+    char * vector;
+    int currentSize;
+    int maxSize;
+} Pilha;
+
+typedef struct IFila{
+    char * vector;
+    int currentSize;
+    int maxSize;
+} Fila;
+
+// Pilha
+
+char * createPile( Pilha * pile, int length){
+        pile->vector = (char *)malloc(sizeof(char) * length);
+        pile->maxSize = length;
+        pile->currentSize = -1;
+}
+
+pile->vector
+int main()
+{
+    Pilha line;
+    int length;
+
+    printf("Digite a quantidade de characters \n");
+    scanf("%d", &length);
+
+    createPile(&line.vector, length);
+
+    gets(line.vector);
+
+    printf("%s", line.vector);
+
+    free(line.vector);
+
+    return 0;
+}
