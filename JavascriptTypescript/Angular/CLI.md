@@ -2,26 +2,21 @@
 2024-08-19
 tags: [[index Angular]]
 
-Instala o node e a cli do angular.
+## instalando o Angular
+[ fonte: /home/kkphoenix/Documents/Programação/JavascriptTypescript/Angular/v16/Section 3/Aula1.md ]
 
-Node:
-> `winget install OpenJS.NodeJS.LTS`
+1. Npm básico de cria;
+2. npm install -g @angular/cli ← Baixar o cli do Angular]
+3. ng new folder-app → Seleciona y para o routing → Seleciona scss se quiser usar o sass
+4. ng s ← começa o projeto no localhosting.
 
-Ou pode [instalar como um mero mortal](https://nodejs.org/en/download/prebuilt-installer)
+## como dar build no angular e como gerar componentes
+[ fonte: /home/kkphoenix/Documents/Programação/JavascriptTypescript/Angular/v16/Section 3/Aula2.md ]
 
-CLI:   
-`npm install -g @angular/cli@latest`  
+> **ng build** ou *ng b* → Dá build nos arquivos, faz a aplicação...
 
-Olha os comandos:
-> `ng help`
+Para setar variáveis de ambiente com o build, mais especificamente, para dar deploy para um ambiente, simplesmente se usa uma flag com o nome do ambiente: **ng b --nomeDoAmbiente**. Contudo, não se usa variáveis de ambiente constantemente, usa-se em casos especificos, como uma alteração especifica para uma homolagação¹*.
 
-Gerando com a cli:
-> `ng generate <algo>` | `ng g <algo>` 
-> `ng g component folder/componentName`
-> Veja mais com `ng g help` 
+> O angular já compila o ts automaticamente na produção.
 
-Rodando com a cli:
-> `ng serve`
-
-Buildando:
-> `ng build`
+No angular, podemos criar componentes ou outros via **ng generate x** sendo x o que você quer gerar; Exemplo ng generate component ou **ng g c componentName** sendo componentName também o nome da pasta do componente, me lembra um pouco os packages do java
