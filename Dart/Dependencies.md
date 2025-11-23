@@ -1,6 +1,6 @@
 # Dependencies
 2023-06-10
-tags: [indexDart](indexDart.md)
+tags: [📱 indexDart](📱%20indexDart.md)
 
 When we talk about dependencies in dart, we have to understand that every dependency of your code will be written in `pubspec.yaml` and managed by Dart package manager called "pub.". Here is an exemple of a flutter app base `pubspec.yaml`:
 

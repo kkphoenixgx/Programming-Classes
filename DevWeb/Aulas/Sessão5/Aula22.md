@@ -1,6 +1,6 @@
 # Responsivo
 2022-06-10
-tags: [[../../ReadMe]]
+tags: [[DevWeb/index]]
 
 ## Desenvolvimento
 

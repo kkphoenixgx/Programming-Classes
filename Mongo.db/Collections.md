@@ -1,6 +1,6 @@
 # Collections
 2024-05-27
-tags: [[🍃 Index Mongo.db]]
+tags: [[🍃 indexMongo.db]]
 
 A collection is a array of objects
 

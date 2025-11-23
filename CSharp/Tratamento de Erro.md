@@ -1,6 +1,6 @@
 # Tratamento de Erro
 Criado em: 2023-04-02
-tags: [-Index CSharp](-Index%20CSharp.md)
+tags: [🖲️ IndexCSharp](🖲️%20IndexCSharp.md)
 
 ## try catch finally
 

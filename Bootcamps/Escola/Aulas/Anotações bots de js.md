@@ -2,7 +2,7 @@
 2022-09-29
 tags: [[../Index]]
 
-![[../Inicianção de projetos]]
+![[Inicianção de projetos.excalidraw.png]]
 
 -----------------------------------------------
 ## Bibliografia

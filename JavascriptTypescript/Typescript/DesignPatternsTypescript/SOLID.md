@@ -90,7 +90,7 @@ notification.sendEmail();
 Alterar a classe A faz a B e a C quebrarem ou precisarem de muidanças;
 Implementar sem danificar a estrutura base de A, faz B e C terem mais novas possíveis funcionalidades e não serem danificadas.
 
-É interessante que, caso exijam uda implementação que mude a classe A, crie uma classe D que receba essa funcionalidade, uma nova regra de negócio talvez que encapsule essa nova funcionalidade, como uma API.
+É interessante que, caso exijam uma implementação que mude a classe A, crie uma classe D que receba essa funcionalidade, uma nova regra de negócio talvez que encapsule essa nova funcionalidade, como uma API.
 
 No caso de precisar criar "subcategorias", é sempre melhor ter derivados de abstrações, é sempre melhor ter uma classe que deriva várias outras... No caso de um veículo, você cria a abstração veiculo, diz as regras de negócio que todos os veículos vão seguir e cria os veículos. Dessa forma, fica mais fácil para a extensão de novos veículos.
 
@@ -139,3 +139,7 @@ card.collectPayment()
 ~~~
 
 Não importa a forma que você vá pagar, como todos os métodos de pagamentos são derivados de um único lugar, todos eles podem fazer o que o pai faz, todos eles têm os métodos: `verifyPayment()` e `collectPayment()`
+
+## D = DIP -  Dependency Inversion Principle
+
+

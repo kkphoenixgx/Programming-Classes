@@ -1,6 +1,6 @@
 # PHP Variables
 2024-11-01
-tags: [[-IndexPhp 🐘]]
+tags: [[🐘 indexPHP]]
 
 To create a variable, just use `$<variableName>`. Php is not case sensitive and is dynamic, as javascript, so types are on run.
 

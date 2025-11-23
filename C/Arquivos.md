@@ -1,6 +1,6 @@
 # Arquivos
 2024-06-04
-tags: [[-IndexC]]
+tags: [[🦖 index C]]
 
 ## Armazenamento em binário
 

@@ -1,6 +1,6 @@
 # Comandos SQL
 2024-10-08
-tags: [[💾 indexSQL]]
+tags: [[💾 indexSql]]
 
 **DML** = Data Manipulation Language - INSERT, DELETE, UPDATE
 

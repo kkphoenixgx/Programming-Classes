@@ -1,6 +1,6 @@
 # CRUD
 2025-02-15
-tags: [[💿 aws_index]]
+tags: [[💿 indexAWS]]
 
 Base code:
 

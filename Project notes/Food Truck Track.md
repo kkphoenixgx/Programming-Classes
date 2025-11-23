@@ -1,6 +1,6 @@
 # Food Truck Track
 2024-01-03
-tags: #project
+tags: [[📙 indexProjectNotes]]
 
 ![[Pasted image 20240103184014.png]]
 

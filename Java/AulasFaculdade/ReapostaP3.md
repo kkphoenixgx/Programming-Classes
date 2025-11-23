@@ -1,6 +1,6 @@
 # ReapostaP3
 2025-02-12
-tags: [[☕ Index Java]]
+tags: [[☕ indexJava]]
 
 ## Questão: 
 

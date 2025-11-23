@@ -1,8 +1,10 @@
 # Images
 2023-04-29
-tags: [🛳 index Docker](🛳%20index%20Docker.md)
+tags: [🛳️ indexDocker](🛳️%20indexDocker.md)
 
 Docker images are how you struct such containers, who set up the environment.
+
+* You can run `docker images` to see your images.
 
 ## Using an existing image 
 
@@ -36,6 +38,16 @@ Run **docker build .** -> . is the path to the Dockerfile, generally we are
 
 And it will use the node base image to create our image as we said in line 1
 
+You can also run `docker build . -t <ImageName>` to give this image a name.
+
+## Deleting images
+
+`docker rmi <image>`. `<image>` can be a id or a name:tag
+
+Or you can use:
+
+> `docker image prune -a`
+
 ## Tagging images
 
 To images, we don't have names as we do in containers, here, tags are image's names.
@@ -49,9 +61,9 @@ And, to add it, you can run:
 
 And this means you can use `<tag>` instead of `<imageId>`
 
-### Understanding the Dockerfile
+### Understanding the `Dockerfile`
 
-The point of understanding the Dockerfile is to dive deep into details of the image, be aware of what is happening in the container's creation and create our own images....
+The point of understanding the `Dockerfile` is to dive deep into details of the image, be aware of what is happening in the container's creation and create our own images....
 
 #### Code Explanation
 
@@ -186,3 +198,26 @@ CMD ["node", "serverFile.js"]
 Our code is also part of the image.
 
 ![](img/Pasted%20image%2020230521100552.png)
+
+## Sharing images
+
+There is two ways of sharing images, sharing `Dockerfile` and sharing the image already created 
+
+![[SharingImagesDocker.png]]
+
+### setting up account
+
+Create your account in docker hub. Then, run `docker login -u <username>` to login in command line
+### push and pull images
+
+To push the image, the `<ImageName>` has to be the same as the repository. If you already have images, you can use `docker tag <ImageName>:<tagname> <userName>/<repoName>` to rename your tag
+and then `docker push <userName>/<repoName>` to push to Docker Hub.
+
+You can also run `docker pull <user>/` to pull from Docker Hub. Actually, everyone can download it even if you are not logged in, you just need to be logged in when pushing.
+
+* create a repository in docker hub
+
+## Using Shared Images
+
+When you update a image to docker hub, you need to pull it again.
+

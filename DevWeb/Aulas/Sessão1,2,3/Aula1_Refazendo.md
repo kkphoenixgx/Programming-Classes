@@ -5,7 +5,7 @@ começando a reescrever em 28/05/21
 
 ---------------------------------------------------------------------------------------------
 mod 2                                                                                                    30/03/20
-[ReadMe](../../ReadMe.md)
+[index](DevWeb/index.md)
 
 -Sobre a profissão de front end (cuida da imagem) X back end (que
 cuida dos códigos) que antes eram os web masters e os web de-

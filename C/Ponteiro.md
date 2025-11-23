@@ -1,6 +1,6 @@
 # Ponteiro
 2024-03-05
-tags: [[-IndexC]]
+tags: [[🦖 index C]]
 
 
 Variável cujo o conteúdo é uma alocação na memória

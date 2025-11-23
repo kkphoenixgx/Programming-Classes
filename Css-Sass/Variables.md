@@ -1,6 +1,18 @@
 # Variables
 2024-08-19
-tags: [[-Index Css-Sass]]
+tags: [[🎨 -indexSaasCss]]
+
+In pure CSS:
+
+```css
+:root{
+	--light-green: #7ed56f;
+}
+
+.someRandomClass{
+	background-color: var(--light-green);
+}
+```
 
 Look 🤠:
 

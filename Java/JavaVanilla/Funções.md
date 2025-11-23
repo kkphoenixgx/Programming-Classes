@@ -1,6 +1,6 @@
 # Funções
 2024-06-05
-tags: [[☕ Index Java]], [[Classes]]
+tags: [[☕ indexJava]], [[Classes]]
 
 Funções só acontecem como métodos de classes, tirando a `main`, java não é funcional. Então vamos tratar aqui dos métodos.
 

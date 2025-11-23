@@ -1,6 +1,6 @@
 # Structs
 2024-03-19
-tags: [[-IndexC]]
+tags: [[🦖 index C]]
 
 Exemplo de struct:
 

@@ -1,6 +1,6 @@
 # Casts
 2024-03-05
-tags: [[-IndexC]]
+tags: [[🦖 index C]]
 
 ![[Screenshot_20240305_183157_Teams.jpg]]
 

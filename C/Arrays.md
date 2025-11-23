@@ -1,6 +1,6 @@
 # Arrays
 2024-03-26
-tags: [[-IndexC]]
+tags: [[🦖 index C]]
 
 
 ```c

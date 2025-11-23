@@ -34,7 +34,7 @@ Toda criação ao software, terá precedência de erros que terão que ser resol
 
 As importações nos imports do `configureTestingModule` **não passam as dependências automaticamente, os testes dos dependentes do componente que possuí a importação devem ter a importação também.**
 
-![importaçãoDoConfigureTestingModule](importaçãoDoConfigureTestingModule.md)
+![importaçãoDoConfigureTestingModule.png](importaçãoDoConfigureTestingModule.excalidraw.png)
 
 -----------------------------------------------
 ## Bibliografia

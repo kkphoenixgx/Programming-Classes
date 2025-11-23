@@ -1,5 +1,5 @@
 # jQuery Selectors
-[ReadMe](../../ReadMe.md)
+[index](DevWeb/index.md)
 
 Mod 34 -- **10/08/21**
 

@@ -1,6 +1,6 @@
 # Arrays
 2024-11-01
-tags: [[-IndexPhp 🐘]]
+tags: [[🐘 indexPHP]]
 
 ```php
 $array = array("1", '2', '3', 4, 5)

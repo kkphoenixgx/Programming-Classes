@@ -1,5 +1,5 @@
 # Preparando ambiente vídeo
-[ReadMe](../../ReadMe.md)
+[index](DevWeb/index.md)
 
 Mod 36 -- **06/01/22** feito em **08/01/22**
 

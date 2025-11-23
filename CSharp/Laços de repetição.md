@@ -1,6 +1,6 @@
 # Estruturas de repetição
 Criado em: 2023-03-26
-tags: [-Index CSharp](-Index%20CSharp.md)
+tags: [🖲️ IndexCSharp](🖲️%20IndexCSharp.md)
 
 ~~~cs
 for(int i = 0; i <= 10; i++)

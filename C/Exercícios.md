@@ -1,4 +1,4 @@
-[[-IndexC]]
+[[🦖 index C]]
 
 ```c
 #include <stdio.h>

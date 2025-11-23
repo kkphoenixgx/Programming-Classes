@@ -1,6 +1,6 @@
 # Matrizes
 2024-06-05
-tags: [[☕ Index Java]]
+tags: [[☕ indexJava]]
 
 Uma matriz é nada mais nada menos que dois vetores :). Arranjos bidimensionais, 
 

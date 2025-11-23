@@ -1,6 +1,6 @@
 # .NET
 2023-03-22
-tags:  [-Index CSharp](../-Index%20CSharp.md)
+tags:  [🖲️ IndexCSharp](🖲️%20IndexCSharp.md)
 
 .Net é uma plataforma de desenvolvimento unificado, já o C# é a linguagem
 
@@ -19,3 +19,5 @@ O **NuGet** é o package manager em .Net, ele tem mais de 90.000 packages
 Um transpilador compila para uma outra linguagem, enquanto o compilador compila para uma linguagem intermediária que vai ser executada e em execução será compilada para linguagem de máquina 
 
 No c#, usamos a extensão cs para criar os arquivos e usamos também a csproj para metadados em XML
+
+

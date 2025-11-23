@@ -1,6 +1,6 @@
 # Containers
 2023-04-29
-tags: [🛳 index Docker](🛳%20index%20Docker.md)
+tags: [🛳️ indexDocker](🛳️%20indexDocker.md)
 
 Containers are virtual containers that encapsulates some app or some process, databases... Some kind of production that will be running in the container's environment  
 
@@ -9,8 +9,6 @@ Containers are virtual containers that encapsulates some app or some process, da
 To run our container, we need a image, check how to create one in [Create a Image](Images.md#Create%20a%20Image)
 
 With *imageId*, what is displayed in the  last line of `docker build .` like it: "Successfully built *d2cc7b04fb0a*" we can create our container with the image just running: **docker run imageId**. However, since our container has a port to connect, we publish **docker run -p 3000:80 imageId** to fully connect our local port to the container port.
-
-And, to shut down a container, we can run `docker ps` to show the containerName and shut down it running **docker stop containerName**
 
 ### Util note:
 
@@ -30,6 +28,18 @@ This applies to ALL Docker commands where IDs are needed.
 
 ~ [udemy lecture course's note](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/learn/lecture/22181376#overview)
 
+### Run and remove container 
+
+> `docker run -p 8000:3000 --rm <image>`
+
+
+## Stopping containers
+
+And, to shut down a container, we can run `docker ps` to show the containerName and shut down it running **docker stop containerName**
+
+###  starting a stopped container
+
+> `docker start <containerName>`
 
 ## Naming a container
 

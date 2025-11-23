@@ -1,6 +1,6 @@
 # Variáveis
 2023-05-20
-tags: [☕ Index Java](☕%20Index%20Java.md)
+tags: [☕ indexJava](☕%20indexJava.md)
 
 Para definirmos uma variável em java, usamos essa estrutura abaixo. Onde `type` é o tipo da variável, `name` o nome dela e `value` o seu valor. 
 

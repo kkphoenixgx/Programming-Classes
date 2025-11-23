@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "2c18239d8b2f7f50",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3e2196e2d8625ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b8b1f6f27d00b6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/dockerDiccionary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dockerDiccionary"
+            }
+          },
+          {
+            "id": "ce9703709650f01f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/aulas/Aula6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula6"
+            }
+          },
+          {
+            "id": "f3c3eeb3f7bd7db8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/aulas/Aula6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula6"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0abd26fb2e7dcfe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1301508db83bbc26",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "006422f3ed41ce7a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "e3739135d6aaa6fc",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "5b2898eec25e9a39",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b0bc91ea73c1f38a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "03939d05ac4c394d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "SQL/aulas/Aula6.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "09626c182074e822",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "SQL/Pdf/01-CONCEITOS BASICOS.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "f6f4fd4e5c77ecf7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "SQL/Pdf/01-CONCEITOS BASICOS.pdf"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "f3c3eeb3f7bd7db8",
+  "lastOpenFiles": [
+    "Java/AulasFaculdade/ReapostaP3.md",
+    "SQL/aulas/Aula6.md",
+    "Prisma/𝜟 index Prisma.md",
+    "SQL/💾 indexSQL.md",
+    "Docker/readMe.md",
+    "Docker/dockerDiccionary.md",
+    "SQL/aulas/Drawing 2025-01-28 18.34.14.excalidraw.md",
+    "Docker/🛳 index Docker.md",
+    "Docker/Managing Containers and Images.md",
+    "Docker/Container Environment Interaction.md",
+    "Docker/Containers.md",
+    "Java/JavaVanilla/Arrays e Listas.md",
+    "JavascriptTypescript/Typescript/Typescript/Selection9e10/Aula29-Mixins.md",
+    "JavascriptTypescript/Typescript/Typescript/Selection11/Aula32.md",
+    "JavascriptTypescript/Typescript/Typescript/Selection12/Aula33.md",
+    "JavascriptTypescript/Typescript/Typescript/Index of typescript.md",
+    "JavascriptTypescript/Typescript/ReadMe.md",
+    "JavascriptTypescript/Node/APIS externas/Express.md",
+    "Java/ReadMe.md",
+    "C/-IndexC.md",
+    "C/Ponteiro.md",
+    "C/Variáveis.md",
+    "C/Structs.md",
+    "C/Leitura e saída de dados cli.md",
+    "C/Casts.md",
+    "C/Arrays.md",
+    "SQL/Pdf/01-CONCEITOS BASICOS.pdf",
+    "SQL/Pdf/02-CONCEITOS INTERMEDIARIOS.pdf",
+    "SQL/Pdf/BancoDeDadosCefetGraduacao.pdf",
+    "SQL/dbs_aulas",
+    "SQL/Nova Pasta",
+    "SQL/empresa_kaua_127_0_0_1.sql",
+    "SQL/cinecefet.sql",
+    "SQL/aula3.txt",
+    "SQL/aulas",
+    "20241022_191440.jpg",
+    "20241022_184249.jpg",
+    "Screenshot_20241022_182959_Obsidian.jpg",
+    "20241008_205642.jpg",
+    "20241008_205027.jpg",
+    "20241008_202925.jpg",
+    "Screenshot_20241008_185730_Teams.jpg",
+    "SQL/img/20240305_190759.jpg",
+    "SQL/Pdf",
+    "20240305_190423.jpg",
+    "Screenshot_20240305_184151_Teams.jpg"
+  ]
+}

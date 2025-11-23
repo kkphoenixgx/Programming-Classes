@@ -1,6 +1,6 @@
 # Operadores
 Criado em: 2023-03-24
-tags: [-Index CSharp](-Index%20CSharp.md)
+tags: [🖲️ IndexCSharp](🖲️%20IndexCSharp.md)
 
 Utilize y= 3 e  z= 2 para os exemplos e x como uma variável sem valor.
 

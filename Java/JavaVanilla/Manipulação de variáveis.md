@@ -1,13 +1,13 @@
 # Manipulação de variáveis
 2024-06-05
-tags: [[☕ Index Java]]
+tags: [[☕ indexJava]]
 
 ## Strings
 
 - **Formatar**
 	- `trim()` = "Tirar os espaços";
-	- `toLowerCase()` = "Transformar para Maiusculo";
-	- `toUpperCase()` = "Para maiusculo";
+	- `toLowerCase()` = "Transformar para Maiúsculo";
+	- `toUpperCase()` = "Para maiúsculo";
 	```java
 	String originalString =  "Tudo minúsculo";
 	

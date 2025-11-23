@@ -1,0 +1,24 @@
+tags: [[SQL/aulas/index|index]]
+
+select count() as result from table;
+
+count(*) = contabiliza null
+count(<campo>) = n�o contabiliza null
+count( distinct <campo>) = n�o contabiliza null e contabiliza apenas distintos
+
+select count(x) as result from table where x not like '% %';
+
+
+select sum(<campo>) as result from table;
+
+select avg(<campo>) as result from table;
+
+select max(<campo>) as result from table;
+
+select min(<campo>) as result from table;
+
+
+select * from table where estoque > (select min(<valor>) from table)
+
+
+

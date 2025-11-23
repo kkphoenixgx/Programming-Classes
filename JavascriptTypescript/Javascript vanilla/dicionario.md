@@ -607,3 +607,31 @@ exemplos :
 	~~~js
 	text.replace(/-(\w)/g, (m, p1) => p1.toUpperCase())
 	~~~
+
+## Imports
+
+**Taking the best of CDNs**: Modules Loaded from Remote Sources ES2015+ also supports remote modules (e.g., third-party libraries), making it simplistic to load modules from external locations. Here’s an example of pulling in the module we defined previously and utilizing it: 
+	```js
+	import { cakeFactory } from "https://example.com/modules/cakeFactory.mjs"; 
+	```
+
+Dynamic import introduces a new function-like form of import. import(url) returns a promise for the module namespace object of the requested module, which is created after fetching, instantiating, and evaluating all of the module’s dependencies, as well as the module itself. Here is an example that shows dynamic imports for the cakeFactory module:
+
+```js
+form . addEventListener ( "submit" , e => {
+	e . preventDefault ();
+	import ( "/modules/cakeFactory.js" )
+	  .then ( ( module ) => { 
+		// Do something with the module. 
+		module.oven.makeCupcake ( "sprinkles" ); 
+		module.oven.makeMuffin ( "large" ); 
+	  }); 
+});
+```
+
+Dynamic import can also be supported using the await keyword:
+
+```js
+let module = await import ( "/modules/cakeFactory.js" );
+```
+

@@ -1,6 +1,6 @@
 # Functions
 2024-11-01
-tags: [[-IndexPhp 🐘]]
+tags: [[🐘 indexPHP]]
 
 ```php
 function someFunc($a, $b){

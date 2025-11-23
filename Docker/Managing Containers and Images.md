@@ -34,11 +34,17 @@ And to lovers of `docker start command`, because it's easier to remmember, we ca
 
 To summarize most important things:
 
-![[mannagingContainers1]]
+![[mannagingContainers1.excalidraw.png]]
+
+To stop, `docker stop <id>`
 
 ## Interactive mode 
 
 Well, to insert data or interact with te terminal somehow, attached mode is not sufficient, so, we use `-i` to enter interactive mode and be able to input data. And, to be able to see the usual terminal interface as we input data and etc, we use `-t`. Therefore, to interact with the container, we now can combine flags and use  `-it` flag to interact with te container.
+
+```
+docker exec -it java-app bash
+```
 
 ## Remmoving containers and Images
 
@@ -51,3 +57,6 @@ To show all your images, you can use `docker images` command. Futhermore, if you
 And, you can remmove a image by running `docker rmi <imageNames>`, also separeted by spaces. However, you can only delete images that are not being used by any container.
 
 Futhermore, if you want to delete all images, you have to use `docker image prune`
+
+if you want to completelly delete all your containers:
+`docker container prune`

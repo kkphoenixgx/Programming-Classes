@@ -1,6 +1,6 @@
 # Schema
 2024-04-16
-tags: [[🍃 Index Mongo.db]]
+tags: [[🍃 indexMongo.db]]
 
 Schema, in Mongo.db, is a synonimous to a database. To create such a schema you can use the command:
 

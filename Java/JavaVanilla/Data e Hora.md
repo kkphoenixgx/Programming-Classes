@@ -1,6 +1,6 @@
 # Data e Hora
 2024-06-06
-tags: [[☕ Index Java]]
+tags: [[☕ indexJava]]
 
 Em java, a data-hora será dividida em local e global, você vai usar a local quando não for precisar de conversão para mostrar para outros usuários e global quando for necessário o mesmo. Lembrando que isso vai se fazer mais necessário quando você tiver lidando com hora...
 

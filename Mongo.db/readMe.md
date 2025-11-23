@@ -1,6 +1,6 @@
 # Mngo.db
 2023-05-10
-tags: [🍃 Index Mongo.db](🍃%20Index%20Mongo.db.md)
+tags: [🍃 indexMongo.db](🍃%20indexMongo.db.md)
 
 ```dataview
 TABLE

@@ -6,10 +6,8 @@
 
 Bem vindo as minhas notas! Eu comecei a estudar na v16, o que significa que minhas primeiras aulas foram na v16, por isso na pasta v16, vocês irão encontrar notas escritas aula-x. E, com o decorrer do tempo, eu mudei como escrevia notas para uma organização mais conteudista, por isso somente a v16 tá em uma pasta separada.
 
-## Angular V17
 
-
-## Angular V16
+## Index explained 
 ### Introdutório
 
 | Aula                                                             | Recurso(s)                                                                                           | Assunto(s)                                                                               |
@@ -83,5 +81,3 @@ Menção honrosa a aula 31 que dá uma dica incrível sobre selecionar dinamicam
 | Aula                           | Assunto(s)       |
 | -----------------------------  | ---------------- |
 | [Aula26](JavascriptTypescript/Angular/v16/Section13/Aula26.md) | Pokédex App |
-
-

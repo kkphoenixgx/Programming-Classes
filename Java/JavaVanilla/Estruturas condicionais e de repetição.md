@@ -1,6 +1,6 @@
 # Estruturas condicionais e de repetição
 2024-05-27
-tags: [[☕ Index Java]]
+tags: [[☕ indexJava]]
 
 ## If
 

@@ -1,5 +1,5 @@
 # Operadores
-tags: [indexDart](indexDart.md)
+tags: [📱 indexDart](📱%20indexDart.md)
 
 Note:   **pipe = |**
 

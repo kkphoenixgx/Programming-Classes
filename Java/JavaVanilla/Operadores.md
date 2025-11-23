@@ -1,6 +1,6 @@
 # Operadores
 2024-06-05
-tags: [[☕ Index Java]]
+tags: [[☕ indexJava]]
 
 
 ![[Pasted image 20240605071018.png]]

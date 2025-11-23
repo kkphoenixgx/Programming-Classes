@@ -1,6 +1,6 @@
 # Classes
 Criado em: 2023-03-22
-tags: [-Index CSharp](-Index%20CSharp.md)
+tags: [🖲️ IndexCSharp](🖲️%20IndexCSharp.md)
 
 Um exemplo simples de uma classe com atributos e métodos, perceba que classes em c# possuem namespaces 
 

@@ -1,6 +1,6 @@
 # Arrays e Listas
 2024-05-27
-tags: [[☕ Index Java]]
+tags: [[☕ indexJava]]
 
 ## Arrays
 
@@ -61,8 +61,6 @@ public static void main(String[] args) throws Exception{
 ```
 
 ## Collections
-
-Vetores referencia são collections, como conhecido no javascript, mas a nível java, as pequenas diferenças fazem muita diferença, em javascript também mas mais a nível de entendimento e desempenho que o java, já que é fortemente tipada, a vida fica muito mais complexa.
 
 Em java, fazemos o processo em partes declarando primeiramente a quantidade de itens do vetor e adicionando os itens depois.
 

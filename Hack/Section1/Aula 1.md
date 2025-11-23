@@ -1,6 +1,6 @@
 # Aula 1
 2022-12-05
-tags: [💻 index cybersecurity](../💻%20index%20cybersecurity.md)
+tags: [🧑‍💻 indexCybersecurity](🧑‍💻%20indexCybersecurity.md)
 
 ## Cyber-atack chain
 

@@ -1,6 +1,6 @@
-# Aula6
+# Aula 6
 2025-01-28
-tags: [[💾 indexSQL]]
+tags: [[SQL/aulas/index|index]]
 
 ~~~sql
 SET @valor = 1000

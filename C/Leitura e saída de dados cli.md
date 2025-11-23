@@ -1,6 +1,6 @@
 # Leitura e saída de dados
 2024-02-29
-tags: [[-IndexC]]
+tags: [[🦖 index C]]
 
 ## Saída de dados
 

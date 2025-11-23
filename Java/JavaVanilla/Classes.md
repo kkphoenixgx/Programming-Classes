@@ -1,6 +1,6 @@
 # Classes
 2024-06-05
-tags: [[☕ Index Java]]
+tags: [[☕ indexJava]]
 
 *Definimos uma classe como uma Interface para um objeto*. Uma *interface*, é um conjunto de normas que algo deve seguir, como por exemplo, `int x;`, `int` é uma interface para `x`, ou seja, estamos falando que essa variável `x` deve seguir as regras definidas em `int`. Dessa forma, `x` deve conter um numero dentro do range dos `int`s e deve também ter  [todo o kit](https://docs.oracle.com/javase/8/docs/api/java/lang/Integer.html) de **atributos** e **métodos** que `int` possui, como o método `byteCount(x)`, que retorna o número de bits de `x`, ou o `size` que é um atributo que retorna o tamanho. Portanto, podemos entender que **métodos** são *processos* que acontecem em uma classe e **atributos** são *valores* que pertencem à uma classe.   
 Desse modo, podemos entender boa parte dos recursos em java. E uma classe nada mais é do que uma interface que será aplicada a um *objeto*, que é uma implementação, uma **instanciação**, de uma interface.

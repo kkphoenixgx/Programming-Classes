@@ -1,6 +1,6 @@
 # Variáveis
 Criado em: 2023-03-22
-tags: [-Index CSharp](-Index%20CSharp.md)
+tags: [🖲️ IndexCSharp](🖲️%20IndexCSharp.md)
 
 > string teste = "entendo";
 

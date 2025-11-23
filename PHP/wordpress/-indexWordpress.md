@@ -1,6 +1,6 @@
 # Wordpress
 2024-11-01
-tags: [[-IndexPhp 🐘]]
+tags: [[🐘 indexPHP]]
 
 Wordpress is a framework that manages backend to you and makes development pretty simple. It is pretty cool actually, do not take it as bullshit, it is fun to learn and a lot of companies, small startups, small business or even companies uses it, it will surly make you some money as freelancer...
 

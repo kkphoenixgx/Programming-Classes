@@ -1,6 +1,6 @@
 # Lambda
 2024-05-27
-tags: [[☕ Index Java]]
+tags: [[☕ indexJava]]
 
 Lambda, Lambda, Lambda, Lambda Nerds, eu tinha que fazer isso kkkkkkkkkk...
 Bom, a Lambda no Java é uma expressão modelável de uma que possui uma variável abstrata que vai variar de acordo com o ambiente... Parece confuso mas é incrível, olha o exemplo de uma filtragem e não se assusta com o primeiro contato, é bem simples:

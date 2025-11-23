@@ -1,6 +1,6 @@
 # Namespaces
 Criado em: 2023-03-23
-tags: [-Index CSharp](-Index%20CSharp.md)
+tags: [🖲️ IndexCSharp](🖲️%20IndexCSharp.md)
 
 Para usarmos namespaces e assim importar e exportar classes, etc, devemos definir o namespace. Para definirmos o namespace, basta colocar *namespace (namespaceName)*, exemplo:
 

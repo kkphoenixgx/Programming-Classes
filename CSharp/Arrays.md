@@ -1,6 +1,6 @@
 # Arrays
 Criado em? 2022-12-16
-tags: [-Index CSharp](-Index%20CSharp.md)
+tags: [🖲️ IndexCSharp](🖲️%20IndexCSharp.md)
 
 * Um array posuí tamanho fixo
 * Quando declaramos um array com os seus valores pré setados, não precisamos definir seu tamanho, pois seu valor é fixo.
